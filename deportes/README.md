@@ -39,10 +39,14 @@ Tenemos disponible una cantidad ingente de datos, que creo que haría posible re
 
 La cuestión es: ¿pagarían los equipos de fútbol por este tipo de información?
 
-La única forma de saberlo es probarlo. Aquí veo dos opciones (las dos lean):
+***
+
+La única forma de saberlo es probarlo. Aquí veo dos opciones (las dos "lean"):
 
 1.- Preparar un informe con las debilidades y fortalezas de un equipo concreto, algo muy currado, e ir ofreciéndoselo a todos los futuros rivales una semana antes de cada partido, aunque sea gratis, a ver cómo responden.
 
 2.- No hacer el informe, pero ofrecerlo de todos modos. Así vemos el interés de los posibles clientes antes de ponernos a hacer nada.
 
 Me gusta más la opción 1, porque así vemos de qué somos capaces, y enseñar algo siempre es mejor que no enseñar nada, pero me valen las dos :)
+
+¿Qué opináis?
