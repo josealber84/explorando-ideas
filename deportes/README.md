@@ -7,16 +7,6 @@ http://www.astronomer.io/blog/data-in-basketball
 Me encanta esto :) :
 >[Take] the average possession of the Lakers. They were going to score .98 points every time they had a possession. [Yet] Kobe Bryant only shot the left handed pull up jumper at a 44 percent clip. So every time that he went left and shot that pull up jumper he was generating .88 points per possession. Well that’s a tenth of a point less than the average Laker possession. And so if I could make him do that time and time again which is a lot tougher to do than to say, I’m shaving off a tenth of a point every single time. I’m actually making him detrimental to his team.
 
---Carlos
-En cuanto al deporte y los datos tengo una enmienda a la totalidad que quiero plantearos. Para ello usare tres deportes, beisbol, baloncesto y futbol.
-Beisbol, en el que las estadisticas han funcionado, es un deporte muy estatico y muy repetivo. Un jugador lanza la bola siempre desde la misma posición y esta en bateada también siempre desde la misma posición. La unica variacion en el juego es cuantos corredores hay actualmente en las bases. Esta situacion se repetite durante todo el partido
-
-Baloncesto, en el que parece que las estadisticas estan funcionando, es un deporte menos estatico pero todavía repetitivo. Los jugadores lanzan desde distantas posiciones, se pasan el balon,... Pero sigue siendo repetitivo en el sentido de que las posesiones se repiten cada 24 segundos.
-
-Futbol, es posiblemente igual de poco estatico que el futbol..pero es mucho menos repetitivo. Con esto solo quiere hacer notar la complejidad de encontrar patrones en el futbol.
-
-
-
 ### Propuesta (¿qué opináis?)
 
 Propongo (para empezar) hacer algo parecido a lo que hacen en la NBA (lo que se comenta en el artículo anterior) pero centrándonos en equipos de fútbol españoles. El problema para hacer cosas en tiempo real es que esos datos valen dinero. Pero los datos a posteriori son gratis :) Y parece más sencillo empezar por ahí.
@@ -46,10 +36,6 @@ Tenemos disponible una cantidad ingente de datos, que creo que haría posible re
 - ¿Qué jugadores son los mejores en cada posición? ¿Cuáles son los más valiosos?
 - ¿A qué jugador debe fichar el equipo X para la posición Y?
 - ¿Qué jugador debe alinear el equipo X en la posición Y para maximizar las probabilidades de ganar al equipo Z?
-
-
--- Carlos
-He esta mirando los datos del AS y no se como podriamos descargarnoslos..vamos que de momento pongo en duda la disponibilidad de la cantidad ingente de datos :-). Pero suguro que conseguis sorprenderme
 
 
 La cuestión es: ¿pagarían los equipos de fútbol por este tipo de información?
