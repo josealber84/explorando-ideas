@@ -37,6 +37,7 @@ Tenemos disponible una cantidad ingente de datos, que creo que haría posible re
 - ¿A qué jugador debe fichar el equipo X para la posición Y?
 - ¿Qué jugador debe alinear el equipo X en la posición Y para maximizar las probabilidades de ganar al equipo Z?
 
+
 La cuestión es: ¿pagarían los equipos de fútbol por este tipo de información?
 
 ***

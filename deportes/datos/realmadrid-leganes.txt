@@ -1,0 +1,11250 @@
+00:00 Team set up | Event ID: 1
+Player position: 1, 2, 2, 3, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5
+Team kit: 239
+Team formation: 4
+Resume: 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Involved: 28411, 88483, 39563, 44989, 90152, 88477, 91651, 80209, 88482, 36903, 14937, 60025, 39790, 46525, 107593, 37055, 174292, 100180
+Captain: 39563
+Team player formation: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0, 0, 0, 0, 0, 0, 0
+Jersey number: 1, 2, 12, 8, 5, 6, 16, 22, 21, 11, 7, 10, 13, 15, 17, 19, 20, 23
+
+00:00 Team set up | Event ID: 1
+Involved: 89535, 112540, 171129, 87803, 89724, 88621, 183462, 59945, 131416, 111133, 109707, 120112, 86137, 55315, 116252, 40837, 76640, 90407
+Team formation: 4
+Team kit: 1668
+Jersey number: 13, 3, 15, 6, 5, 18, 19, 21, 8, 7, 11, 1, 9, 17, 20, 22, 23, 24
+Captain: 89724
+Team player formation: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0, 0, 0, 0, 0, 0, 0
+Player position: 1, 2, 2, 3, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5
+Resume: 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+00:00 Start | Event ID: 2
+Direction of play: Right to Left
+
+00:00 Start | Event ID: 2
+Direction of play: Left to Right
+
+00:01 Pass | Event ID: 3
+Pass End X: 35.4
+Angle: 2.9
+Zone: Back
+Pass End Y: 55.8
+Q279: S
+Length: 16.1
+
+00:02 Pass | Event ID: 4
+Pass End X: 31.8
+Pass End Y: 25.0
+Zone: Back
+Angle: 4.5
+Length: 21.4
+
+00:05 Pass | Event ID: 5
+Zone: Right
+Pass End X: 66.1
+Pass End Y: 2.5
+Angle: 5.9
+Chipped
+Long ball
+Length: 37.3
+
+00:07 Pass | Event ID: 6
+Head pass
+Pass End X: 61.4
+Length: 7.1
+Pass End Y: 11.0
+Zone: Right
+Angle: 2.3
+
+00:08 Pass | Event ID: 3
+Pass End X: 43.5
+Angle: 0.1
+Zone: Back
+Length: 4.2
+Pass End Y: 89.0
+
+00:09 Foul | Event ID: 4
+Hand
+Q233: 7
+Q152
+Q286
+Zone: Back
+
+00:09 Foul | Event ID: 7
+Q152
+Q285
+Zone: Right
+Q233: 4
+Hand
+
+00:13 Pass | Event ID: 5
+Zone: Back
+Q152
+Pass End Y: 59.3
+Length: 19.9
+Angle: 4.7
+Pass End X: 42.8
+Free kick taken
+
+00:15 Pass | Event ID: 6
+Angle: 4.7
+Length: 29.0
+Pass End Y: 16.7
+Pass End X: 41.4
+Zone: Back
+
+00:18 Pass | Event ID: 7
+Length: 12.7
+Angle: 2.5
+Pass End X: 34.9
+Zone: Back
+Pass End Y: 21.8
+
+00:21 Pass | Event ID: 8
+Pass End Y: 68.4
+Angle: 1.6
+Pass End X: 30.9
+Zone: Back
+Length: 29.0
+
+00:24 Pass | Event ID: 9
+Angle: 1.2
+Pass End Y: 90.9
+Zone: Back
+Pass End X: 37.3
+Length: 15.0
+
+00:27 Pass | Event ID: 10
+Pass End Y: 92.6
+Angle: 0.1
+Zone: Left
+Pass End X: 62.0
+Chipped
+Length: 25.4
+
+00:29 Pass | Event ID: 8
+Pass End Y: 11.4
+Pass End X: 43.0
+Angle: 0.5
+Zone: Back
+Length: 5.2
+
+00:30 Pass | Event ID: 11
+Length: 6.8
+Zone: Left
+Pass End X: 60.4
+Angle: 1.3
+Pass End Y: 95.7
+
+00:31 Ball touch | Event ID: 12
+Zone: Left
+
+00:32 Out | Event ID: 9
+Q233: 13
+Zone: Back
+
+00:32 Out | Event ID: 13
+Zone: Left
+Q233: 9
+
+00:41 Pass | Event ID: 10
+Pass End Y: 4.7
+Zone: Right
+Angle: 0.3
+Pass End X: 56.0
+Length: 17.0
+Throw-in
+
+00:43 Pass | Event ID: 14
+Head pass
+Zone: Back
+Pass End Y: 85.9
+Angle: 4.7
+Pass End X: 39.8
+Length: 6.9
+
+00:44 Ball recovery | Event ID: 15
+
+00:44 Pass | Event ID: 16
+Length: 11.2
+Zone: Back
+Pass End Y: 69.7
+Angle: 4.3
+Pass End X: 35.9
+
+00:48 Pass | Event ID: 17
+Length: 22.1
+Pass End X: 46.4
+Pass End Y: 28.2
+Angle: 5.3
+Zone: Back
+
+00:49 Ball recovery | Event ID: 11
+
+00:55 Pass | Event ID: 12
+Angle: 2.5
+Pass End Y: 76.7
+Zone: Center
+Pass End X: 68.3
+Length: 9.9
+
+00:57 Pass | Event ID: 13
+Pass End X: 78.2
+Pass End Y: 96.3
+Zone: Left
+Length: 15.8
+Angle: 0.9
+
+01:00 Pass | Event ID: 14
+Zone: Left
+Angle: 5.0
+Pass End X: 81.5
+Length: 12.0
+Pass End Y: 79.4
+
+01:02 Take On | Event ID: 15
+Zone: Center
+Overrun
+Q286
+
+01:03 Interception | Event ID: 18
+Zone: Back
+
+01:04 Ball touch | Event ID: 16
+Zone: Left
+
+01:06 Out | Event ID: 17
+Zone: Left
+Q233: 19
+
+01:06 Out | Event ID: 19
+Zone: Back
+Q233: 17
+
+01:14 Pass | Event ID: 20
+Zone: Back
+Length: 17.9
+Goal Kick
+Pass End X: 14.8
+Angle: 5.3
+Pass End Y: 15.5
+Q237
+
+01:15 Pass | Event ID: 21
+Pass End X: 26.6
+Zone: Back
+Length: 14.8
+Pass End Y: 3.7
+Angle: 5.7
+
+01:19 Pass | Event ID: 22
+Angle: 1.9
+Zone: Back
+Pass End Y: 33.0
+Pass End X: 28.9
+Length: 18.6
+
+01:20 Pass | Event ID: 23
+Zone: Back
+Pass End X: 26.9
+Angle: 4.3
+Length: 5.1
+Pass End Y: 26.2
+
+01:22 Pass | Event ID: 24
+Pass End X: 28.6
+Angle: 1.4
+Length: 31.2
+Zone: Back
+Pass End Y: 76.3
+
+01:25 Pass | Event ID: 25
+Zone: Back
+Pass End X: 40.6
+Angle: 0.9
+Length: 18.7
+Pass End Y: 97.1
+
+01:27 Pass | Event ID: 26
+Pass End Y: 77.8
+Zone: Back
+Pass End X: 32.2
+Angle: 4.1
+Length: 15.8
+
+01:30 Pass | Event ID: 27
+Pass End Y: 38.8
+Length: 26.3
+Angle: 4.6
+Zone: Back
+Pass End X: 30.1
+
+01:32 Pass | Event ID: 28
+Pass End Y: 5.0
+Angle: 4.9
+Pass End X: 34.6
+Length: 21.4
+Zone: Back
+
+01:35 Pass | Event ID: 29
+Angle: 0.5
+Zone: Center
+Pass End X: 58.5
+Length: 28.5
+Pass End Y: 26.1
+
+01:39 Ball recovery | Event ID: 18
+
+01:39 Pass | Event ID: 19
+Zone: Center
+Angle: 5.7
+Length: 16.2
+Pass End X: 66.6
+Assist
+Pass End Y: 59.0
+
+01:40 Miss | Event ID: 20
+Regular play
+Assisted
+Goal mouth z co-ordinate: 27.8
+Zone: Center
+Left
+Related event ID: 19
+Individual Play
+Right footed
+35+ centre
+Goal mouth y co-ordinate: 61.2
+
+01:43 Out | Event ID: 21
+Q233: 30
+Zone: Center
+
+01:43 Out | Event ID: 30
+Zone: Back
+Q233: 21
+
+01:55 Pass | Event ID: 31
+Zone: Back
+Long ball
+Q237
+Pass End Y: 84.8
+Length: 32.1
+Pass End X: 19.4
+Goal Kick
+Angle: 1.1
+
+01:56 Pass | Event ID: 32
+Pass End X: 23.6
+Long ball
+Length: 33.2
+Pass End Y: 36.6
+Chipped
+Angle: 4.6
+Zone: Back
+
+01:59 Pass | Event ID: 33
+Angle: 5.2
+Pass End Y: 5.2
+Zone: Back
+Length: 21.3
+Pass End X: 36.0
+
+02:02 Pass | Event ID: 34
+Zone: Back
+Length: 9.3
+Pass End Y: 4.6
+Pass End X: 47.4
+Angle: 0.0
+
+02:04 Dispossessed | Event ID: 35
+Zone: Back
+Q286
+Q233: 22
+
+02:04 Tackle | Event ID: 22
+Q233: 35
+Q285
+Zone: Left
+
+02:05 Ball recovery | Event ID: 23
+
+02:07 Pass | Event ID: 24
+Pass End Y: 87.2
+Angle: 5.0
+Pass End X: 67.7
+Zone: Left
+Length: 6.4
+
+02:09 Dispossessed | Event ID: 25
+Q286
+Q233: 36
+Zone: Left
+
+02:09 Tackle | Event ID: 36
+Zone: Back
+Q233: 25
+Q285
+
+02:10 Ball recovery | Event ID: 37
+
+02:11 Challenge | Event ID: 26
+Q285
+Zone: Center
+Q233: 38
+
+02:11 Take On | Event ID: 38
+Q286
+Zone: Back
+Q233: 26
+
+02:14 Pass | Event ID: 39
+Zone: Left
+Pass End Y: 90.5
+Pass End X: 53.3
+Angle: 1.6
+Length: 26.9
+
+02:20 Pass | Event ID: 40
+Pass End X: 77.1
+Chipped
+Zone: Center
+Long ball
+Length: 38.7
+Pass End Y: 37.3
+Angle: 5.0
+
+02:22 Aerial | Event ID: 27
+Q233: 41
+Zone: Back
+Q285
+
+02:22 Aerial | Event ID: 41
+Q286
+Zone: Center
+Q233: 27
+
+02:24 Pass | Event ID: 42
+Pass End Y: 38.0
+Pass End X: 71.0
+Zone: Center
+Length: 6.5
+Head pass
+Angle: 3.1
+
+02:26 Dispossessed | Event ID: 43
+Q286
+Q233: 28
+Zone: Center
+
+02:26 Tackle | Event ID: 28
+Q285
+Zone: Back
+Q233: 43
+
+02:28 Ball recovery | Event ID: 29
+
+02:28 Pass | Event ID: 30
+Pass End X: 3.6
+Zone: Back
+Angle: 4.4
+Pass End Y: 59.1
+Length: 13.1
+
+02:30 Pass | Event ID: 31
+Angle: 1.2
+Long ball
+Pass End Y: 100.0
+Length: 29.9
+Launch
+Pass End X: 13.3
+Zone: Back
+
+02:33 Out | Event ID: 32
+Zone: Back
+Q233: 44
+
+02:33 Out | Event ID: 44
+Q233: 32
+Zone: Right
+
+02:37 Pass | Event ID: 45
+Throw-in
+Pass End X: 80.5
+Length: 8.8
+Pass End Y: 11.6
+Zone: Right
+Angle: 1.6
+
+02:38 Pass | Event ID: 46
+Zone: Right
+Length: 5.8
+Pass End Y: 3.5
+Pass End X: 78.7
+Angle: 4.4
+
+02:39 Pass | Event ID: 47
+Zone: Right
+Pass End X: 57.1
+Pass End Y: 7.9
+Length: 22.9
+Angle: 3.0
+
+02:41 Pass | Event ID: 48
+Pass End X: 55.6
+Length: 12.5
+Pass End Y: 26.1
+Zone: Center
+Angle: 1.7
+
+02:42 Pass | Event ID: 49
+Angle: 2.1
+Pass End X: 45.6
+Length: 19.8
+Zone: Back
+Pass End Y: 50.7
+
+02:45 Pass | Event ID: 50
+Zone: Left
+Pass End Y: 90.6
+Pass End X: 54.1
+Angle: 1.3
+Length: 28.6
+
+02:47 Pass | Event ID: 51
+Length: 10.1
+Pass End Y: 81.4
+Zone: Left
+Angle: 5.8
+Pass End X: 62.8
+
+02:49 Dispossessed | Event ID: 52
+Q233: 33
+Zone: Left
+Q286
+
+02:49 Tackle | Event ID: 33
+Zone: Back
+Q233: 52
+Q285
+
+02:51 Ball recovery | Event ID: 34
+
+02:51 Pass | Event ID: 35
+Pass End Y: 45.4
+Zone: Back
+Pass End X: 27.8
+Angle: 2.1
+Length: 11.7
+
+02:54 Pass | Event ID: 36
+Zone: Back
+Pass End Y: 39.1
+Length: 22.3
+Pass End X: 7.0
+Angle: 3.3
+
+02:55 Pass | Event ID: 37
+Pass End X: 60.8
+Pass End Y: 3.5
+Launch
+Length: 60.4
+Angle: 5.9
+Long ball
+Zone: Right
+
+03:02 Pass | Event ID: 38
+Zone: Right
+Pass End Y: 3.4
+Pass End X: 64.6
+Angle: 6.2
+Length: 4.2
+
+03:04 Pass | Event ID: 39
+Pass End Y: 14.0
+Zone: Right
+Length: 7.1
+Pass End X: 70.8
+Angle: 1.2
+
+03:09 Pass | Event ID: 40
+Angle: 1.5
+Zone: Center
+Pass End Y: 61.4
+Pass End X: 74.0
+Length: 21.2
+
+03:10 Ball recovery | Event ID: 53
+
+03:10 Pass | Event ID: 54
+Pass End Y: 33.6
+Angle: 6.2
+Long ball
+Pass End X: 61.8
+Zone: Center
+Length: 38.2
+
+03:13 Ball recovery | Event ID: 41
+
+03:15 Pass | Event ID: 42
+Angle: 5.6
+Pass End X: 44.6
+Zone: Back
+Pass End Y: 64.0
+Length: 5.5
+
+03:17 Pass | Event ID: 43
+Length: 34.1
+Long ball
+Pass End X: 71.7
+Angle: 0.8
+Zone: Left
+Pass End Y: 100.0
+
+03:20 Out | Event ID: 44
+Zone: Left
+Q233: 55
+
+03:20 Out | Event ID: 55
+Q233: 44
+Zone: Back
+
+03:23 Pass | Event ID: 56
+Pass End Y: 10.3
+Pass End X: 35.1
+Length: 8.8
+Angle: 1.3
+Throw-in
+Zone: Back
+
+03:26 Pass | Event ID: 57
+Pass End Y: 60.0
+Pass End X: 26.8
+Length: 31.1
+Zone: Back
+Angle: 1.9
+
+03:29 Pass | Event ID: 58
+Pass End Y: 88.9
+Zone: Back
+Pass End X: 36.0
+Length: 21.3
+Angle: 1.1
+
+03:31 Pass | Event ID: 59
+Pass End Y: 74.4
+Zone: Back
+Angle: 4.5
+Length: 10.0
+Pass End X: 34.3
+
+03:34 Pass | Event ID: 60
+Pass End X: 32.8
+Angle: 4.8
+Pass End Y: 29.5
+Length: 24.3
+Zone: Back
+
+03:39 Pass | Event ID: 61
+Pass End X: 41.3
+Pass End Y: 4.4
+Angle: 5.2
+Length: 10.4
+Zone: Back
+
+03:41 Pass | Event ID: 62
+Pass End Y: 16.1
+Pass End X: 41.6
+Zone: Back
+Length: 8.0
+Angle: 1.5
+
+03:43 Ball recovery | Event ID: 45
+
+03:43 Pass | Event ID: 46
+Pass End Y: 86.3
+Pass End X: 56.6
+Length: 7.4
+Angle: 2.2
+Zone: Left
+
+03:44 Pass | Event ID: 47
+Zone: Left
+Angle: 0.5
+Pass End Y: 93.2
+Length: 10.4
+Pass End X: 65.7
+
+03:46 Ball touch | Event ID: 48
+Zone: Left
+
+03:47 Ball recovery | Event ID: 63
+
+03:47 Pass | Event ID: 64
+Length: 9.7
+Angle: 2.3
+Zone: Back
+Pass End X: 26.5
+Pass End Y: 27.1
+
+03:49 Pass | Event ID: 65
+Angle: 1.3
+Length: 26.8
+Zone: Back
+Pass End Y: 67.2
+Pass End X: 30.0
+
+03:51 Pass | Event ID: 66
+Pass End Y: 72.0
+Length: 15.1
+Angle: 0.2
+Zone: Back
+Pass End X: 44.0
+
+03:57 Pass | Event ID: 67
+Length: 7.3
+Pass End Y: 63.6
+Pass End X: 33.9
+Angle: 3.1
+Zone: Back
+
+03:59 Pass | Event ID: 68
+Zone: Back
+Pass End Y: 12.2
+Long ball
+Angle: 4.8
+Pass End X: 38.4
+Length: 34.8
+
+04:04 Pass | Event ID: 69
+Pass End X: 45.3
+Zone: Back
+Length: 10.1
+Angle: 0.9
+Pass End Y: 22.8
+
+04:06 Challenge | Event ID: 49
+Q233: 70
+Q285
+Zone: Back
+
+04:06 Take On | Event ID: 70
+Q233: 49
+Q286
+Zone: Center
+
+04:10 Pass | Event ID: 71
+Angle: 5.3
+Zone: Right
+Length: 10.8
+Pass End Y: 3.2
+Pass End X: 76.3
+
+04:14 Pass | Event ID: 72
+Pass End Y: 7.3
+Length: 8.7
+Zone: Right
+Pass End X: 68.9
+Angle: 2.8
+
+04:17 Pass | Event ID: 73
+Zone: Right
+Angle: 4.9
+Pass End Y: 3.8
+Length: 5.5
+Pass End X: 67.6
+
+04:20 Pass | Event ID: 74
+Zone: Right
+Length: 10.1
+Pass End X: 59.4
+Pass End Y: 10.7
+Angle: 2.7
+
+04:21 Pass | Event ID: 75
+Zone: Center
+Length: 11.8
+Angle: 2.1
+Pass End Y: 26.1
+Pass End X: 53.2
+
+04:23 Pass | Event ID: 76
+Pass End X: 54.5
+Zone: Center
+Length: 28.8
+Pass End Y: 68.4
+Angle: 1.5
+
+04:25 Pass | Event ID: 77
+Angle: 1.2
+Zone: Left
+Pass End X: 62.3
+Pass End Y: 95.4
+Length: 20.1
+
+04:28 Pass | Event ID: 78
+Angle: 4.0
+Length: 15.1
+Pass End Y: 78.4
+Pass End X: 53.3
+Zone: Center
+
+04:31 Pass | Event ID: 79
+Zone: Right
+Pass End X: 100.0
+Chipped
+Length: 62.6
+Pass End Y: 18.5
+Long ball
+Angle: 5.6
+
+04:34 Out | Event ID: 50
+Zone: Back
+Q233: 80
+
+04:34 Out | Event ID: 80
+Zone: Right
+Q233: 50
+
+04:58 Pass | Event ID: 51
+Zone: Back
+Goal Kick
+Pass End Y: 18.6
+Q237
+Angle: 5.1
+Length: 20.0
+Pass End X: 13.1
+
+05:03 Pass | Event ID: 52
+Length: 16.9
+Pass End Y: 25.3
+Angle: 0.2
+Pass End X: 28.5
+Zone: Back
+
+05:05 Pass | Event ID: 53
+Length: 14.0
+Angle: 4.9
+Zone: Back
+Pass End Y: 2.8
+Pass End X: 29.3
+
+05:08 Pass | Event ID: 54
+Angle: 3.1
+Pass End X: 15.5
+Length: 14.0
+Pass End Y: 4.4
+Zone: Back
+
+05:09 Pass | Event ID: 55
+Long ball
+Launch
+Angle: 6.3
+Pass End X: 43.2
+Zone: Back
+Pass End Y: 4.1
+Length: 29.2
+
+05:13 Pass | Event ID: 56
+Pass End X: 45.8
+Length: 13.0
+Pass End Y: 24.4
+Zone: Back
+Angle: 1.3
+
+05:14 Pass | Event ID: 57
+Pass End Y: 36.6
+Pass End X: 38.8
+Angle: 2.3
+Length: 11.1
+Zone: Back
+
+05:16 Pass | Event ID: 58
+Angle: 1.5
+Pass End Y: 93.0
+Zone: Back
+Length: 31.9
+Pass End X: 39.6
+
+05:20 Pass | Event ID: 59
+Pass End Y: 86.2
+Angle: 6.2
+Zone: Left
+Pass End X: 78.2
+Long ball
+Length: 34.4
+
+05:21 Ball recovery | Event ID: 81
+
+05:23 Pass | Event ID: 82
+Pass End Y: 41.2
+Zone: Back
+Length: 28.5
+Pass End X: 4.5
+Angle: 2.2
+
+05:26 Pass | Event ID: 83
+Pass End Y: 63.4
+Length: 19.9
+Angle: 0.9
+Pass End X: 18.4
+Zone: Back
+
+05:29 Pass | Event ID: 84
+Pass End X: 27.7
+Length: 12.9
+Angle: 5.6
+Zone: Back
+Pass End Y: 51.0
+
+05:31 Pass | Event ID: 85
+Angle: 5.1
+Pass End Y: 33.6
+Zone: Back
+Pass End X: 32.4
+Length: 12.9
+
+05:33 Pass | Event ID: 86
+Pass End Y: 28.3
+Lay-off
+Pass End X: 24.0
+Angle: 3.5
+Zone: Back
+Length: 9.7
+
+05:35 Pass | Event ID: 87
+Zone: Back
+Angle: 5.2
+Pass End X: 31.3
+Pass End Y: 4.7
+Length: 17.4
+
+05:39 Pass | Event ID: 88
+Pass End Y: 29.1
+Pass End X: 25.3
+Zone: Back
+Length: 17.6
+Angle: 2.0
+
+05:41 Pass | Event ID: 89
+Pass End Y: 78.5
+Zone: Back
+Length: 33.7
+Long ball
+Pass End X: 31.6
+Angle: 1.4
+
+05:44 Pass | Event ID: 90
+Length: 13.9
+Angle: 1.0
+Pass End Y: 97.1
+Zone: Back
+Pass End X: 43.3
+
+05:48 Pass | Event ID: 91
+Length: 37.2
+Zone: Back
+Pass End X: 31.3
+Angle: 4.3
+Long ball
+Pass End Y: 36.6
+
+05:51 Pass | Event ID: 92
+Zone: Back
+Pass End Y: 4.6
+Angle: 5.1
+Pass End X: 40.0
+Length: 22.1
+
+05:54 Pass | Event ID: 93
+Length: 13.7
+Pass End Y: 24.0
+Zone: Back
+Angle: 1.5
+Pass End X: 43.2
+
+05:57 Pass | Event ID: 94
+Zone: Back
+Pass End Y: 23.3
+Pass End X: 37.3
+Length: 7.2
+Angle: 3.8
+
+06:00 Pass | Event ID: 95
+Pass End X: 33.9
+Long ball
+Pass End Y: 74.4
+Angle: 1.7
+Zone: Back
+Length: 36.8
+
+06:04 Pass | Event ID: 96
+Length: 25.1
+Pass End X: 57.8
+Zone: Center
+Pass End Y: 75.1
+Angle: 0.0
+
+06:06 Interception | Event ID: 60
+Zone: Back
+
+06:08 Deleted event | Event ID: 97
+Zone: Center
+Deleted event type: 61
+
+06:08 Ball recovery | Event ID: 61
+
+06:09 Take On | Event ID: 62
+Zone: Right
+Q233: 98
+Q286
+
+06:09 Challenge | Event ID: 98
+Zone: Back
+Q285
+Q233: 62
+
+06:11 Take On | Event ID: 63
+Q233: 99
+Zone: Center
+Q286
+
+06:11 Challenge | Event ID: 99
+Zone: Back
+Q233: 63
+Q285
+
+06:12 Take On | Event ID: 64
+Q233: 100
+Zone: Center
+Q286
+
+06:12 Tackle | Event ID: 100
+Q233: 64
+Zone: Back
+Q285
+
+06:14 Ball recovery | Event ID: 101
+
+06:16 Clearance | Event ID: 102
+Pass End X: 18.2
+Length: 20.2
+Pass End Y: 100.0
+Out of play
+Zone: Back
+Angle: 0.6
+
+06:17 Out | Event ID: 65
+Zone: Right
+Q233: 103
+
+06:17 Out | Event ID: 103
+Zone: Back
+Q233: 65
+
+06:36 Pass | Event ID: 66
+Pass End X: 91.6
+Angle: 1.2
+Length: 22.3
+Zone: Center
+Long ball
+Throw-in
+Pass End Y: 28.2
+
+06:39 Clearance | Event ID: 105
+Pass End X: 15.7
+Angle: 0.9
+Pass End Y: 80.2
+Length: 11.7
+Zone: Back
+
+06:39 Aerial | Event ID: 67
+Q233: 104
+Q286
+Zone: Center
+
+06:39 Aerial | Event ID: 104
+Q233: 67
+Zone: Back
+Q285
+
+06:42 Pass | Event ID: 106
+Pass End Y: 88.3
+Angle: 0.4
+Pass End X: 44.6
+Zone: Back
+Long ball
+Launch
+Length: 32.5
+
+06:45 Interception | Event ID: 68
+Zone: Right
+
+06:49 Pass | Event ID: 69
+Length: 12.9
+Pass End Y: 39.2
+Angle: 1.0
+Zone: Back
+Pass End X: 41.1
+
+06:52 Pass | Event ID: 70
+Pass End Y: 90.3
+Pass End X: 46.1
+Angle: 1.5
+Zone: Back
+Length: 29.1
+
+06:56 Pass | Event ID: 71
+Zone: Back
+Pass End Y: 72.3
+Angle: 4.1
+Length: 14.7
+Pass End X: 38.4
+
+07:00 Pass | Event ID: 72
+Zone: Left
+Length: 28.3
+Pass End X: 64.6
+Angle: 0.5
+Pass End Y: 96.8
+
+07:02 Pass | Event ID: 73
+Length: 5.0
+Pass End Y: 90.9
+Zone: Left
+Pass End X: 61.8
+Angle: 4.1
+
+07:05 Pass | Event ID: 74
+Zone: Left
+Pass End Y: 87.7
+Pass End X: 61.0
+Length: 5.4
+Angle: 3.1
+
+07:07 Pass | Event ID: 107
+Length: 15.0
+Zone: Back
+Angle: 2.2
+Pass End Y: 33.6
+Pass End X: 37.8
+
+07:09 Ball recovery | Event ID: 108
+
+07:10 Pass | Event ID: 109
+Pass End Y: 82.1
+Length: 41.4
+Zone: Left
+Long ball
+Chipped
+Angle: 0.8
+Pass End X: 63.5
+
+07:13 Foul | Event ID: 75
+Q285
+Q152
+Zone: Back
+Foul
+Q233: 110
+Q265
+
+07:13 Foul | Event ID: 110
+Zone: Left
+Q233: 75
+Q286
+Q265
+Foul
+Q152
+
+07:25 Card | Event ID: 76
+Foul: 243
+Yellow Card
+
+08:01 Pass | Event ID: 111
+Pass End Y: 49.4
+Chipped
+Pass End X: 90.1
+Zone: Center
+Length: 43.6
+Angle: 5.6
+Q152
+Free kick taken
+Long ball
+
+08:02 Aerial | Event ID: 80
+Q233: 112
+Zone: Back
+Q285
+
+08:02 Aerial | Event ID: 112
+Zone: Center
+Q233: 80
+Q286
+
+08:03 Clearance | Event ID: 77
+Pass End Y: 54.0
+Head
+Pass End X: 15.4
+Length: 9.1
+Zone: Back
+Angle: 0.9
+
+08:06 Deleted event | Event ID: 78
+Deleted event type: 49
+
+08:06 Clearance | Event ID: 79
+Length: 90.9
+Angle: 0.1
+Pass End Y: 85.4
+Pass End X: 95.3
+Zone: Left
+
+08:19 Pass | Event ID: 113
+Pass End Y: 4.3
+Pass End X: 32.5
+Angle: 5.4
+Length: 21.9
+Zone: Back
+
+08:24 Pass | Event ID: 114
+Zone: Center
+Length: 56.8
+Chipped
+Pass End Y: 34.6
+Pass End X: 86.5
+Long ball
+Angle: 0.4
+
+08:28 Keeper pick-up | Event ID: 81
+
+08:41 Pass | Event ID: 82
+Angle: 6.1
+Launch
+Length: 41.9
+Pass End Y: 34.8
+Long ball
+Pass End X: 56.9
+Zone: Center
+GK hoof
+
+08:44 Aerial | Event ID: 83
+Zone: Center
+Q286
+Q233: 115
+
+08:44 Aerial | Event ID: 115
+Zone: Back
+Q233: 83
+Q285
+
+08:45 Pass | Event ID: 116
+Pass End Y: 48.8
+Zone: Center
+Angle: 5.9
+Length: 14.7
+Pass End X: 51.0
+Head pass
+
+08:47 Pass | Event ID: 84
+Length: 27.1
+Angle: 0.9
+Pass End X: 64.2
+Zone: Center
+Pass End Y: 78.5
+Head pass
+
+08:49 Pass | Event ID: 117
+Head pass
+Length: 9.7
+Pass End Y: 25.5
+Angle: 2.8
+Pass End X: 35.8
+Zone: Back
+
+08:50 Ball recovery | Event ID: 118
+
+08:51 Pass | Event ID: 119
+Angle: 0.7
+Pass End Y: 29.7
+Zone: Back
+Pass End X: 39.0
+Length: 5.0
+
+08:55 Dispossessed | Event ID: 120
+Q233: 85
+Zone: Back
+Q286
+
+08:55 Tackle | Event ID: 85
+Q233: 120
+Q285
+Zone: Center
+
+08:56 Pass | Event ID: 86
+Pass End X: 72.9
+Angle: 0.4
+Q286
+Q236
+Zone: Center
+Pass End Y: 73.6
+Length: 5.1
+Q233: 121
+
+08:56 Blocked pass | Event ID: 121
+Q285
+Zone: Back
+Q233: 86
+
+08:58 Pass | Event ID: 122
+Pass End X: 29.9
+Length: 20.4
+Angle: 1.8
+Zone: Back
+Pass End Y: 58.1
+
+09:00 Pass | Event ID: 123
+Angle: 1.0
+Pass End Y: 95.6
+Pass End X: 45.8
+Length: 30.5
+Zone: Back
+
+09:03 Pass | Event ID: 124
+Zone: Back
+Length: 6.4
+Angle: 3.3
+Pass End Y: 94.2
+Pass End X: 39.9
+
+09:05 Pass | Event ID: 125
+Zone: Back
+Pass End Y: 97.4
+Angle: 0.3
+Pass End X: 46.6
+Length: 7.4
+
+09:06 Pass | Event ID: 126
+Length: 19.6
+Pass End X: 38.5
+Angle: 4.3
+Pass End Y: 71.5
+Zone: Back
+
+09:08 Pass | Event ID: 127
+Pass End X: 32.6
+Pass End Y: 40.0
+Angle: 4.4
+Zone: Back
+Length: 22.3
+
+09:11 Pass | Event ID: 128
+Angle: 5.7
+Length: 16.8
+Pass End Y: 25.5
+Zone: Back
+Pass End X: 46.7
+
+09:14 Pass | Event ID: 129
+Pass End X: 44.9
+Angle: 1.9
+Pass End Y: 33.9
+Zone: Back
+Length: 6.0
+
+09:16 Pass | Event ID: 130
+Pass End X: 55.1
+Pass End Y: 10.1
+Length: 11.7
+Zone: Right
+Angle: 5.0
+
+09:19 Pass | Event ID: 131
+Zone: Back
+Pass End Y: 32.4
+Length: 18.1
+Angle: 2.5
+Pass End X: 45.3
+
+09:21 Pass | Event ID: 132
+Pass End X: 45.1
+Zone: Back
+Length: 16.3
+Pass End Y: 56.3
+Angle: 1.6
+
+09:24 Pass | Event ID: 133
+Zone: Center
+Pass End X: 63.4
+Angle: 5.5
+Length: 17.6
+Pass End Y: 25.3
+
+09:27 Pass | Event ID: 134
+Pass End X: 73.5
+Angle: 5.4
+Length: 17.6
+Pass End Y: 4.7
+Zone: Right
+
+09:29 Pass | Event ID: 135
+Zone: Right
+Angle: 1.6
+Length: 5.0
+Pass End Y: 12.0
+Pass End X: 73.3
+
+09:30 Pass | Event ID: 136
+Length: 8.6
+Zone: Right
+Pass End X: 65.6
+Pass End Y: 7.7
+Angle: 3.5
+
+09:32 Pass | Event ID: 137
+Pass End X: 73.9
+Chipped
+Length: 41.8
+Zone: Center
+Pass End Y: 69.1
+Long ball
+Angle: 1.3
+
+09:35 Ball recovery | Event ID: 87
+
+09:35 Pass | Event ID: 88
+Length: 10.3
+Pass End Y: 42.1
+Angle: 1.1
+Pass End X: 41.7
+Zone: Back
+
+09:38 Pass | Event ID: 89
+Length: 5.3
+Angle: 4.0
+Pass End Y: 30.9
+Pass End X: 39.1
+Zone: Back
+
+09:39 Pass | Event ID: 90
+Pass End Y: 17.4
+Angle: 4.1
+Length: 11.2
+Zone: Back
+Pass End X: 33.0
+
+09:42 Pass | Event ID: 91
+Pass End X: 45.9
+Pass End Y: 2.9
+Length: 15.1
+Angle: 5.7
+Zone: Back
+
+09:43 Pass | Event ID: 92
+Length: 5.5
+Zone: Back
+Angle: 1.1
+Pass End Y: 10.1
+Pass End X: 48.2
+
+09:44 Interception | Event ID: 138
+Zone: Left
+
+09:46 Pass | Event ID: 93
+Length: 5.0
+Zone: Right
+Pass End X: 57.0
+Pass End Y: 4.9
+Angle: 3.2
+
+09:47 Ball touch | Event ID: 139
+Zone: Back
+
+09:48 Ball touch | Event ID: 95
+Zone: Right
+
+09:49 Out | Event ID: 94
+Q233: 140
+Zone: Right
+
+09:49 Out | Event ID: 140
+Zone: Back
+Q233: 94
+
+09:53 Pass | Event ID: 141
+Length: 10.4
+Pass End Y: 89.7
+Angle: 4.1
+Pass End X: 37.5
+Throw-in
+Zone: Back
+
+09:55 Pass | Event ID: 142
+Angle: 5.1
+Pass End Y: 74.2
+Zone: Back
+Length: 10.7
+Pass End X: 40.7
+
+09:56 Pass | Event ID: 143
+Angle: 4.2
+Length: 18.3
+Pass End X: 32.4
+Zone: Back
+Pass End Y: 50.4
+
+10:00 Pass | Event ID: 144
+Pass End X: 39.3
+Zone: Back
+Length: 22.1
+Pass End Y: 8.3
+Angle: 4.9
+
+10:04 Pass | Event ID: 145
+Pass End Y: 32.2
+Zone: Back
+Length: 18.0
+Pass End X: 32.7
+Angle: 2.0
+
+10:06 Pass | Event ID: 146
+Pass End Y: 70.5
+Pass End X: 33.3
+Length: 25.1
+Angle: 1.5
+Zone: Back
+
+10:09 Pass | Event ID: 147
+Pass End X: 41.6
+Angle: 0.9
+Length: 14.1
+Pass End Y: 86.8
+Zone: Back
+
+10:11 Pass | Event ID: 148
+Zone: Back
+Angle: 0.8
+Pass End Y: 96.2
+Length: 8.9
+Pass End X: 47.8
+
+10:13 Pass | Event ID: 149
+Pass End X: 36.0
+Length: 11.6
+Zone: Back
+Pass End Y: 90.8
+Angle: 3.4
+
+10:15 Pass | Event ID: 150
+Pass End Y: 39.4
+Long ball
+Angle: 4.6
+Zone: Back
+Length: 34.5
+Pass End X: 33.6
+
+10:20 Pass | Event ID: 151
+Angle: 1.6
+Pass End X: 33.8
+Zone: Back
+Length: 19.0
+Pass End Y: 64.8
+
+10:24 Pass | Event ID: 152
+Angle: 4.6
+Zone: Back
+Pass End X: 35.6
+Pass End Y: 36.7
+Length: 18.1
+
+10:26 Pass | Event ID: 153
+Zone: Right
+Pass End X: 54.3
+Angle: 5.5
+Length: 28.5
+Pass End Y: 6.1
+
+10:30 Pass | Event ID: 154
+Length: 10.2
+Angle: 2.9
+Pass End X: 45.9
+Pass End Y: 9.8
+Zone: Back
+
+10:31 Pass | Event ID: 155
+Pass End Y: 14.4
+Length: 14.1
+Pass End X: 59.0
+Angle: 0.2
+Zone: Right
+
+10:33 Pass | Event ID: 156
+Pass End Y: 19.8
+Length: 6.1
+Zone: Right
+Angle: 2.5
+Lay-off
+Pass End X: 54.4
+
+10:35 Challenge | Event ID: 96
+Q285
+Zone: Back
+Q233: 157
+
+10:35 Take On | Event ID: 157
+Q286
+Q233: 96
+Zone: Center
+
+10:36 Pass | Event ID: 158
+Length: 8.7
+Zone: Center
+Pass End X: 76.0
+Angle: 5.9
+Pass End Y: 24.6
+
+10:37 Ball recovery | Event ID: 97
+
+10:38 Pass | Event ID: 98
+Length: 8.9
+Pass End X: 34.9
+Zone: Back
+Angle: 0.6
+Pass End Y: 72.1
+
+10:40 Pass | Event ID: 99
+Angle: 5.1
+Pass End X: 38.2
+Zone: Back
+Pass End Y: 53.7
+Length: 9.5
+
+10:42 Pass | Event ID: 100
+Pass End Y: 43.3
+Pass End X: 14.2
+Zone: Back
+Angle: 3.4
+Length: 25.1
+
+10:46 Pass | Event ID: 101
+Angle: 5.5
+Pass End X: 40.1
+Pass End Y: 6.2
+Length: 38.1
+Long ball
+Zone: Back
+
+10:50 Pass | Event ID: 102
+Length: 20.9
+Angle: 0.4
+Pass End X: 59.9
+Zone: Right
+Pass End Y: 15.3
+
+10:52 Pass | Event ID: 103
+Angle: 0.3
+Pass End Y: 24.9
+Pass End X: 80.2
+Length: 22.3
+Zone: Center
+
+10:54 Ball recovery | Event ID: 159
+
+10:58 Pass | Event ID: 160
+Pass End Y: 42.5
+Angle: 4.9
+Zone: Back
+Pass End X: 27.6
+Length: 18.7
+
+11:02 Pass | Event ID: 161
+Pass End Y: 5.9
+Zone: Back
+Pass End X: 37.2
+Length: 10.2
+Angle: 4.9
+
+11:05 Pass | Event ID: 162
+Zone: Back
+Pass End X: 34.5
+Pass End Y: 19.7
+Length: 11.2
+Angle: 2.2
+
+11:08 Pass | Event ID: 163
+Length: 30.6
+Pass End Y: 66.9
+Pass End X: 33.8
+Zone: Back
+Angle: 1.6
+
+11:10 Pass | Event ID: 164
+Pass End Y: 82.9
+Zone: Back
+Angle: 1.1
+Pass End X: 40.4
+Length: 12.9
+
+11:12 Pass | Event ID: 165
+Zone: Back
+Length: 7.1
+Pass End X: 46.8
+Pass End Y: 75.7
+Angle: 5.6
+
+11:15 Pass | Event ID: 166
+Pass End Y: 75.0
+Pass End X: 39.2
+Zone: Back
+Length: 8.0
+Angle: 3.2
+
+11:19 Pass | Event ID: 167
+Pass End Y: 74.4
+Length: 17.1
+Pass End X: 56.9
+Angle: 6.1
+Zone: Center
+
+11:22 Interception | Event ID: 104
+Zone: Right
+
+11:23 Ball touch | Event ID: 180
+Zone: Back
+
+11:24 Ball recovery | Event ID: 105
+
+11:25 Take On | Event ID: 106
+Zone: Right
+Q286
+Q233: 168
+
+11:25 Challenge | Event ID: 168
+Zone: Back
+Q285
+Q233: 106
+
+11:27 Pass | Event ID: 107
+Pass End X: 43.7
+Length: 16.1
+Zone: Back
+Angle: 3.2
+Pass End Y: 9.2
+
+11:28 Pass | Event ID: 108
+Angle: 1.6
+Pass End X: 43.6
+Pass End Y: 20.3
+Length: 7.5
+Zone: Back
+
+11:30 Take On | Event ID: 109
+Zone: Back
+Q286
+Overrun
+
+11:32 Foul | Event ID: 110
+Q152
+Q233: 169
+Zone: Back
+Q265
+Foul
+Q285
+
+11:32 Foul | Event ID: 169
+Q265
+Q286
+Q233: 110
+Zone: Center
+Foul
+Q152
+
+11:49 Pass | Event ID: 170
+Q152
+Length: 6.5
+Pass End Y: 63.5
+Zone: Center
+Free kick taken
+Angle: 4.4
+Pass End X: 55.0
+
+11:50 Pass | Event ID: 171
+Zone: Center
+Angle: 1.7
+Pass End X: 55.5
+Length: 6.0
+Pass End Y: 77.5
+
+11:51 Pass | Event ID: 172
+Pass End X: 54.3
+Angle: 4.6
+Length: 8.3
+Zone: Center
+Pass End Y: 65.4
+
+11:52 Interception | Event ID: 111
+Zone: Back
+
+11:54 Pass | Event ID: 173
+Pass End Y: 31.0
+Length: 16.7
+Angle: 5.5
+Zone: Center
+Pass End X: 57.5
+
+11:56 Pass | Event ID: 174
+Pass End X: 45.6
+Pass End Y: 15.3
+Length: 16.4
+Zone: Back
+Lay-off
+Angle: 3.8
+
+11:58 Pass | Event ID: 175
+Angle: 1.7
+Length: 26.1
+Pass End X: 38.3
+Zone: Back
+Pass End Y: 57.0
+
+12:05 Pass | Event ID: 176
+Zone: Back
+Length: 11.9
+Pass End Y: 66.3
+Angle: 2.4
+Pass End X: 46.9
+
+12:08 Pass | Event ID: 177
+Zone: Back
+Pass End Y: 32.1
+Angle: 4.7
+Pass End X: 46.3
+Length: 22.3
+
+12:13 Pass | Event ID: 178
+Zone: Center
+Length: 47.2
+Pass End X: 100.0
+Angle: 0.1
+Long ball
+Chipped
+Pass End Y: 23.1
+
+12:17 Out | Event ID: 112
+Q233: 179
+Zone: Back
+
+12:17 Out | Event ID: 179
+Zone: Center
+Q233: 112
+
+12:43 Pass | Event ID: 113
+Long ball
+Pass End X: 47.8
+Angle: 5.7
+Goal Kick
+Pass End Y: 4.1
+Zone: Back
+High
+Length: 53.8
+
+12:48 Aerial | Event ID: 114
+Q233: 181
+Zone: Back
+Q285
+
+12:48 Aerial | Event ID: 181
+Q233: 114
+Q286
+Zone: Left
+
+12:48 Pass | Event ID: 182
+Angle: 5.2
+Head pass
+Pass End X: 55.8
+Pass End Y: 90.9
+Length: 4.3
+Zone: Left
+
+12:49 Pass | Event ID: 115
+Chipped
+Pass End Y: 23.3
+Pass End X: 90.2
+Long ball
+Length: 46.0
+Angle: 0.3
+Zone: Center
+
+12:53 Ball recovery | Event ID: 183
+
+12:54 Pass | Event ID: 184
+Pass End X: 24.1
+Length: 28.2
+Zone: Back
+Angle: 5.1
+Pass End Y: 35.7
+
+12:57 Pass | Event ID: 185
+Pass End X: 36.3
+Angle: 5.3
+Pass End Y: 4.6
+Length: 19.1
+Zone: Back
+
+13:02 Pass | Event ID: 186
+Pass End Y: 32.5
+Zone: Back
+Pass End X: 31.8
+Length: 19.9
+Angle: 1.9
+
+13:04 Pass | Event ID: 187
+Angle: 1.4
+Length: 26.4
+Pass End X: 33.5
+Pass End Y: 76.9
+Zone: Back
+
+13:07 Pass | Event ID: 188
+Pass End Y: 96.0
+Angle: 1.1
+Zone: Back
+Pass End X: 41.1
+Length: 15.1
+
+13:10 Pass | Event ID: 189
+Angle: 3.9
+Length: 19.0
+Pass End X: 28.4
+Zone: Back
+Pass End Y: 73.6
+
+13:13 Pass | Event ID: 190
+Pass End Y: 35.7
+Angle: 4.9
+Zone: Back
+Pass End X: 33.0
+Length: 21.8
+
+13:17 Pass | Event ID: 191
+Pass End X: 42.0
+Pass End Y: 11.4
+Angle: 5.3
+Zone: Back
+Length: 6.5
+
+13:19 Pass | Event ID: 192
+Angle: 2.2
+Pass End X: 38.6
+Length: 9.6
+Zone: Back
+Pass End Y: 21.5
+
+13:21 Pass | Event ID: 193
+Length: 23.9
+Angle: 1.5
+Pass End Y: 61.8
+Zone: Back
+Pass End X: 41.0
+
+13:26 Pass | Event ID: 194
+Zone: Right
+Pass End X: 80.1
+Long ball
+Pass End Y: 5.6
+Length: 49.8
+Chipped
+Angle: 5.5
+
+13:32 Pass | Event ID: 195
+Length: 10.6
+Pass End Y: 25.6
+Zone: Center
+Pass End X: 80.9
+Angle: 1.5
+
+13:33 Ball touch | Event ID: 196
+Zone: Center
+
+13:34 Ball recovery | Event ID: 116
+
+13:37 Pass | Event ID: 117
+Pass End Y: 100.0
+Zone: Left
+Pass End X: 67.5
+Long ball
+Angle: 0.7
+Length: 44.2
+
+13:40 Out | Event ID: 118
+Q233: 197
+Zone: Left
+
+13:40 Out | Event ID: 197
+Q233: 118
+Zone: Back
+
+13:45 Pass | Event ID: 198
+Pass End X: 40.9
+Throw-in
+Angle: 1.6
+Length: 11.5
+Pass End Y: 14.9
+Zone: Back
+
+13:51 Pass | Event ID: 199
+Angle: 2.0
+Zone: Back
+Pass End X: 34.1
+Pass End Y: 62.0
+Length: 25.9
+
+13:52 Pass | Event ID: 200
+Zone: Back
+Length: 18.8
+Angle: 1.1
+Pass End Y: 87.1
+Pass End X: 41.7
+
+13:55 Pass | Event ID: 201
+Pass End Y: 93.9
+Zone: Left
+Long ball
+Pass End X: 74.1
+Chipped
+Angle: 0.1
+Length: 33.8
+
+13:59 Interception | Event ID: 119
+Zone: Back
+
+14:00 Out | Event ID: 120
+Q233: 202
+Zone: Back
+
+14:00 Out | Event ID: 202
+Q233: 120
+Zone: Left
+
+14:07 Pass | Event ID: 203
+Pass End X: 68.8
+Throw-in
+Pass End Y: 96.0
+Length: 9.4
+Zone: Left
+Angle: 3.6
+
+14:09 Pass | Event ID: 204
+Angle: 4.4
+Zone: Center
+Length: 29.5
+Pass End Y: 52.7
+Pass End X: 58.5
+
+14:12 Pass | Event ID: 205
+Angle: 5.1
+Zone: Right
+Length: 29.4
+Pass End Y: 7.4
+Pass End X: 66.4
+
+14:16 Pass | Event ID: 206
+Pass End X: 61.4
+Length: 12.7
+Angle: 2.6
+Pass End Y: 15.3
+Zone: Right
+
+14:19 Pass | Event ID: 207
+Zone: Center
+Angle: 1.6
+Pass End Y: 33.3
+Length: 6.3
+Pass End X: 64.4
+
+14:21 Pass | Event ID: 208
+Pass End X: 70.0
+Pass End Y: 46.0
+Angle: 1.0
+Zone: Center
+Length: 10.4
+
+14:22 Pass | Event ID: 209
+Zone: Left
+Pass End X: 53.9
+Angle: 2.0
+Long ball
+Length: 38.3
+Pass End Y: 96.5
+
+14:27 Pass | Event ID: 210
+Pass End Y: 88.7
+Length: 5.3
+Pass End X: 53.9
+Angle: 4.7
+Zone: Left
+
+14:28 Pass | Event ID: 211
+Zone: Left
+Pass End X: 65.5
+Pass End Y: 80.3
+Angle: 5.8
+Length: 13.5
+
+14:32 Take On | Event ID: 212
+Q233: 121
+Q286
+Zone: Center
+
+14:32 Tackle | Event ID: 121
+Zone: Back
+Q285
+Q233: 212
+
+14:34 Ball recovery | Event ID: 122
+
+14:34 Pass | Event ID: 123
+Zone: Back
+Angle: 0.2
+Pass End X: 48.1
+Length: 9.5
+Pass End Y: 19.4
+
+14:35 Pass | Event ID: 124
+Zone: Back
+Pass End X: 48.3
+Length: 6.6
+Pass End Y: 11.9
+Angle: 4.6
+
+14:39 Interception | Event ID: 213
+Zone: Left
+
+14:40 Pass | Event ID: 126
+Pass End X: 53.8
+Angle: 5.5
+Zone: Right
+Length: 11.0
+Pass End Y: 2.7
+
+14:45 Pass | Event ID: 127
+Pass End Y: 48.2
+Length: 25.0
+Zone: Center
+Cross
+Angle: 1.3
+Pass End X: 86.4
+
+14:46 Clearance | Event ID: 214
+Pass End Y: 77.5
+Pass End X: 29.5
+Angle: 0.9
+Length: 26.0
+Zone: Back
+
+14:48 Pass | Event ID: 128
+Pass End Y: 16.4
+Zone: Right
+Angle: 0.9
+Length: 2.0
+Pass End X: 73.6
+
+14:49 Pass | Event ID: 129
+Angle: 5.6
+Pass End Y: 6.1
+Length: 14.0
+Pass End X: 85.2
+Zone: Right
+
+14:52 Pass | Event ID: 130
+Zone: Center
+Pass End Y: 47.6
+Angle: 1.4
+Chipped
+Pass End X: 92.3
+Cross
+Length: 26.7
+
+14:56 Keeper pick-up | Event ID: 215
+
+14:57 Pass | Event ID: 216
+Keeper Throw
+Zone: Back
+Angle: 5.5
+Long ball
+Length: 33.1
+Pass End Y: 13.4
+Pass End X: 30.1
+
+15:05 Pass | Event ID: 217
+Pass End Y: 8.8
+Angle: 6.3
+Zone: Right
+Chipped
+Length: 10.8
+Pass End X: 69.0
+
+15:06 Interception | Event ID: 132
+Zone: Back
+Head
+
+15:07 Ball recovery | Event ID: 133
+
+15:08 Pass | Event ID: 134
+Pass End Y: 77.6
+Angle: 3.9
+Zone: Back
+Pass End X: 35.7
+Length: 10.7
+
+15:09 Pass | Event ID: 135
+Length: 7.3
+Chipped
+Pass End Y: 79.9
+Angle: 0.1
+Zone: Back
+Pass End X: 41.2
+
+15:12 Ball recovery | Event ID: 218
+
+15:12 Pass | Event ID: 219
+Zone: Right
+Angle: 5.9
+Pass End Y: 4.0
+Pass End X: 76.2
+Length: 9.8
+
+15:16 Pass | Event ID: 220
+Zone: Right
+Pass End X: 57.6
+Length: 16.0
+Pass End Y: 9.4
+Angle: 3.1
+
+15:18 Pass | Event ID: 221
+Pass End X: 54.5
+Length: 26.7
+Zone: Center
+Pass End Y: 48.4
+Angle: 1.7
+
+15:20 Pass | Event ID: 222
+Pass End X: 56.7
+Length: 29.3
+Pass End Y: 91.4
+Zone: Left
+Angle: 1.5
+
+15:23 Pass | Event ID: 223
+Zone: Left
+Pass End X: 63.2
+Length: 6.8
+Angle: 5.4
+Pass End Y: 83.5
+
+15:26 Pass | Event ID: 224
+Angle: 6.1
+Length: 12.9
+Pass End X: 78.6
+Zone: Center
+Pass End Y: 78.5
+
+15:27 Ball recovery | Event ID: 136
+
+15:27 Pass | Event ID: 137
+Pass End X: 40.1
+Length: 13.9
+Zone: Back
+Angle: 0.0
+Pass End Y: 21.0
+
+15:28 Pass | Event ID: 729
+Pass End X: 34.9
+Pass End Y: 16.4
+Zone: Back
+Angle: 0.2
+Length: 4.8
+
+15:29 Pass | Event ID: 138
+Length: 15.1
+Pass End Y: 0.0
+Angle: 4.8
+Zone: Back
+Pass End X: 40.9
+
+15:30 Out | Event ID: 139
+Q233: 225
+Zone: Back
+
+15:30 Out | Event ID: 225
+Zone: Left
+Q233: 139
+
+15:41 Pass | Event ID: 226
+Length: 27.4
+Zone: Back
+Throw-in
+Pass End Y: 74.8
+Long ball
+Angle: 3.9
+Pass End X: 46.6
+
+15:42 Pass | Event ID: 227
+Pass End Y: 32.7
+Pass End X: 46.2
+Length: 28.6
+Angle: 4.7
+Zone: Back
+
+15:44 Pass | Event ID: 228
+Length: 23.2
+Zone: Right
+Angle: 5.3
+Pass End X: 58.2
+Pass End Y: 4.0
+
+15:46 Pass | Event ID: 229
+Length: 12.0
+Pass End X: 47.4
+Zone: Back
+Angle: 2.7
+Pass End Y: 13.5
+
+15:48 Pass | Event ID: 230
+Pass End Y: 59.1
+Pass End X: 43.6
+Zone: Back
+Length: 28.8
+Angle: 1.7
+
+15:51 Pass | Event ID: 231
+Pass End Y: 80.9
+Pass End X: 46.6
+Zone: Back
+Angle: 1.4
+Length: 15.4
+
+15:54 Pass | Event ID: 232
+Pass End X: 45.8
+Angle: 4.7
+Zone: Back
+Length: 39.1
+Pass End Y: 23.1
+Long ball
+
+15:59 Pass | Event ID: 233
+Pass End X: 58.5
+Length: 14.5
+Angle: 6.1
+Zone: Right
+Pass End Y: 15.9
+
+16:02 Pass | Event ID: 234
+Lay-off
+Zone: Center
+Length: 12.5
+Pass End X: 52.7
+Pass End Y: 31.9
+Angle: 2.1
+
+16:04 Pass | Event ID: 235
+Length: 38.4
+Pass End X: 78.9
+Angle: 0.8
+Long ball
+Pass End Y: 81.7
+Zone: Center
+Chipped
+
+16:07 Pass | Event ID: 140
+Angle: 0.2
+Zone: Back
+Pass End X: 35.3
+Head pass
+Length: 9.7
+Pass End Y: 17.6
+
+16:08 Ball recovery | Event ID: 141
+
+16:08 Pass | Event ID: 142
+Pass End X: 34.1
+Angle: 1.7
+Length: 9.0
+Zone: Back
+Pass End Y: 30.7
+
+16:09 Pass | Event ID: 143
+Pass End X: 40.0
+Length: 6.8
+Pass End Y: 37.7
+Angle: 0.5
+Zone: Back
+
+16:10 Pass | Event ID: 144
+Pass End Y: 4.3
+Zone: Back
+Length: 22.7
+Angle: 5.1
+Pass End X: 47.3
+
+16:15 Dispossessed | Event ID: 145
+Q286
+Zone: Back
+Q233: 236
+
+16:15 Tackle | Event ID: 236
+Q285
+Q233: 145
+Zone: Left
+
+16:17 Pass | Event ID: 237
+Zone: Left
+Length: 8.4
+Pass End X: 64.9
+Pass End Y: 85.6
+Angle: 5.4
+
+16:18 Ball recovery | Event ID: 238
+
+16:19 Pass | Event ID: 239
+Pass End Y: 78.3
+Zone: Center
+Pass End X: 50.6
+Length: 16.2
+Angle: 3.5
+
+16:21 Pass | Event ID: 240
+Angle: 5.3
+Pass End Y: 42.7
+Pass End X: 63.5
+Zone: Center
+Length: 28.1
+
+16:27 Pass | Event ID: 241
+Zone: Left
+Pass End X: 76.5
+Pass End Y: 95.1
+Length: 11.6
+Angle: 1.2
+
+16:29 Pass | Event ID: 242
+Angle: 3.4
+Pass End Y: 92.6
+Zone: Left
+Pass End X: 69.0
+Length: 8.1
+
+16:32 Foul | Event ID: 146
+Zone: Back
+Q241
+Q233: 245
+Dissent
+Q286
+
+16:32 Foul | Event ID: 245
+Zone: Left
+Q241
+Q233: 146
+Q285
+Dissent
+
+16:32 Deleted event | Event ID: 243
+Zone: Center
+Pass End Y: 69.0
+Deleted event type: 1
+Angle: 4.0
+Pass End X: 55.2
+Length: 20.9
+
+16:37 Card | Event ID: 244
+Yellow Card
+Dissent
+
+17:03 Pass | Event ID: 147
+Angle: 1.6
+Q241
+Free kick taken
+Length: 28.2
+Pass End X: 33.3
+Zone: Back
+Pass End Y: 55.8
+
+17:04 Pass | Event ID: 148
+Length: 23.5
+Pass End Y: 90.3
+Angle: 1.6
+Zone: Back
+Pass End X: 32.6
+
+17:08 Pass | Event ID: 149
+Pass End Y: 64.6
+Length: 15.8
+Pass End X: 38.3
+Zone: Back
+Angle: 5.2
+
+17:10 Pass | Event ID: 150
+Angle: 1.2
+Zone: Back
+Pass End X: 42.4
+Pass End Y: 87.4
+Length: 13.8
+
+17:12 Ball recovery | Event ID: 246
+
+17:15 Pass | Event ID: 247
+Zone: Center
+Angle: 1.5
+Length: 15.2
+Pass End X: 57.1
+Pass End Y: 31.6
+
+17:19 Pass | Event ID: 248
+Length: 25.5
+Zone: Back
+Angle: 2.1
+Pass End X: 47.2
+Pass End Y: 68.7
+
+17:23 Pass | Event ID: 249
+Pass End Y: 0.0
+Switch of play
+Zone: Right
+Length: 54.8
+Pass End X: 82.3
+Long ball
+Chipped
+Angle: 5.2
+
+17:26 Out | Event ID: 151
+Q233: 250
+Zone: Back
+
+17:26 Out | Event ID: 250
+Zone: Right
+Q233: 151
+
+17:40 Pass | Event ID: 152
+Throw-in
+Pass End Y: 90.8
+Angle: 5.8
+Length: 17.6
+Zone: Back
+Pass End X: 31.5
+
+17:43 Dispossessed | Event ID: 153
+Q285
+Zone: Back
+Q233: 251
+
+17:43 Tackle | Event ID: 251
+Q233: 153
+Q286
+Zone: Right
+
+17:44 Ball touch | Event ID: 154
+Zone: Back
+
+17:45 Deleted event | Event ID: 155
+Angle: 1.6
+Length
+Pass End X: 32.5
+Flick-on
+Pass End Y: 92.7
+Zone: Back
+Deleted event type: 1
+Head pass
+
+17:45 Pass | Event ID: 253
+Angle: 0.3
+Zone: Right
+Pass End Y: 11.9
+Head pass
+Length: 3.8
+Pass End X: 75.5
+
+17:45 Aerial | Event ID: 156
+Zone: Back
+Q233: 252
+Q285
+
+17:45 Aerial | Event ID: 252
+Q286
+Zone: Right
+Q233: 156
+
+17:46 Dispossessed | Event ID: 254
+Q286
+Q233: 157
+Zone: Right
+
+17:46 Tackle | Event ID: 157
+Q285
+Zone: Back
+Q233: 254
+
+17:47 Ball touch | Event ID: 730
+Zone: Back
+
+17:48 Dispossessed | Event ID: 255
+Q233: 158
+Q286
+Zone: Right
+
+17:48 Tackle | Event ID: 158
+Zone: Back
+Q233: 255
+Q285
+
+17:49 Ball recovery | Event ID: 159
+
+17:49 Pass | Event ID: 160
+Zone: Back
+Length: 6.0
+Angle: 0.6
+Pass End X: 31.2
+Pass End Y: 62.3
+
+17:50 Pass | Event ID: 161
+Pass End X: 37.5
+Zone: Back
+Pass End Y: 22.5
+Length: 27.9
+Angle: 5.0
+
+17:55 Dispossessed | Event ID: 162
+Q286
+Q233: 256
+Zone: Back
+
+17:55 Tackle | Event ID: 256
+Zone: Left
+Q285
+Q233: 162
+
+17:56 Ball recovery | Event ID: 257
+
+17:58 Take On | Event ID: 258
+Q286
+Overrun
+Zone: Center
+
+18:01 Ball recovery | Event ID: 163
+
+18:01 Pass | Event ID: 164
+Pass End X: 40.7
+Zone: Back
+Pass End Y: 19.2
+Length: 10.4
+Angle: 5.7
+
+18:03 Pass | Event ID: 165
+Zone: Right
+Pass End Y: 2.8
+Pass End X: 57.7
+Angle: 5.7
+Length: 21.1
+
+18:07 Pass | Event ID: 166
+Angle: 2.9
+Length: 11.2
+Pass End X: 55.1
+Zone: Right
+Pass End Y: 9.2
+
+18:11 Pass | Event ID: 167
+Zone: Back
+Pass End X: 38.2
+Length: 27.4
+Angle: 2.2
+Pass End Y: 45.2
+
+18:14 Pass | Event ID: 168
+Angle: 5.7
+Pass End X: 48.0
+Pass End Y: 28.2
+Zone: Back
+Length: 12.7
+
+18:15 Pass | Event ID: 169
+Pass End Y: 40.6
+Zone: Center
+Angle: 0.7
+Pass End X: 56.9
+Length: 11.6
+
+18:18 Pass | Event ID: 170
+Zone: Left
+Angle: 1.5
+Length: 28.1
+Pass End X: 58.2
+Pass End Y: 89.0
+
+18:21 Pass | Event ID: 171
+Pass End X: 56.8
+Zone: Center
+Pass End Y: 78.4
+Angle: 4.5
+Length: 7.7
+
+18:26 Pass | Event ID: 172
+Zone: Left
+Pass End X: 68.6
+Pass End Y: 96.5
+Angle: 0.8
+Length: 14.6
+
+18:30 Pass | Event ID: 173
+Pass End X: 72.2
+Length: 4.4
+Zone: Left
+Pass End Y: 96.5
+Angle: 0.5
+
+18:31 Pass | Event ID: 174
+Zone: Left
+Length: 15.1
+Pass End Y: 93.2
+Angle: 3.2
+Pass End X: 58.0
+
+18:35 Pass | Event ID: 175
+Zone: Back
+Pass End X: 39.7
+Length: 17.1
+Angle: 3.5
+Pass End Y: 76.3
+
+18:37 Pass | Event ID: 176
+Zone: Back
+Angle: 0.6
+Length: 10.8
+Pass End Y: 85.4
+Pass End X: 48.1
+
+18:41 Pass | Event ID: 177
+Long ball
+Pass End Y: 32.5
+Length: 34.2
+Pass End X: 45.7
+Zone: Back
+Angle: 4.8
+
+18:47 Pass | Event ID: 178
+Length: 22.3
+Angle: 2.0
+Zone: Back
+Pass End X: 37.0
+Pass End Y: 55.2
+
+18:49 Pass | Event ID: 179
+Pass End Y: 79.0
+Length: 17.7
+Zone: Back
+Angle: 1.1
+Pass End X: 44.0
+
+18:54 Pass | Event ID: 180
+Angle: 5.8
+Long ball
+Chipped
+Zone: Center
+Length: 67.3
+Pass End X: 100.0
+Pass End Y: 33.6
+
+18:56 Out | Event ID: 181
+Q233: 259
+Zone: Center
+
+18:56 Out | Event ID: 259
+Q233: 181
+Zone: Back
+
+19:14 Pass | Event ID: 260
+Q237
+Zone: Back
+Goal Kick
+Angle: 0.2
+Pass End Y: 61.8
+Pass End X: 24.2
+Length: 20.5
+
+19:15 Pass | Event ID: 261
+Pass End X: 29.5
+Length: 20.0
+Angle: 4.9
+Pass End Y: 32.5
+Zone: Back
+
+19:16 Pass | Event ID: 262
+Pass End Y: 3.7
+Pass End X: 44.7
+Zone: Back
+Length: 20.0
+Angle: 5.3
+
+19:20 Pass | Event ID: 263
+Angle: 2.1
+Pass End Y: 21.5
+Length: 11.6
+Zone: Back
+Pass End X: 38.5
+
+19:23 Pass | Event ID: 264
+Pass End Y: 63.4
+Zone: Back
+Length: 26.0
+Pass End X: 39.0
+Angle: 1.6
+
+19:26 Pass | Event ID: 265
+Angle: 1.3
+Zone: Back
+Length: 9.5
+Pass End X: 41.2
+Pass End Y: 77.3
+
+19:30 Pass | Event ID: 266
+Length: 27.8
+Pass End Y: 28.6
+Pass End X: 52.6
+Zone: Center
+Angle: 5.2
+
+19:33 Pass | Event ID: 267
+Zone: Right
+Pass End X: 61.2
+Length: 14.6
+Pass End Y: 4.3
+Angle: 5.2
+
+19:36 Pass | Event ID: 268
+Length: 29.1
+Pass End Y: 25.0
+Zone: Center
+Angle: 0.5
+Pass End X: 91.5
+
+19:38 Clearance | Event ID: 182
+Pass End Y: 100.0
+Pass End X: 8.5
+Length: 18.3
+Zone: Back
+Angle: 1.6
+Out of play
+
+19:39 Out | Event ID: 183
+Q233: 269
+Zone: Back
+
+19:39 Out | Event ID: 269
+Q233: 183
+Zone: Right
+
+19:45 Pass | Event ID: 270
+Throw-in
+Pass End Y: 12.3
+Length: 34.4
+Long ball
+Angle: 2.9
+Zone: Right
+Pass End X: 59.1
+
+19:49 Pass | Event ID: 271
+Length: 25.1
+Pass End X: 47.0
+Pass End Y: 45.7
+Zone: Back
+Angle: 2.1
+
+19:53 Pass | Event ID: 272
+Length: 16.7
+Pass End Y: 23.3
+Angle: 4.6
+Pass End X: 46.4
+Zone: Back
+
+19:57 Pass | Event ID: 273
+Pass End X: 57.5
+Pass End Y: 2.8
+Length: 2.9
+Angle: 4.6
+Zone: Right
+
+20:00 Pass | Event ID: 274
+Zone: Back
+Pass End Y: 21.0
+Length: 15.9
+Pass End X: 43.7
+Angle: 2.3
+
+20:03 Pass | Event ID: 275
+Angle: 1.4
+Pass End Y: 55.7
+Pass End X: 45.6
+Zone: Back
+Length: 22.6
+
+20:08 Pass | Event ID: 276
+Zone: Center
+Length: 4.0
+Pass End Y: 70.0
+Angle: 0.7
+Pass End X: 58.9
+
+20:10 Foul | Event ID: 184
+Foul
+Zone: Back
+Q285
+Q265
+Q233: 277
+Q152
+
+20:10 Foul | Event ID: 277
+Foul
+Zone: Center
+Q152
+Q265
+Q233: 184
+Q286
+
+20:15 Pass | Event ID: 278
+Zone: Center
+Free kick taken
+Pass End X: 53.5
+Length: 5.2
+Q152
+Pass End Y: 55.4
+Angle: 4.3
+
+20:18 Pass | Event ID: 279
+Length: 13.4
+Zone: Center
+Pass End X: 62.7
+Pass End Y: 36.4
+Angle: 5.5
+
+20:20 Pass | Event ID: 280
+Pass End Y: 5.0
+Pass End X: 64.2
+Length: 15.8
+Angle: 4.7
+Zone: Right
+
+20:22 Pass | Event ID: 281
+Angle: 6.2
+Length: 12.8
+Pass End X: 76.3
+Zone: Right
+Pass End Y: 3.2
+
+20:27 Pass | Event ID: 282
+Zone: Center
+Assist
+Angle: 1.0
+Intentional assist
+Long ball
+Pass End Y: 67.0
+Chipped
+Length: 39.6
+Pass End X: 95.8
+
+20:30 Miss | Event ID: 283
+Goal mouth z co-ordinate: 48.6
+Head
+Related event ID: 282
+Box-deep left
+Zone: Center
+Goal mouth y co-ordinate: 50.8
+Close high
+Intentional assist
+Assisted
+Regular play
+
+20:31 Out | Event ID: 185
+Q233: 284
+Zone: Back
+
+20:31 Out | Event ID: 284
+Q233: 185
+Zone: Center
+
+20:53 Pass | Event ID: 186
+Zone: Right
+Pass End Y: 14.1
+Goal Kick
+Pass End X: 60.7
+Length: 61.6
+Angle: 5.9
+High
+Long ball
+
+20:58 Pass | Event ID: 187
+Flick-on
+Pass End X: 70.3
+Zone: Right
+Angle: 0.2
+Length: 10.5
+Head pass
+Pass End Y: 18.3
+
+21:00 Aerial | Event ID: 188
+Zone: Right
+Q233: 285
+Q286
+
+21:00 Aerial | Event ID: 285
+Zone: Back
+Q285
+Q233: 188
+
+21:00 Pass | Event ID: 189
+Pass End Y: 8.3
+Lay-off
+Length: 8.7
+Pass End X: 64.4
+Angle: 3.8
+Head pass
+Zone: Right
+
+21:02 Ball recovery | Event ID: 286
+
+21:05 Pass | Event ID: 287
+Chipped
+Zone: Back
+Pass End X: 23.0
+Pass End Y: 52.2
+Angle: 4.2
+Length: 32.1
+Long ball
+
+21:07 Pass | Event ID: 288
+Angle: 5.0
+Length: 18.8
+Pass End Y: 23.7
+Zone: Back
+Pass End X: 29.6
+
+21:11 Pass | Event ID: 289
+Zone: Back
+Pass End X: 40.4
+Angle: 5.3
+Pass End Y: 3.2
+Length: 7.3
+
+21:14 Pass | Event ID: 290
+Angle: 2.0
+Length: 23.2
+Zone: Back
+Pass End Y: 36.7
+Pass End X: 29.2
+
+21:16 Pass | Event ID: 291
+Angle: 1.2
+Pass End Y: 52.7
+Length: 11.1
+Pass End X: 32.7
+Zone: Back
+
+21:19 Pass | Event ID: 292
+Pass End X: 26.4
+Length: 8.9
+Zone: Back
+Pass End Y: 42.7
+Angle: 3.8
+
+21:20 Pass | Event ID: 293
+Length: 18.8
+Pass End Y: 51.9
+Angle: 2.8
+Zone: Back
+Pass End X: 9.5
+
+21:22 Pass | Event ID: 294
+Angle: 0.8
+Zone: Back
+Pass End Y: 80.6
+Pass End X: 27.5
+Length: 27.2
+
+21:25 Pass | Event ID: 295
+Pass End X: 43.5
+Length: 19.0
+Angle: 0.5
+Pass End Y: 93.8
+Zone: Back
+
+21:29 Pass | Event ID: 296
+Pass End X: 32.7
+Pass End Y: 41.8
+Zone: Back
+Angle: 4.5
+Length: 35.3
+Long ball
+
+21:32 Pass | Event ID: 297
+Length: 23.7
+Pass End Y: 5.5
+Zone: Back
+Pass End X: 42.1
+Angle: 5.1
+
+21:35 Pass | Event ID: 298
+Zone: Back
+Length: 9.4
+Pass End Y: 18.9
+Angle: 1.8
+Pass End X: 40.6
+
+21:37 Offside provoked | Event ID: 191
+
+21:37 Offside Pass | Event ID: 299
+Pass End Y: 24.4
+Zone: Center
+Pass End X: 70.7
+Players caught offside: 14937
+
+21:41 Deleted event | Event ID: 300
+Zone: Center
+Regular play
+Box-right
+Deleted event type: 39
+
+21:43 Deleted event | Event ID: 190
+Deleted event type: 55
+
+21:43 Deleted event | Event ID: 301
+Zone: Center
+Deleted event type: 5
+
+22:19 Pass | Event ID: 192
+Pass End X: 15.7
+Length: 28.8
+Angle: 3.9
+Zone: Back
+Pass End Y: 50.7
+Q241
+Free kick taken
+
+22:21 Pass | Event ID: 731
+Length: 53.8
+Angle: 5.7
+Pass End X: 59.2
+Zone: Right
+Pass End Y: 8.7
+Launch
+Long ball
+
+22:23 Pass | Event ID: 193
+Zone: Right
+Pass End Y: 4.1
+Pass End X: 90.3
+Length: 22.2
+Angle: 6.2
+
+22:27 Ball recovery | Event ID: 302
+
+22:28 Pass | Event ID: 303
+Zone: Back
+Angle: 4.3
+Pass End X: 10.7
+Pass End Y: 84.5
+Length: 5.3
+
+22:29 Pass | Event ID: 304
+Pass End X: 26.8
+Angle: 5.4
+Pass End Y: 59.1
+Zone: Back
+Length: 22.1
+
+22:31 Ball touch | Event ID: 305
+Zone: Back
+
+22:32 Pass | Event ID: 306
+Zone: Back
+Pass End Y: 46.1
+Length: 10.8
+Angle: 4.9
+Pass End X: 28.4
+
+22:34 Ball recovery | Event ID: 194
+
+22:35 Dispossessed | Event ID: 195
+Zone: Center
+Q286
+Q233: 307
+
+22:35 Tackle | Event ID: 307
+Q233: 195
+Q285
+Zone: Back
+
+22:37 Attempt Saved | Event ID: 196
+Individual Play
+Blocked x co-ordinate: 86.2
+Regular play
+Blocked y co-ordinate: 38.6
+Zone: Center
+Blocked
+Q233: 308
+Right footed
+Out of box-centre
+
+22:37 Save | Event ID: 308
+Zone: Back
+Def block
+Q233: 196
+
+22:40 Ball recovery | Event ID: 309
+
+22:41 Pass | Event ID: 310
+Zone: Back
+Pass End Y: 85.6
+Pass End X: 14.5
+Angle: 1.5
+Length: 13.3
+
+22:43 Pass | Event ID: 311
+Chipped
+Zone: Back
+Angle: 0.3
+Pass End Y: 94.5
+Pass End X: 31.2
+Length: 18.6
+
+22:44 Ball touch | Event ID: 312
+Zone: Back
+
+22:45 Out | Event ID: 197
+Zone: Right
+Q233: 313
+
+22:45 Out | Event ID: 313
+Zone: Back
+Q233: 197
+
+22:54 Pass | Event ID: 198
+Angle: 0.5
+Throw-in
+Length: 10.3
+Pass End X: 81.5
+Zone: Right
+Pass End Y: 4.7
+
+22:55 Pass | Event ID: 199
+Pass End Y: 5.0
+Angle: 1.2
+Zone: Right
+Length: 1.6
+Pass End X: 77.1
+
+22:56 Ball touch | Event ID: 1032
+Zone: Back
+
+22:57 Pass | Event ID: 200
+Zone: Right
+Angle: 1.4
+Pass End X: 74.1
+Pass End Y: 10.4
+Length: 3.1
+
+22:58 Ball touch | Event ID: 314
+Zone: Back
+
+22:59 Pass | Event ID: 201
+Angle: 5.3
+Zone: Right
+Pass End Y: 2.8
+Pass End X: 82.1
+Length: 7.5
+
+23:04 Pass | Event ID: 202
+Angle: 1.2
+Long ball
+Pass End X: 95.9
+Switch of play
+Pass End Y: 92.6
+Zone: Left
+Length: 59.6
+Chipped
+
+23:08 Interception | Event ID: 315
+Zone: Back
+
+23:09 Out | Event ID: 203
+Q233: 316
+Zone: Left
+
+23:09 Out | Event ID: 316
+Q233: 203
+Zone: Back
+
+23:23 Pass | Event ID: 204
+Zone: Left
+Pass End Y: 87.7
+Pass End X: 89.6
+Length: 9.7
+Angle: 4.4
+Throw-in
+
+23:26 Pass | Event ID: 205
+Pass End X: 85.1
+Length: 6.7
+Zone: Left
+Angle: 2.2
+Pass End Y: 94.8
+
+23:28 Take On | Event ID: 317
+Q233: 206
+Zone: Back
+Q285
+
+23:28 Tackle | Event ID: 206
+Q233: 317
+Q286
+Zone: Left
+
+23:29 Pass | Event ID: 207
+Angle: 3.2
+Pass End X: 79.1
+Pass End Y: 94.7
+Zone: Left
+Length: 9.0
+
+23:30 Pass | Event ID: 208
+Angle: 4.1
+Pass End Y: 77.8
+Length: 14.5
+Zone: Center
+Pass End X: 71.4
+
+23:31 Pass | Event ID: 209
+Pass End Y: 93.5
+Length: 13.4
+Angle: 2.2
+Zone: Left
+Pass End X: 63.8
+
+23:33 Pass | Event ID: 210
+Pass End Y: 54.9
+Pass End X: 19.1
+Length: 51.0
+Zone: Back
+Angle: 3.7
+Long ball
+
+23:39 Pass | Event ID: 211
+Angle: 6.0
+Launch
+Zone: Center
+Pass End X: 64.9
+Pass End Y: 23.0
+Length: 54.9
+Long ball
+
+23:42 Ball recovery | Event ID: 318
+
+23:45 Pass | Event ID: 319
+Angle: 5.0
+Pass End Y: 51.8
+Length: 13.5
+Pass End X: 45.3
+Zone: Back
+
+23:46 Pass | Event ID: 320
+Length: 13.9
+Pass End Y: 28.3
+Angle: 4.3
+Pass End X: 40.8
+Zone: Back
+
+23:49 Pass | Event ID: 321
+Angle: 0.7
+Launch
+Pass End Y: 70.3
+Long ball
+Pass End X: 72.6
+Zone: Center
+Length: 43.9
+
+23:53 Deleted event | Event ID: 212
+Zone: Back
+Deleted event type: 8
+Head
+
+23:53 Pass | Event ID: 322
+Length: 10.7
+Angle: 1.4
+Head pass
+Pass End X: 74.7
+Pass End Y: 85.7
+Zone: Left
+
+23:56 Pass | Event ID: 323
+Pass End Y: 70.3
+Pass End X: 69.2
+Length: 10.5
+Angle: 4.2
+Zone: Center
+
+24:00 Pass | Event ID: 324
+Pass End X: 64.7
+Length: 7.1
+Zone: Center
+Pass End Y: 55.1
+Angle: 3.3
+
+24:01 Pass | Event ID: 325
+Pass End Y: 70.8
+Angle: 1.7
+Length: 10.9
+Zone: Center
+Pass End X: 63.2
+
+24:04 Challenge | Event ID: 213
+Zone: Back
+Q285
+Q233: 326
+
+24:04 Take On | Event ID: 326
+Q286
+Q233: 213
+Zone: Center
+
+24:05 Pass | Event ID: 327
+Angle: 5.0
+Pass End Y: 58.2
+Zone: Center
+Length: 9.9
+Pass End X: 72.2
+
+24:06 Pass | Event ID: 328
+Zone: Center
+Angle: 6.2
+Pass End X: 78.4
+Length: 4.8
+Pass End Y: 53.7
+
+24:07 Interception | Event ID: 214
+Zone: Back
+
+24:08 Miss | Event ID: 329
+Left footed
+Goal mouth z co-ordinate: 83.3
+High left
+Goal mouth y co-ordinate: 57.6
+Volley
+Out of box-centre
+Zone: Center
+Regular play
+Individual Play
+
+24:10 Out | Event ID: 215
+Zone: Back
+Q233: 330
+
+24:10 Out | Event ID: 330
+Zone: Center
+Q233: 215
+
+24:31 Pass | Event ID: 216
+Angle: 5.9
+Goal Kick
+Pass End X: 58.3
+Zone: Right
+High
+Long ball
+Pass End Y: 6.2
+Length: 61.9
+
+24:35 Pass | Event ID: 217
+Zone: Right
+Head pass
+Pass End Y: 1.0
+Angle: 6.0
+Length: 14.0
+Flick-on
+Pass End X: 71.2
+
+24:40 Foul | Event ID: 218
+Q152
+Foul
+Q233: 331
+Q286
+Q265
+Zone: Right
+
+24:40 Foul | Event ID: 331
+Zone: Back
+Q285
+Q265
+Q233: 218
+Foul
+Q152
+
+25:03 Pass | Event ID: 219
+Free kick taken
+Pass End Y: 57.2
+Zone: Center
+Pass End X: 87.3
+Length: 39.2
+Cross
+Q152
+Long ball
+Chipped
+Angle: 1.2
+
+25:07 Pass | Event ID: 220
+Angle: 5.5
+Pass End X: 100.0
+Chipped
+Pass End Y: 37.3
+Zone: Center
+Length: 22.6
+
+25:10 Out | Event ID: 221
+Q233: 332
+Zone: Center
+
+25:10 Out | Event ID: 332
+Zone: Back
+Q233: 221
+
+25:42 Pass | Event ID: 333
+Pass End Y: 87.4
+Angle: 0.7
+Long ball
+Pass End X: 31.5
+Goal Kick
+Q237
+Zone: Back
+Length: 35.4
+
+25:44 Pass | Event ID: 334
+Pass End Y: 31.0
+Pass End X: 40.0
+Angle: 4.7
+Length: 28.7
+Zone: Back
+
+25:49 Pass | Event ID: 335
+Zone: Right
+Pass End X: 58.3
+Angle: 5.2
+Length: 7.5
+Pass End Y: 2.5
+
+25:53 Pass | Event ID: 336
+Pass End X: 45.7
+Angle: 2.9
+Zone: Back
+Pass End Y: 13.8
+Length: 14.9
+
+25:55 Pass | Event ID: 337
+Length: 8.4
+Angle: 1.6
+Zone: Back
+Pass End Y: 26.1
+Pass End X: 45.4
+
+25:57 Offside provoked | Event ID: 222
+
+25:57 Offside Pass | Event ID: 338
+Pass End X: 72.9
+Pass End Y: 30.1
+Zone: Center
+Players caught offside: 14937
+
+26:29 Pass | Event ID: 223
+Zone: Center
+Pass End Y: 26.5
+Angle: 6.0
+Long ball
+Pass End X: 90.8
+Launch
+Q241
+Length: 70.3
+Free kick taken
+
+26:34 Keeper pick-up | Event ID: 339
+
+26:39 Pass | Event ID: 340
+Angle: 0.1
+Pass End Y: 71.8
+Length: 10.4
+Pass End X: 21.6
+Zone: Back
+Keeper Throw
+
+26:43 Pass | Event ID: 341
+Length: 22.7
+Pass End Y: 32.5
+Zone: Back
+Angle: 4.7
+Pass End X: 24.0
+
+26:46 Pass | Event ID: 342
+Pass End X: 34.6
+Zone: Back
+Pass End Y: 4.4
+Angle: 5.3
+Length: 17.4
+
+26:47 Pass | Event ID: 343
+Length: 13.5
+Pass End X: 28.9
+Zone: Back
+Pass End Y: 22.1
+Angle: 2.0
+
+26:50 Pass | Event ID: 344
+Pass End X: 31.7
+Angle: 1.3
+Pass End Y: 66.9
+Length: 23.4
+Zone: Back
+
+26:54 Pass | Event ID: 345
+Pass End X: 39.1
+Angle: 4.9
+Length: 21.5
+Pass End Y: 30.7
+Zone: Back
+
+26:58 Pass | Event ID: 346
+Zone: Right
+Length: 24.8
+Pass End X: 61.6
+Pass End Y: 3.4
+Angle: 5.7
+
+27:00 Dispossessed | Event ID: 347
+Q233: 224
+Q286
+Zone: Right
+
+27:00 Tackle | Event ID: 224
+Zone: Back
+Q233: 347
+Q285
+
+27:01 Ball touch | Event ID: 1033
+Zone: Right
+
+27:02 Pass | Event ID: 348
+Pass End Y: 14.3
+Zone: Right
+Angle: 0.3
+Pass End X: 74.6
+Length: 12.9
+
+27:03 Ball recovery | Event ID: 225
+
+27:04 Pass | Event ID: 226
+Pass End X: 37.2
+Length: 10.9
+Zone: Back
+Pass End Y: 79.1
+Angle: 5.6
+
+27:05 Pass | Event ID: 227
+Angle: 4.6
+Zone: Back
+Length: 9.6
+Pass End X: 36.0
+Pass End Y: 65.1
+
+27:06 Pass | Event ID: 228
+Zone: Back
+Pass End X: 46.3
+Pass End Y: 67.9
+Angle: 0.2
+Length: 11.2
+
+27:10 Dispossessed | Event ID: 229
+Q286
+Q233: 349
+Zone: Center
+
+27:10 Tackle | Event ID: 349
+Q285
+Zone: Back
+Q233: 229
+
+27:11 Ball recovery | Event ID: 350
+
+27:13 Pass | Event ID: 351
+Length: 7.8
+Zone: Back
+Pass End X: 38.9
+Pass End Y: 59.4
+Angle: 2.6
+
+27:15 Pass | Event ID: 352
+Pass End X: 42.4
+Angle: 1.3
+Zone: Back
+Length: 12.1
+Pass End Y: 76.4
+
+27:19 Pass | Event ID: 353
+Angle: 4.0
+Zone: Back
+Pass End Y: 64.9
+Length: 9.9
+Pass End X: 36.7
+
+27:22 Pass | Event ID: 354
+Pass End Y: 19.7
+Pass End X: 39.1
+Angle: 4.8
+Zone: Back
+Length: 30.8
+
+27:24 Pass | Event ID: 355
+Length: 20.5
+Pass End Y: 2.9
+Angle: 5.7
+Zone: Right
+Pass End X: 55.3
+
+27:28 Pass | Event ID: 356
+Zone: Center
+Pass End Y: 22.2
+Pass End X: 64.4
+Angle: 1.0
+Length: 15.3
+
+27:30 Pass | Event ID: 357
+Angle: 5.1
+Pass End X: 70.3
+Pass End Y: 3.8
+Length: 13.6
+Zone: Right
+
+27:35 Pass | Event ID: 358
+Pass End X: 58.8
+Angle: 1.8
+Pass End Y: 51.8
+Length: 24.8
+Zone: Center
+
+27:38 Pass | Event ID: 359
+Length: 14.0
+Zone: Center
+Angle: 0.4
+Pass End Y: 63.1
+Pass End X: 72.8
+
+27:40 Interception | Event ID: 230
+Zone: Back
+
+27:42 Ball recovery | Event ID: 231
+
+27:43 Pass | Event ID: 232
+Angle: 4.2
+Length: 11.7
+Zone: Back
+Pass End Y: 7.0
+Pass End X: 34.9
+
+27:45 Take On | Event ID: 233
+Zone: Back
+Q233: 360
+Q285
+
+27:45 Tackle | Event ID: 360
+Q233: 233
+Zone: Left
+Q286
+Out of play
+
+27:46 Out | Event ID: 234
+Q233: 361
+Zone: Back
+
+27:46 Out | Event ID: 361
+Zone: Left
+Q233: 234
+
+28:04 Pass | Event ID: 235
+Length: 16.9
+Angle: 0.8
+Pass End X: 47.4
+Throw-in
+Pass End Y: 15.0
+Zone: Back
+
+28:05 Pass | Event ID: 371
+Zone: Left
+Length: 9.5
+Pass End X: 60.7
+Angle
+Pass End Y: 80.4
+
+28:06 Pass | Event ID: 362
+Pass End Y: 91.4
+Length: 12.4
+Zone: Left
+Pass End X: 57.9
+Angle: 2.1
+
+28:08 Pass | Event ID: 363
+Long ball
+Pass End Y: 90.9
+Pass End X: 100.0
+Chipped
+Zone: Left
+Angle: 6.3
+Length: 45.6
+
+28:11 Out | Event ID: 236
+Q233: 364
+Zone: Back
+
+28:11 Out | Event ID: 364
+Zone: Left
+Q233: 236
+
+28:39 Pass | Event ID: 237
+Angle: 5.9
+Long ball
+High
+Zone: Right
+Goal Kick
+Pass End X: 52.1
+Pass End Y: 16.8
+Length: 52.9
+
+28:43 Aerial | Event ID: 238
+Q286
+Zone: Right
+Q233: 365
+
+28:43 Aerial | Event ID: 365
+Q233: 238
+Zone: Back
+Q285
+
+28:43 Pass | Event ID: 239
+Pass End X: 76.7
+Angle: 0.0
+Flick-on
+Length: 25.9
+Pass End Y: 18.5
+Head pass
+Zone: Right
+
+28:46 Ball recovery | Event ID: 366
+
+28:46 Pass | Event ID: 367
+Angle: 4.3
+Pass End Y: 46.3
+Pass End X: 25.2
+Length: 21.9
+Zone: Back
+
+28:52 Pass | Event ID: 368
+Pass End X: 72.8
+Length: 44.0
+Long ball
+Chipped
+Angle: 0.4
+Pass End Y: 60.2
+Zone: Center
+
+28:54 Pass | Event ID: 240
+Angle: 1.0
+Head pass
+Zone: Back
+Length: 15.6
+Pass End X: 37.7
+Pass End Y: 65.4
+
+28:57 Ball recovery | Event ID: 241
+
+28:58 Pass | Event ID: 242
+Angle: 0.3
+Length: 12.6
+Zone: Center
+Pass End X: 52.8
+Pass End Y: 65.4
+
+29:00 Ball recovery | Event ID: 369
+
+29:01 Pass | Event ID: 370
+Length: 20.0
+Pass End Y: 70.0
+Angle: 1.3
+Pass End X: 59.3
+Zone: Center
+
+29:02 Ball recovery | Event ID: 243
+
+29:02 Pass | Event ID: 244
+Pass End X: 49.0
+Length: 13.5
+Angle: 5.4
+Zone: Back
+Pass End Y: 5.4
+
+29:06 Pass | Event ID: 245
+Angle: 1.8
+Zone: Back
+Length: 17.8
+Pass End Y: 28.6
+Pass End X: 45.4
+
+29:08 Pass | Event ID: 246
+Pass End X: 42.3
+Zone: Back
+Length: 17.0
+Angle: 4.5
+Pass End Y: 3.8
+
+29:10 Pass | Event ID: 247
+Pass End X: 50.7
+Zone: Right
+Length: 9.0
+Pass End Y: 1.4
+Angle: 6.1
+
+29:12 Pass | Event ID: 248
+Pass End Y: 7.0
+Angle: 0.4
+Pass End X: 60.3
+Zone: Right
+Length: 10.4
+
+29:13 Offside Pass | Event ID: 249
+Pass End Y: 14.6
+Pass End X: 69.7
+Zone: Right
+Players caught offside: 109707
+
+29:13 Offside provoked | Event ID: 372
+
+29:26 Pass | Event ID: 373
+Pass End X: 34.5
+Length: 41.6
+Q241
+Angle: 4.7
+Switch of play
+Long ball
+Free kick taken
+Pass End Y: 18.5
+Zone: Back
+
+29:31 Pass | Event ID: 375
+Length: 18.7
+Zone: Back
+Angle: 2.1
+Pass End X: 32.2
+Pass End Y: 31.2
+
+29:33 Pass | Event ID: 376
+Pass End Y: 67.6
+Zone: Back
+Length: 24.0
+Pass End X: 36.9
+Angle: 1.4
+
+29:37 Pass | Event ID: 377
+Length: 11.3
+Angle: 5.6
+Pass End X: 41.5
+Pass End Y: 61.8
+Zone: Back
+
+29:39 Pass | Event ID: 378
+Pass End Y: 67.6
+Zone: Back
+Pass End X: 37.4
+Angle: 2.3
+Length: 10.3
+
+29:40 Pass | Event ID: 379
+Pass End X: 40.8
+Zone: Back
+Pass End Y: 78.5
+Angle: 1.1
+Length: 8.2
+
+29:41 Pass | Event ID: 380
+Zone: Back
+Pass End Y: 61.4
+Angle: 4.9
+Length: 11.7
+Pass End X: 42.4
+
+29:43 Pass | Event ID: 381
+Pass End Y: 61.8
+Pass End X: 34.3
+Lay-off
+Angle: 3.1
+Zone: Back
+Length: 8.5
+
+29:44 Pass | Event ID: 382
+Zone: Back
+Angle: 4.8
+Length: 23.1
+Pass End X: 36.8
+Pass End Y: 28.0
+
+29:48 Pass | Event ID: 383
+Pass End Y: 4.9
+Length: 18.2
+Angle: 5.9
+Pass End X: 61.2
+Zone: Right
+
+29:49 Pass | Event ID: 384
+Zone: Right
+Length: 3.5
+Angle: 0.9
+Pass End Y: 9.1
+Pass End X: 63.2
+
+29:50 Interception | Event ID: 250
+Zone: Back
+
+29:51 Out | Event ID: 251
+Q233: 385
+Zone: Back
+
+29:51 Out | Event ID: 385
+Q233: 251
+Zone: Right
+
+29:53 Pass | Event ID: 386
+Long ball
+Angle: 0.2
+Zone: Right
+Length: 21.6
+Throw-in
+Pass End Y: 4.9
+Pass End X: 88.6
+
+29:55 Interception | Event ID: 252
+Zone: Back
+
+29:58 Corner Awarded | Event ID: 253
+Left
+Zone: Back
+Q233: 387
+
+29:58 Corner Awarded | Event ID: 387
+Q233: 253
+Right
+Zone: Right
+
+30:21 Pass | Event ID: 388
+Chipped
+Out-swinger
+Cross
+Corner taken
+Pass End X: 96.5
+Pass End Y: 43.1
+Angle: 1.7
+Zone: Center
+Length: 29.1
+
+30:24 Clearance | Event ID: 254
+Pass End X: 29.0
+Zone: Back
+Length: 29.0
+Pass End Y: 78.2
+Angle: 0.4
+
+30:26 Pass | Event ID: 389
+Pass End Y: 7.6
+Pass End X: 84.5
+Length: 12.8
+Angle: 5.6
+Zone: Right
+
+30:29 Pass | Event ID: 390
+Angle: 2.1
+Pass End X: 62.4
+Pass End Y: 45.4
+Zone: Center
+Length: 27.2
+
+30:33 Pass | Event ID: 391
+Length: 34.7
+Zone: Left
+Assist
+Long ball
+Angle: 1.0
+Pass End X: 80.9
+Pass End Y: 89.7
+
+30:40 Attempt Saved | Event ID: 392
+From corner
+Right footed
+Assisted
+Zone: Center
+Blocked x co-ordinate: 81.9
+Related event ID: 391
+Q233: 255
+Out of box-centre
+Blocked
+Blocked y co-ordinate: 62.5
+Individual Play
+
+30:40 Save | Event ID: 255
+Def block
+Q233: 392
+Zone: Back
+
+30:44 Ball recovery | Event ID: 256
+
+30:47 Take On | Event ID: 257
+Zone: Back
+Q286
+Q233: 393
+
+30:47 Tackle | Event ID: 393
+Zone: Back
+Q285
+Q233: 257
+
+30:50 Ball recovery | Event ID: 394
+
+30:51 Pass | Event ID: 395
+Pass End X: 39.7
+Length: 27.3
+Angle: 5.0
+Zone: Back
+Pass End Y: 21.3
+
+30:56 Pass | Event ID: 396
+Pass End X: 52.1
+Angle: 0.4
+Zone: Center
+Pass End Y: 24.9
+Length: 9.3
+
+30:59 Pass | Event ID: 397
+Angle: 2.3
+Length: 8.7
+Pass End X: 39.2
+Pass End Y: 33.7
+Zone: Back
+
+31:01 Pass | Event ID: 398
+Pass End X: 39.5
+Pass End Y: 73.0
+Angle: 1.5
+Length: 26.1
+Zone: Back
+
+31:03 Pass | Event ID: 399
+Angle: 1.1
+Zone: Back
+Pass End X: 46.2
+Length: 16.3
+Pass End Y: 94.7
+
+31:06 Pass | Event ID: 400
+Angle: 0.2
+Pass End Y: 97.1
+Zone: Left
+Length: 9.1
+Pass End X: 54.7
+
+31:07 Interception | Event ID: 258
+Zone: Back
+
+31:08 Out | Event ID: 259
+Zone: Back
+Q233: 401
+
+31:08 Out | Event ID: 401
+Q233: 259
+Zone: Left
+
+31:11 Pass | Event ID: 402
+Pass End Y: 96.9
+Throw-in
+Zone: Left
+Angle: 3.6
+Length: 8.0
+Pass End X: 52.3
+
+31:14 Pass | Event ID: 403
+Pass End Y: 69.9
+Length: 14.6
+Zone: Back
+Pass End X: 48.1
+Angle: 4.3
+
+31:16 Interception | Event ID: 260
+Zone: Center
+
+31:17 Ball recovery | Event ID: 261
+
+31:19 Pass | Event ID: 262
+Chipped
+Pass End Y: 70.9
+Pass End X: 57.0
+Length: 29.0
+Zone: Center
+Angle: 1.2
+
+31:21 Dispossessed | Event ID: 263
+Q233: 404
+Q286
+Zone: Center
+
+31:21 Tackle | Event ID: 404
+Q285
+Q233: 263
+Zone: Back
+
+31:23 Ball recovery | Event ID: 405
+
+31:25 Pass | Event ID: 406
+Angle: 0.4
+Zone: Left
+Chipped
+Length: 69.7
+Pass End X: 100.0
+Pass End Y: 80.8
+Long ball
+
+31:29 Out | Event ID: 264
+Q233: 407
+Zone: Back
+
+31:29 Out | Event ID: 407
+Zone: Left
+Q233: 264
+
+31:48 Pass | Event ID: 265
+Angle: 5.8
+Goal Kick
+Zone: Right
+High
+Long ball
+Length: 59.5
+Pass End Y: 4.1
+Pass End X: 55.4
+
+31:53 Aerial | Event ID: 266
+Q286
+Q233: 408
+Zone: Right
+
+31:53 Aerial | Event ID: 408
+Q285
+Zone: Back
+Q233: 266
+
+31:54 Interception | Event ID: 409
+Zone: Back
+Head
+
+31:55 Out | Event ID: 267
+Q233: 410
+Zone: Right
+
+31:55 Out | Event ID: 410
+Zone: Back
+Q233: 267
+
+32:03 Pass | Event ID: 268
+Length: 12.3
+Pass End X: 63.9
+Throw-in
+Zone: Right
+Pass End Y: 15.6
+Angle: 1.3
+
+32:06 Pass | Event ID: 269
+Zone: Center
+Pass End Y: 41.6
+Length: 17.8
+Angle: 1.7
+Pass End X: 61.2
+
+32:07 Ball recovery | Event ID: 411
+
+32:07 Pass | Event ID: 412
+Angle: 4.7
+Length: 3.5
+Pass End X: 39.5
+Pass End Y: 48.2
+Zone: Back
+
+32:08 Ball recovery | Event ID: 270
+
+32:09 Take On | Event ID: 732
+Zone: Center
+Q233: 1034
+Q286
+
+32:09 Challenge | Event ID: 1034
+Q233: 732
+Q285
+Zone: Back
+
+32:10 Pass | Event ID: 271
+Angle: 1.1
+Length: 9.7
+Pass End X: 67.5
+Pass End Y: 57.2
+Zone: Center
+
+32:11 Pass | Event ID: 272
+Pass End X: 77.3
+Pass End Y: 85.6
+Zone: Left
+Angle: 1.0
+Length: 21.2
+
+32:14 Pass | Event ID: 273
+Chipped
+Angle: 5.7
+Zone: Left
+Pass End X: 78.1
+Cross
+Length: 4.8
+Pass End Y: 84.8
+
+32:15 Clearance | Event ID: 413
+Pass End Y: 15.2
+Pass End X: 25.9
+Zone: Back
+Length
+Angle: 4.7
+Blocked cross
+
+32:17 Pass | Event ID: 274
+Pass End Y: 85.9
+Zone: Left
+Angle: 3.1
+Length: 20.0
+Pass End X: 51.5
+
+32:19 Pass | Event ID: 275
+Angle: 5.2
+Length: 14.8
+Zone: Center
+Pass End X: 57.6
+Pass End Y: 66.3
+
+32:22 Pass | Event ID: 276
+Angle: 5.6
+Length: 8.4
+Pass End Y: 57.0
+Zone: Center
+Pass End X: 69.0
+
+32:25 Pass | Event ID: 277
+Angle: 1.9
+Zone: Left
+Pass End X: 65.2
+Length: 12.8
+Pass End Y: 92.4
+
+32:26 Pass | Event ID: 278
+Length: 9.7
+Pass End Y: 98.1
+Zone: Left
+Angle: 0.4
+Pass End X: 73.7
+
+32:28 Ball touch | Event ID: 279
+Zone: Left
+
+32:29 Out | Event ID: 280
+Q233: 414
+Zone: Left
+
+32:29 Out | Event ID: 414
+Zone: Back
+Q233: 280
+
+32:47 Pass | Event ID: 415
+Angle: 1.0
+Length: 20.3
+Zone: Back
+Throw-in
+Pass End Y: 23.6
+Pass End X: 38.2
+
+32:48 Pass | Event ID: 416
+Angle: 1.6
+Pass End Y: 77.9
+Zone: Back
+Pass End X: 32.9
+Length: 31.0
+
+32:49 Pass | Event ID: 417
+Length: 25.3
+Angle: 0.2
+Zone: Left
+Pass End Y: 94.8
+Pass End X: 57.1
+
+32:53 Foul | Event ID: 281
+Q285
+Q152
+Q233: 418
+Foul
+Zone: Right
+Q295
+
+32:53 Foul | Event ID: 418
+Q295
+Q286
+Q233: 281
+Q152
+Zone: Back
+Foul
+
+33:01 Pass | Event ID: 419
+Length: 29.3
+Pass End Y: 46.0
+Pass End X: 35.9
+Angle: 4.5
+Q152
+Free kick taken
+Zone: Back
+
+33:02 Pass | Event ID: 420
+Angle: 5.1
+Pass End Y: 20.0
+Zone: Back
+Length: 19.0
+Pass End X: 42.4
+
+33:05 Pass | Event ID: 421
+Zone: Back
+Angle: 1.5
+Length: 10.3
+Pass End X: 44.1
+Pass End Y: 34.3
+
+33:07 Pass | Event ID: 422
+Pass End Y: 60.2
+Pass End X: 44.9
+Zone: Back
+Angle: 1.6
+Length: 13.3
+
+33:10 Pass | Event ID: 423
+Zone: Center
+Length: 15.1
+Pass End X: 58.0
+Angle: 0.4
+Pass End Y: 69.3
+
+33:12 Pass | Event ID: 424
+Flick-on
+Angle: 5.8
+Pass End Y: 60.6
+Pass End X: 68.9
+Zone: Center
+Length: 9.6
+
+33:14 Foul | Event ID: 282
+Zone: Back
+Q233: 425
+Q152
+Q295
+Foul
+Q285
+
+33:14 Foul | Event ID: 425
+Zone: Center
+Q152
+Foul
+Q295
+Q233: 282
+Q286
+
+33:32 Attempt Saved | Event ID: 283
+Zone: Back
+Blocked y co-ordinate: 48.2
+Q233: 426
+Goal mouth z co-ordinate: 18.4
+Goal mouth y co-ordinate: 49.7
+Low centre
+Blocked x co-ordinate: 94.9
+Weak
+35+ centre
+Free kick
+Right footed
+
+33:32 Save | Event ID: 426
+Caught
+Zone: Back
+Standing
+Q233: 283
+Hands
+
+33:36 Keeper pick-up | Event ID: 427
+
+33:39 Pass | Event ID: 428
+Angle: 0.4
+Length: 21.6
+Pass End X: 26.2
+Pass End Y: 63.4
+Zone: Back
+Keeper Throw
+
+33:40 Pass | Event ID: 429
+Angle: 0.4
+Length: 10.8
+Pass End X: 35.6
+Pass End Y: 69.9
+Zone: Back
+
+33:42 Pass | Event ID: 430
+Angle: 4.9
+Zone: Back
+Pass End X: 37.5
+Length: 27.2
+Pass End Y: 23.9
+
+33:48 Pass | Event ID: 431
+Angle: 5.4
+Pass End X: 48.0
+Length: 10.4
+Zone: Back
+Pass End Y: 3.5
+
+33:50 Pass | Event ID: 432
+Zone: Back
+Length: 11.2
+Pass End X: 39.9
+Pass End Y: 15.9
+Angle: 2.3
+
+33:53 Pass | Event ID: 433
+Zone: Back
+Length: 30.9
+Pass End Y: 68.2
+Pass End X: 37.7
+Angle: 1.6
+
+33:56 Pass | Event ID: 434
+Pass End Y: 95.3
+Length: 19.4
+Zone: Back
+Pass End X: 43.9
+Angle: 1.2
+
+33:58 Pass | Event ID: 435
+Length: 15.8
+Zone: Back
+Angle: 4.0
+Pass End X: 34.1
+Pass End Y: 70.6
+
+34:00 Pass | Event ID: 436
+Length: 27.2
+Zone: Back
+Pass End X: 36.8
+Angle: 4.8
+Pass End Y: 30.7
+
+34:07 Pass | Event ID: 437
+Angle: 5.1
+Pass End Y: 4.7
+Pass End X: 58.1
+Zone: Right
+Length: 11.4
+
+34:08 Pass | Event ID: 438
+Length: 5.5
+Pass End Y: 11.6
+Angle: 1.0
+Pass End X: 60.9
+Q233: 284
+Zone: Right
+
+34:09 Ball touch | Event ID: 284
+Zone: Back
+
+34:10 Ball recovery | Event ID: 285
+
+34:13 Take On | Event ID: 286
+Q233: 439
+Zone: Center
+Q286
+
+34:13 Tackle | Event ID: 439
+Q233: 286
+Q285
+Zone: Back
+
+34:15 Ball recovery | Event ID: 440
+
+34:17 Pass | Event ID: 441
+Pass End X: 58.2
+Length: 22.2
+Angle: 5.3
+Zone: Right
+Pass End Y: 7.0
+
+34:22 Pass | Event ID: 442
+Length: 6.8
+Pass End Y: 2.8
+Zone: Right
+Pass End X: 77.0
+Angle: 5.4
+
+34:25 Pass | Event ID: 443
+Pass End X: 81.2
+Angle: 1.0
+Zone: Right
+Length: 7.7
+Pass End Y: 12.3
+
+34:26 Ball recovery | Event ID: 287
+
+34:28 Pass | Event ID: 288
+Zone: Back
+Length: 5.9
+Pass End Y: 96.3
+Angle: 1.0
+Pass End X: 33.0
+
+34:30 Pass | Event ID: 289
+Pass End Y: 67.3
+Length: 17.1
+Zone: Back
+Pass End X: 30.1
+Angle: 4.7
+
+34:33 Pass | Event ID: 290
+Pass End Y: 45.8
+Length: 20.2
+Angle: 3.8
+Pass End X: 10.4
+Zone: Back
+
+34:36 Pass | Event ID: 291
+Length: 45.8
+Launch
+Angle: 5.9
+Pass End Y: 19.1
+Zone: Right
+Long ball
+Pass End X: 50.4
+
+34:41 Pass | Event ID: 292
+Length: 7.4
+Pass End X: 45.0
+Angle: 4.7
+Zone: Back
+Pass End Y: 2.0
+
+34:42 Pass | Event ID: 293
+Length: 6.5
+Pass End Y: 10.3
+Pass End X: 41.0
+Angle: 2.3
+Zone: Back
+
+34:45 Pass | Event ID: 294
+Pass End X: 32.2
+Angle: 2.5
+Zone: Back
+Pass End Y: 24.0
+Length: 9.6
+
+34:47 Pass | Event ID: 295
+Zone: Back
+Pass End X: 41.1
+Angle: 1.1
+Length: 13.3
+Pass End Y: 35.1
+
+34:50 Pass | Event ID: 296
+Zone: Back
+Length: 13.5
+Angle: 4.2
+Pass End X: 32.9
+Pass End Y: 16.7
+
+34:52 Pass | Event ID: 297
+Angle: 6.0
+Length: 20.6
+Zone: Right
+Pass End Y: 9.2
+Pass End X: 51.7
+
+34:56 Pass | Event ID: 298
+Pass End Y: 23.3
+Pass End X: 76.2
+Length: 25.3
+Angle: 0.5
+Zone: Center
+
+34:59 Interception | Event ID: 444
+Zone: Back
+
+35:00 Ball recovery | Event ID: 445
+
+35:02 Pass | Event ID: 446
+Length: 25.1
+Pass End Y: 30.0
+Zone: Back
+Pass End X: 27.5
+Angle: 5.5
+
+35:08 Pass | Event ID: 447
+Length: 12.8
+Pass End Y: 50.1
+Pass End X: 43.8
+Angle: 1.4
+Zone: Back
+
+35:10 Pass | Event ID: 448
+Pass End X: 53.2
+Length: 28.0
+Angle: 5.0
+Pass End Y: 10.3
+Zone: Right
+
+35:18 Ball touch | Event ID: 449
+Zone: Right
+Q238
+
+35:19 Out | Event ID: 299
+Q233: 450
+Zone: Back
+
+35:19 Out | Event ID: 450
+Zone: Right
+Q233: 299
+
+35:42 Pass | Event ID: 300
+Pass End Y: 81.8
+Pass End X: 42.8
+Length: 14.1
+Throw-in
+Zone: Back
+Angle: 5.0
+
+35:44 Ball touch | Event ID: 301
+Zone: Back
+Q238
+
+35:45 Ball recovery | Event ID: 451
+
+35:46 Pass | Event ID: 452
+Angle: 5.3
+Pass End Y: 14.7
+Pass End X: 32.8
+Zone: Back
+Length: 24.2
+
+35:50 Pass | Event ID: 453
+Pass End Y: 64.8
+Length: 30.1
+Angle: 1.6
+Pass End X: 35.2
+Zone: Back
+
+35:54 Pass | Event ID: 454
+Length: 15.5
+Angle: 1.0
+Pass End X: 43.0
+Pass End Y: 86.0
+Zone: Back
+
+35:56 Pass | Event ID: 455
+Pass End Y: 72.1
+Pass End X: 37.6
+Zone: Back
+Length: 11.4
+Angle: 4.0
+
+35:59 Pass | Event ID: 456
+Pass End X: 35.4
+Length: 26.5
+Angle: 4.7
+Zone: Back
+Pass End Y: 28.2
+
+36:01 Pass | Event ID: 457
+Zone: Back
+Length: 10.7
+Pass End Y: 12.6
+Angle: 5.0
+Pass End X: 38.4
+
+36:03 Pass | Event ID: 458
+Zone: Back
+Pass End Y: 32.2
+Angle: 1.3
+Length: 12.3
+Pass End X: 43.7
+
+36:06 Pass | Event ID: 459
+Long ball
+Pass End X: 76.5
+Angle: 0.8
+Chipped
+Length: 45.7
+Pass End Y: 88.7
+Zone: Left
+
+36:09 Pass | Event ID: 302
+Zone: Back
+Length: 9.7
+Pass End X: 36.6
+Head pass
+Pass End Y: 8.3
+Angle: 0.1
+
+36:10 Ball recovery | Event ID: 303
+
+36:10 Pass | Event ID: 304
+Angle: 1.5
+Pass End X: 37.4
+Zone: Back
+Length: 7.5
+Pass End Y: 19.2
+
+36:12 Pass | Event ID: 305
+Pass End Y: 16.8
+Pass End X: 29.5
+Angle: 3.1
+Length: 12.4
+Zone: Back
+
+36:13 Pass | Event ID: 306
+Pass End Y: 2.2
+Pass End X: 35.2
+Angle: 5.3
+Zone: Back
+Length: 11.6
+
+36:15 Pass | Event ID: 307
+Pass End Y: 4.9
+Length: 3.9
+Pass End X: 38.1
+Angle: 0.6
+Zone: Back
+
+36:17 Pass | Event ID: 460
+Zone: Left
+Pass End X: 80.4
+Length: 8.6
+Angle: 5.9
+Pass End Y: 93.0
+
+36:18 Ball recovery | Event ID: 461
+
+36:19 Take On | Event ID: 462
+Zone: Left
+Q286
+Q233: 308
+
+36:19 Tackle | Event ID: 308
+Q285
+Zone: Back
+Q233: 462
+
+36:21 Ball recovery | Event ID: 309
+
+36:24 Pass | Event ID: 310
+Pass End Y: 26.0
+Zone: Back
+Length: 14.5
+Angle: 1.5
+Pass End X: 30.8
+
+36:25 Ball touch | Event ID: 311
+Zone: Back
+
+36:26 Ball recovery | Event ID: 463
+
+36:27 Pass | Event ID: 464
+Assist
+Angle: 4.6
+Pass End Y: 41.9
+Pass End X: 72.3
+Length: 8.3
+Zone: Center
+
+36:30 Miss | Event ID: 465
+Out of box-centre
+Goal mouth z co-ordinate: 5.6
+Regular play
+Related event ID: 464
+Right footed
+Zone: Center
+Left
+Assisted
+Individual Play
+Goal mouth y co-ordinate: 60
+
+36:32 Out | Event ID: 312
+Zone: Back
+Q233: 466
+
+36:32 Out | Event ID: 466
+Zone: Center
+Q233: 312
+
+36:56 Pass | Event ID: 313
+Goal Kick
+High
+Pass End X: 55.7
+Length: 55.6
+Angle: 6.0
+Pass End Y: 22.1
+Zone: Center
+Long ball
+
+37:00 Aerial | Event ID: 314
+Zone: Center
+Q233: 467
+Q286
+
+37:00 Aerial | Event ID: 467
+Zone: Back
+Q233: 314
+Q285
+
+37:00 Pass | Event ID: 315
+Pass End Y: 22.7
+Zone: Center
+Head pass
+Flick-on
+Length: 15.8
+Pass End X: 72.0
+Angle: 0.0
+
+37:01 Ball touch | Event ID: 316
+Zone: Center
+
+37:02 Ball recovery | Event ID: 468
+
+37:02 Pass | Event ID: 469
+Zone: Back
+Angle: 3.8
+Pass End X: 8.3
+Pass End Y: 52.2
+Length: 21.8
+
+37:07 Pass | Event ID: 470
+Pass End X: 22.9
+Length: 22.2
+Zone: Back
+Angle: 5.3
+Pass End Y: 19.2
+
+37:11 Pass | Event ID: 471
+Angle: 5.6
+Pass End X: 34.8
+Length: 16.2
+Zone: Back
+Pass End Y: 4.0
+
+37:12 Pass | Event ID: 472
+Length: 13.4
+Pass End X: 26.2
+Angle: 2.3
+Pass End Y: 18.6
+Zone: Back
+
+37:17 Pass | Event ID: 473
+Pass End X: 42.0
+Zone: Back
+Angle: 5.5
+Pass End Y: 4.4
+Length: 11.3
+
+37:18 Pass | Event ID: 474
+Angle: 1.4
+Zone: Back
+Length: 6.5
+Pass End Y: 13.7
+Pass End X: 43.4
+
+37:20 Pass | Event ID: 475
+Length: 6.3
+Pass End Y: 9.5
+Zone: Back
+Pass End X: 38.0
+Angle: 3.6
+
+37:21 Pass | Event ID: 476
+Length: 21.1
+Pass End Y: 32.7
+Zone: Back
+Pass End X: 24.6
+Angle: 2.3
+
+37:23 Pass | Event ID: 477
+Angle: 1.4
+Pass End X: 28.3
+Length: 19.8
+Zone: Back
+Pass End Y: 61.2
+
+37:25 Pass | Event ID: 478
+Pass End X: 36.4
+Zone: Back
+Pass End Y: 84.7
+Length: 18.1
+Angle: 1.1
+
+37:27 Pass | Event ID: 479
+Angle: 0.8
+Pass End Y: 96.3
+Length: 10.9
+Pass End X: 43.6
+Zone: Back
+
+37:34 Pass | Event ID: 480
+Pass End X: 58.6
+Length: 15.8
+Zone: Left
+Angle: 0.3
+Pass End Y: 97.4
+
+37:37 Pass | Event ID: 481
+Angle: 5.5
+Long ball
+Through ball
+Chipped
+Pass End X: 85.4
+Intentional assist
+Regular play
+Assist
+Zone: Center
+Pass End Y: 54.0
+Length: 39.6
+
+37:40 Keeper Sweeper | Event ID: 318
+Zone: Back
+
+37:41 Challenge | Event ID: 317
+Q233: 482
+Zone: Back
+Q285
+
+37:41 Take On | Event ID: 482
+Q286
+Zone: Center
+Q233: 317
+
+37:43 Goal | Event ID: 483
+Intentional assist
+Related event ID: 481
+Assisted
+Small box-left
+GK X Coordinate: 87.7
+Regular play
+Q254
+Big Chance
+Zone: Center
+Left footed
+GK Y Coordinate: 57.8
+Low left
+1 on 1
+Goal mouth y co-ordinate: 52.4
+Goal mouth z co-ordinate: 0.6
+
+38:40 Pass | Event ID: 319
+Length: 23.7
+Pass End Y: 71.1
+Pass End X: 31.0
+Angle: 2.6
+Zone: Back
+Q279: G
+
+38:42 Pass | Event ID: 320
+Angle: 1.4
+Zone: Back
+Length: 16.2
+Pass End Y: 94.8
+Pass End X: 32.9
+
+38:43 Take On | Event ID: 321
+Q233: 484
+Zone: Back
+Q285
+
+38:43 Tackle | Event ID: 484
+Zone: Right
+Q286
+Q233: 321
+Out of play
+
+38:44 Out | Event ID: 322
+Q233: 485
+Zone: Back
+
+38:44 Out | Event ID: 485
+Zone: Right
+Q233: 322
+
+38:51 Pass | Event ID: 323
+Pass End X: 44.2
+Zone: Back
+Pass End Y: 79.3
+Throw-in
+Angle: 5.4
+Length: 20.4
+
+38:54 Pass | Event ID: 324
+Pass End X: 37.2
+Zone: Back
+Angle: 4.4
+Pass End Y: 56.3
+Length: 14.9
+
+38:56 Pass | Event ID: 325
+Pass End Y: 52.2
+Zone: Back
+Angle: 5.6
+Pass End X: 40.5
+Length: 4.4
+
+38:57 Interception | Event ID: 486
+Zone: Center
+
+38:58 Pass | Event ID: 326
+Angle: 5.3
+Pass End X: 47.2
+Pass End Y: 3.6
+Length: 17.8
+Zone: Back
+
+39:03 Pass | Event ID: 327
+Length: 11.8
+Angle: 2.9
+Pass End X: 46.5
+Zone: Back
+Pass End Y: 9.5
+
+39:05 Pass | Event ID: 328
+Length: 14.7
+Zone: Back
+Pass End Y: 29.7
+Pass End X: 38.1
+Angle: 2.2
+
+39:08 Pass | Event ID: 329
+Zone: Back
+Pass End X: 35.2
+Pass End Y: 59.7
+Length: 21.0
+Angle: 1.6
+
+39:13 Pass | Event ID: 330
+Pass End Y: 78.1
+Zone: Center
+Pass End X: 56.0
+Angle: 0.6
+Length: 15.0
+
+39:18 Pass | Event ID: 331
+Pass End X: 39.7
+Length: 18.3
+Angle: 3.2
+Pass End Y: 73.3
+Zone: Back
+
+39:20 Pass | Event ID: 332
+Zone: Back
+Pass End Y: 40.3
+Length: 18.4
+Angle: 4.8
+Pass End X: 39.5
+
+39:24 Pass | Event ID: 333
+Angle: 5.0
+Length: 16.0
+Pass End X: 45.7
+Pass End Y: 2.6
+Zone: Back
+
+39:26 Pass | Event ID: 334
+Angle: 6.2
+Pass End Y: 3.4
+Zone: Right
+Length: 19.0
+Pass End X: 61.5
+
+39:29 Foul | Event ID: 335
+Foul
+Q233: 487
+Zone: Right
+Q152
+Q286
+Q265
+
+39:29 Foul | Event ID: 487
+Foul
+Q285
+Q233: 335
+Q265
+Zone: Back
+Q152
+
+39:42 Card | Event ID: 488
+Foul: 243
+Yellow Card
+
+40:03 Card | Event ID: 489
+Yellow Card
+Dissent
+
+40:20 Start delay | Event ID: 336
+Injured player id: 111133
+Q233: 490
+Injury: Injury
+
+40:20 Start delay | Event ID: 490
+Q233: 336
+
+41:02 End delay | Event ID: 337
+Q233: 491
+Related event ID: 336
+
+41:02 End delay | Event ID: 491
+Related event ID: 490
+Q233: 337
+
+41:15 Pass | Event ID: 338
+Q152
+Angle: 1.9
+Zone: Center
+Pass End Y: 34.0
+Free kick taken
+Pass End X: 61.2
+Length: 21.3
+
+41:17 Pass | Event ID: 339
+Chipped
+Length: 24.5
+Angle: 6.2
+Zone: Center
+Pass End X: 87.0
+Pass End Y: 26.8
+
+41:20 Aerial | Event ID: 340
+Q286
+Zone: Center
+Q233: 492
+
+41:20 Aerial | Event ID: 492
+Zone: Back
+Q233: 340
+Q285
+
+41:20 Pass | Event ID: 493
+Length: 7.7
+Pass End Y: 75.3
+Zone: Back
+Angle: 6.0
+Pass End X: 21.8
+Head pass
+
+41:21 Ball recovery | Event ID: 494
+
+41:22 Pass | Event ID: 495
+Pass End Y: 72.1
+Pass End X: 24.3
+Q236
+Length: 3.1
+Angle: 5.7
+Q233: 341
+Zone: Back
+Q286
+
+41:22 Blocked pass | Event ID: 341
+Q233: 495
+Zone: Center
+Q285
+
+41:27 Foul | Event ID: 342
+Q295
+Q285
+Zone: Center
+Q233: 496
+Foul
+Q152
+
+41:27 Foul | Event ID: 496
+Q233: 342
+Zone: Back
+Foul
+Q152
+Q286
+Q295
+
+41:30 Card | Event ID: 343
+Yellow Card
+Foul: 243
+
+41:56 Pass | Event ID: 497
+Pass End Y: 30.7
+Length: 18.5
+Free kick taken
+Q152
+Zone: Back
+Pass End X: 42.2
+Angle: 4.1
+
+41:57 Pass | Event ID: 498
+Length: 24.4
+Zone: Back
+Angle: 1.6
+Pass End X: 41.8
+Pass End Y: 66.6
+
+41:59 Pass | Event ID: 499
+Pass End Y: 68.5
+Angle: 0.1
+Pass End X: 55.1
+Length: 14.0
+Zone: Center
+
+42:01 Pass | Event ID: 500
+Zone: Back
+Pass End X: 37.3
+Angle: 4.4
+Pass End Y: 33.0
+Length: 21.7
+
+42:06 Pass | Event ID: 501
+Pass End X: 66.4
+Angle: 6.1
+Zone: Right
+Pass End Y: 20.6
+Length: 17.2
+
+42:08 Pass | Event ID: 502
+Angle: 5.7
+Pass End Y: 4.4
+Zone: Right
+Length: 18.6
+Pass End X: 80.7
+
+42:12 Challenge | Event ID: 344
+Zone: Back
+Q285
+Q233: 505
+
+42:12 Take On | Event ID: 505
+Q233: 344
+Zone: Right
+Q286
+
+42:13 Take On | Event ID: 503
+Q286
+Zone: Right
+Overrun
+
+42:15 Out | Event ID: 345
+Q233: 504
+Zone: Back
+
+42:15 Out | Event ID: 504
+Zone: Right
+Q233: 345
+
+42:40 Pass | Event ID: 346
+Zone: Right
+High
+Length: 74.2
+Long ball
+Pass End Y: 1.6
+Pass End X: 68.8
+Angle: 5.8
+Goal Kick
+
+42:48 Pass | Event ID: 347
+Length: 16.7
+Pass End Y: 4.6
+Zone: Back
+Angle: 3.1
+Pass End X: 47.4
+
+42:50 Pass | Event ID: 348
+Length: 26.5
+Zone: Right
+Angle: 0.0
+Pass End Y: 2.8
+Pass End X: 79.5
+
+42:55 Pass | Event ID: 349
+Assist
+Cross
+Pass End X: 87.7
+Zone: Right
+Length: 0.4
+Intentional assist
+Pass End Y: 4.3
+Angle: 3.7
+
+42:56 Ball touch | Event ID: 506
+Zone: Back
+
+42:58 Attempt Saved | Event ID: 350
+Box-right
+Q233: 507
+Zone: Center
+Regular play
+Intentional assist
+Assisted
+Blocked x co-ordinate: 91.5
+Blocked y co-ordinate: 35.4
+Blocked
+Right footed
+Related event ID: 349
+
+42:58 Save | Event ID: 507
+Zone: Back
+Q233: 350
+Def block
+
+43:01 Corner Awarded | Event ID: 351
+Q233: 508
+Zone: Center
+Right
+
+43:01 Corner Awarded | Event ID: 508
+Zone: Back
+Q233: 351
+Left
+
+43:48 Pass | Event ID: 352
+Out-swinger
+Corner taken
+Chipped
+Zone: Center
+Angle: 1.8
+Pass End Y: 45.7
+Pass End X: 92.0
+Cross
+Length: 31.7
+
+43:51 Clearance | Event ID: 509
+Pass End X: 19.5
+Zone: Back
+Pass End Y: 48.5
+Angle: 6.0
+Length: 13.0
+Head
+
+43:52 Ball recovery | Event ID: 510
+
+43:52 Pass | Event ID: 1035
+Pass End X: 22.1
+Pass End Y: 61.4
+Angle: 1.1
+Zone: Back
+Length: 8.1
+
+43:53 Pass | Event ID: 1036
+Pass End Y: 59.7
+Angle: 3.9
+Pass End X: 20.9
+Zone: Back
+Length: 1.7
+
+43:57 Pass | Event ID: 511
+Chipped
+Pass End Y: 96.6
+Length: 37.4
+Pass End X: 64.0
+Zone: Left
+Angle: 0.4
+Long ball
+
+44:00 Ball touch | Event ID: 512
+Zone: Left
+
+44:01 Out | Event ID: 353
+Q233: 513
+Zone: Back
+
+44:01 Out | Event ID: 513
+Q233: 353
+Zone: Left
+
+44:15 Pass | Event ID: 354
+Zone: Back
+Pass End Y: 19.7
+Throw-in
+Length: 17.6
+Pass End X: 35.3
+Angle: 2.1
+
+44:18 Pass | Event ID: 355
+Length: 20.2
+Angle: 1.6
+Pass End Y: 51.6
+Zone: Back
+Pass End X: 33.3
+
+44:21 Pass | Event ID: 356
+Length: 5.1
+Zone: Back
+Angle: 5.6
+Pass End Y: 52.1
+Pass End X: 35.6
+
+44:23 Pass | Event ID: 357
+Zone: Back
+Pass End Y: 21.9
+Pass End X: 36.3
+Angle: 4.8
+Length: 19.0
+
+44:26 Pass | Event ID: 358
+Pass End Y: 2.6
+Zone: Back
+Angle: 5.5
+Pass End X: 46.9
+Length: 14.3
+
+44:29 Take On | Event ID: 359
+Q233: 514
+Q286
+Zone: Back
+
+44:29 Tackle | Event ID: 514
+Q285
+Zone: Back
+Q233: 359
+
+44:30 Deleted event | Event ID: 360
+Deleted event type: 61
+Zone: Back
+
+44:31 Pass | Event ID: 515
+Length: 3.7
+Angle: 5.7
+Pass End X: 55.1
+Zone: Left
+Pass End Y: 88.9
+
+44:32 Ball recovery | Event ID: 516
+
+44:32 Pass | Event ID: 517
+Pass End X: 59.3
+Length: 4.8
+Pass End Y: 85.6
+Zone: Left
+Angle: 5.9
+
+44:33 Interception | Event ID: 361
+Zone: Back
+
+44:34 Pass | Event ID: 362
+Pass End X: 48.1
+Angle: 1.0
+Length: 14.9
+Pass End Y: 40.9
+Zone: Back
+
+44:37 Pass | Event ID: 518
+Angle: 5.2
+Pass End X: 64.3
+Zone: Center
+Chipped
+Pass End Y: 33.7
+Length: 20.9
+
+44:38 Pass | Event ID: 519
+Length: 10.5
+Pass End X: 73.8
+Angle: 0.3
+Zone: Center
+Pass End Y: 38.3
+
+44:39 Ball touch | Event ID: 520
+Zone: Center
+
+44:40 Ball recovery | Event ID: 363
+
+44:42 Pass | Event ID: 364
+Angle: 3.8
+Zone: Back
+Pass End X: 7.7
+Pass End Y: 57.2
+Length: 15.8
+
+44:44 Pass | Event ID: 365
+Zone: Back
+Pass End X: 37.5
+Chipped
+Length: 38.4
+Angle: 0.7
+Long ball
+Pass End Y: 92.3
+
+44:48 Foul | Event ID: 366
+Q233: 521
+Zone: Back
+Q265
+Q285
+Foul
+Q152
+
+44:48 Foul | Event ID: 521
+Q265
+Q152
+Foul
+Q233: 366
+Q286
+Zone: Right
+
+45:18 Pass | Event ID: 522
+Chipped
+Length: 41.6
+Intentional assist
+Pass End Y: 55.1
+Pass End X: 87.9
+Free kick taken
+Angle: 0.8
+Zone: Center
+Long ball
+Assist
+Q152
+
+45:20 Aerial | Event ID: 367
+Q233: 523
+Q285
+Zone: Back
+
+45:20 Aerial | Event ID: 523
+Q286
+Zone: Center
+Q233: 367
+
+45:21 Miss | Event ID: 524
+Goal mouth y co-ordinate: 67.2
+Goal mouth z co-ordinate: 8.3
+Left
+Set piece
+Box-centre
+Head
+Related event ID: 522
+Blocked y co-ordinate: 58.8
+Zone: Center
+Not past goal line
+Assisted
+Blocked x co-ordinate: 92.7
+Intentional assist
+
+45:22 Pass | Event ID: 525
+Zone: Center
+Pass End X: 96.6
+Intentional assist
+Assist
+Angle: 5.7
+Pass End Y: 52.0
+Set piece
+Length: 6.4
+
+45:23 Goal | Event ID: 526
+Intentional assist
+Set piece
+GK X Coordinate: 98.1
+Zone: Center
+Related event ID: 525
+Goal mouth y co-ordinate: 51.7
+2nd related event ID: 524
+Low centre
+Keeper Touched
+GK Y Coordinate: 51.1
+Goal mouth z co-ordinate: 5.1
+2nd assisted
+Left footed
+Small box-centre
+Big Chance
+Assisted
+
+46:00 End | Event ID: 368
+End type
+
+46:00 End | Event ID: 527
+End type
+
+45:00 Start | Event ID: 369
+Direction of play: Left to Right
+
+45:00 Start | Event ID: 529
+Direction of play: Right to Left
+
+45:01 Pass | Event ID: 530
+Pass End X: 40.9
+Zone: Back
+Length: 13.0
+Angle: 2.4
+Pass End Y: 63.1
+Q279: S
+
+45:03 Pass | Event ID: 531
+Pass End X: 39.4
+Length: 9.2
+Zone: Back
+Angle: 4.7
+Pass End Y: 51.6
+
+45:04 Pass | Event ID: 532
+Length: 15.3
+Zone: Back
+Pass End X: 29.2
+Angle: 2.3
+Pass End Y: 67.6
+
+45:05 Pass | Event ID: 533
+Zone: Back
+Angle: 4.7
+Pass End X: 29.4
+Pass End Y: 30.0
+Length: 25.6
+
+45:08 Pass | Event ID: 534
+Pass End Y: 6.1
+Angle: 5.2
+Zone: Back
+Pass End X: 37.6
+Length: 18.4
+
+45:09 Pass | Event ID: 535
+Pass End Y: 21.5
+Angle: 2.4
+Length: 15.3
+Zone: Back
+Pass End X: 27.0
+
+45:12 Pass | Event ID: 536
+Angle: 1.6
+Pass End Y: 67.0
+Length: 27.5
+Pass End X: 26.6
+Zone: Back
+
+45:15 Pass | Event ID: 537
+Zone: Back
+Length: 17.7
+Angle: 1.5
+Pass End Y: 95.7
+Pass End X: 34.2
+
+45:17 Pass | Event ID: 538
+Pass End X: 30.8
+Pass End Y: 77.9
+Length: 12.6
+Angle: 4.4
+Zone: Back
+
+45:19 Pass | Event ID: 539
+Length: 34.3
+Zone: Back
+Pass End Y: 27.6
+Angle: 4.8
+Pass End X: 33.6
+Long ball
+
+45:22 Pass | Event ID: 540
+Zone: Back
+Pass End Y: 18.6
+Length: 9.1
+Angle: 5.5
+Pass End X: 40.0
+
+45:26 Pass | Event ID: 541
+Angle: 2.2
+Pass End X: 29.3
+Pass End Y: 45.7
+Length: 17.5
+Zone: Back
+
+45:29 Pass | Event ID: 542
+Pass End X: 36.4
+Angle: 1.2
+Length: 25.0
+Pass End Y: 83.2
+Zone: Back
+
+45:31 Pass | Event ID: 543
+Angle: 4.4
+Pass End X: 32.1
+Zone: Back
+Pass End Y: 61.4
+Length: 15.5
+
+45:34 Pass | Event ID: 544
+Angle: 1.3
+Length: 14.1
+Zone: Back
+Pass End X: 37.4
+Pass End Y: 84.4
+
+45:37 Pass | Event ID: 545
+Zone: Back
+Pass End X: 42.5
+Pass End Y: 96.6
+Length: 7.6
+Angle: 1.2
+
+45:42 Pass | Event ID: 546
+Angle: 0.0
+Zone: Left
+Pass End X: 62.7
+Pass End Y: 92.0
+Length: 28.4
+
+45:45 Ball recovery | Event ID: 370
+
+45:46 Pass | Event ID: 371
+Pass End Y: 13.2
+Length: 22.8
+Pass End X: 57.0
+Chipped
+Zone: Right
+Angle: 0.3
+
+45:47 Pass | Event ID: 372
+Angle: 3.0
+Length: 7.2
+Lay-off
+Zone: Right
+Pass End Y: 14.3
+Pass End X: 51.5
+
+45:48 Pass | Event ID: 547
+Angle: 3.9
+Zone: Back
+Length: 15.8
+Pass End X: 38.1
+Pass End Y: 69.0
+
+45:52 Ball recovery | Event ID: 548
+
+45:52 Pass | Event ID: 549
+Length: 38.0
+Long ball
+Pass End X: 35.8
+Pass End Y: 13.2
+Zone: Back
+Angle: 4.7
+
+45:55 Take On | Event ID: 550
+Q286
+Q233: 373
+Zone: Back
+
+45:55 Tackle | Event ID: 373
+Zone: Left
+Q285
+Q233: 550
+
+45:56 Ball recovery | Event ID: 374
+
+45:57 Dispossessed | Event ID: 375
+Q286
+Q233: 551
+Zone: Left
+
+45:57 Tackle | Event ID: 551
+Out of play
+Q285
+Zone: Back
+Q233: 375
+
+45:58 Out | Event ID: 376
+Zone: Left
+Q233: 552
+
+45:58 Out | Event ID: 552
+Q233: 376
+Zone: Back
+
+46:10 Pass | Event ID: 377
+Zone: Left
+Throw-in
+Length: 7.0
+Pass End X: 72.3
+Angle: 4.8
+Pass End Y: 91.8
+
+46:12 Pass | Event ID: 378
+Pass End Y: 96.9
+Length: 5.8
+Zone: Left
+Angle: 2.0
+Pass End X: 69.9
+
+46:13 Pass | Event ID: 379
+Length: 5.6
+Pass End Y: 88.7
+Angle: 4.9
+Zone: Left
+Pass End X: 70.8
+
+46:15 Pass | Event ID: 380
+Length: 36.3
+Angle: 5.4
+Chipped
+Pass End X: 93.7
+Pass End Y: 48.2
+Long ball
+Zone: Center
+Cross
+
+46:17 Keeper pick-up | Event ID: 553
+
+46:24 Pass | Event ID: 554
+Angle: 5.2
+Keeper Throw
+Pass End X: 21.6
+Pass End Y: 18.2
+Length: 24.1
+Zone: Back
+
+46:27 Pass | Event ID: 555
+Pass End X: 13.5
+Pass End Y: 47.6
+Angle: 2.0
+Zone: Back
+Length: 22.8
+
+46:29 Pass | Event ID: 556
+Angle: 0.8
+Pass End Y: 62.3
+Length: 13.8
+Zone: Back
+Pass End X: 22.5
+
+46:34 Pass | Event ID: 557
+Length: 17.5
+Angle: 0.1
+Pass End Y: 76.1
+Zone: Back
+Pass End X: 42.6
+
+46:37 Pass | Event ID: 558
+Zone: Back
+Pass End X: 41.1
+Angle: 4.7
+Length: 29.2
+Pass End Y: 27.6
+
+46:40 Pass | Event ID: 559
+Pass End X: 62.5
+Length: 24.7
+Angle: 5.7
+Pass End Y: 4.1
+Zone: Right
+
+46:42 Pass | Event ID: 560
+Angle: 0.4
+Pass End X: 73.5
+Pass End Y: 11.6
+Length: 11.1
+Zone: Right
+
+46:45 Pass | Event ID: 561
+Angle: 3.0
+Pass End Y: 14.4
+Pass End X: 57.7
+Length: 10.1
+Zone: Right
+
+46:47 Pass | Event ID: 562
+Length: 6.9
+Pass End X: 59.8
+Zone: Center
+Pass End Y: 24.0
+Angle: 1.2
+
+46:49 Pass | Event ID: 563
+Length: 19.8
+Pass End X: 52.2
+Pass End Y: 60.9
+Zone: Center
+Angle: 1.9
+
+46:53 Pass | Event ID: 564
+Long ball
+Length: 44.0
+Zone: Right
+Pass End Y: 18.6
+Chipped
+Angle: 5.6
+Pass End X: 84.7
+
+46:57 Pass | Event ID: 565
+Pass End X: 95.4
+Length: 21.9
+Cross
+Chipped
+Pass End Y: 50.0
+Angle: 1.4
+Zone: Center
+
+46:58 Clearance | Event ID: 381
+Head
+Length: 37.1
+Angle: 1.0
+Pass End X: 22.0
+Out of play
+Pass End Y: 100.0
+Zone: Back
+
+47:00 Out | Event ID: 382
+Q233: 566
+Zone: Back
+
+47:00 Out | Event ID: 566
+Zone: Right
+Q233: 382
+
+47:07 Pass | Event ID: 567
+Zone: Right
+Pass End X: 63.4
+Pass End Y: 5.3
+Angle: 2.8
+Throw-in
+Length: 15.1
+
+47:13 Pass | Event ID: 568
+Angle: 1.7
+Pass End X: 52.3
+Zone: Center
+Length: 22.7
+Pass End Y: 47.9
+
+47:16 Pass | Event ID: 569
+Pass End Y: 93.5
+Zone: Left
+Angle: 1.4
+Pass End X: 56.8
+Length: 30.8
+
+47:19 Pass | Event ID: 570
+Length: 11.6
+Angle: 3.6
+Zone: Back
+Pass End X: 47.1
+Pass End Y: 85.3
+
+47:20 Pass | Event ID: 571
+Zone: Back
+Angle: 4.7
+Pass End X: 45.8
+Length: 40.1
+Pass End Y: 26.2
+Long ball
+
+47:26 Pass | Event ID: 572
+Pass End Y: 13.1
+Angle: 0.7
+Length: 6.3
+Zone: Right
+Pass End X: 62.7
+
+47:27 Pass | Event ID: 573
+Angle: 1.4
+Length: 10.9
+Pass End Y: 28.9
+Pass End X: 64.2
+Zone: Center
+
+47:29 Pass | Event ID: 574
+Pass End X: 76.0
+Assist
+Zone: Center
+Angle: 6.1
+Intentional assist
+Pass End Y: 25.9
+Length: 12.6
+
+47:30 Challenge | Event ID: 383
+Q285
+Zone: Back
+Q233: 575
+
+47:30 Take On | Event ID: 575
+Q286
+Zone: Center
+Q233: 383
+
+47:32 Attempt Saved | Event ID: 576
+Blocked x co-ordinate: 98.0
+Left footed
+Low centre
+Assisted
+Individual Play
+Regular play
+Goal mouth y co-ordinate: 51.2
+Zone: Center
+Intentional assist
+Blocked y co-ordinate: 48.9
+Goal mouth z co-ordinate: 1.3
+Q233: 384
+Related event ID: 574
+Box-centre
+
+47:32 Save | Event ID: 384
+Diving
+Q233: 576
+Zone: Back
+Parried safe
+Hands
+
+47:34 Keeper pick-up | Event ID: 385
+
+47:40 Pass | Event ID: 386
+Zone: Back
+Length: 20.3
+Keeper Throw
+Pass End X: 20.0
+Angle: 1.3
+Pass End Y: 80.2
+
+47:42 Pass | Event ID: 387
+Length: 16.5
+Pass End X: 30.4
+Angle: 0.8
+Pass End Y: 98.3
+Zone: Back
+
+47:44 Pass | Event ID: 388
+Pass End X: 21.8
+Pass End Y: 94.2
+Angle: 3.4
+Zone: Back
+Length: 9.4
+
+47:46 Pass | Event ID: 389
+Zone: Back
+Pass End X: 37.4
+Length: 14.6
+Angle: 6.2
+Pass End Y: 93.3
+
+47:47 Pass | Event ID: 390
+Pass End X: 29.6
+Zone: Back
+Length: 13.2
+Angle: 4.0
+Pass End Y: 77.9
+
+47:50 Ball recovery | Event ID: 577
+
+47:52 Pass | Event ID: 578
+Long ball
+Angle: 0.6
+Length: 37.8
+Zone: Left
+Pass End Y: 84.2
+Pass End X: 97.7
+
+47:56 Pass | Event ID: 579
+Pass End Y: 46.6
+Chipped
+Length: 26.5
+Intentional assist
+Pass End X: 91.2
+Zone: Center
+Angle: 4.5
+Cross
+Assist
+
+47:58 Aerial | Event ID: 391
+Q233: 580
+Q285
+Zone: Back
+
+47:58 Aerial | Event ID: 580
+Q286
+Q233: 391
+Zone: Center
+
+47:59 Save | Event ID: 392
+Caught
+Hands
+Zone: Back
+Diving
+Q233: 581
+
+47:59 Attempt Saved | Event ID: 581
+Regular play
+Head
+Blocked y co-ordinate: 46.2
+Intentional assist
+Goal mouth z co-ordinate: 11.4
+Low right
+Q233: 392
+Related event ID: 579
+Goal mouth y co-ordinate: 45.9
+Zone: Center
+Blocked x co-ordinate: 99.0
+Assisted
+Box-centre
+
+48:01 Keeper pick-up | Event ID: 393
+
+48:18 Pass | Event ID: 394
+Zone: Right
+Long ball
+Pass End Y: 0.0
+Pass End X: 51.6
+Angle: 5.5
+Length: 53.8
+Gk kick from hands
+
+48:19 Out | Event ID: 395
+Zone: Right
+Q233: 582
+
+48:19 Out | Event ID: 582
+Q233: 395
+Zone: Back
+
+48:27 Pass | Event ID: 583
+Angle: 3.7
+Zone: Back
+Length: 22.9
+Throw-in
+Long ball
+Pass End X: 27.2
+Pass End Y: 85.1
+
+48:29 Pass | Event ID: 584
+Pass End X: 29.4
+Zone: Back
+Angle: 4.8
+Long ball
+Pass End Y: 26.7
+Length: 40.1
+
+48:33 Pass | Event ID: 585
+Zone: Back
+Pass End Y: 7.1
+Angle: 5.0
+Length: 12.4
+Pass End X: 42.1
+
+48:36 Pass | Event ID: 586
+Zone: Back
+Pass End Y: 36.1
+Length: 18.4
+Pass End X: 37.0
+Angle: 1.8
+
+48:39 Pass | Event ID: 587
+Angle: 1.6
+Zone: Back
+Length: 20.7
+Pass End X: 34.0
+Pass End Y: 68.5
+
+48:42 Pass | Event ID: 588
+Length: 26.4
+Angle: 0.8
+Zone: Left
+Pass End Y: 96.6
+Pass End X: 53.1
+
+48:45 Pass | Event ID: 589
+Length: 10.1
+Zone: Left
+Pass End Y: 82.9
+Pass End X: 56.7
+Angle: 5.1
+
+48:46 Pass | Event ID: 590
+Lay-off
+Pass End X: 41.5
+Pass End Y: 83.2
+Angle: 3.1
+Length: 16.0
+Zone: Back
+
+48:48 Pass | Event ID: 591
+Length: 62.8
+Long ball
+Pass End X: 80.0
+Chipped
+Zone: Right
+Angle: 5.4
+Pass End Y: 9.8
+Switch of play
+
+48:52 Pass | Event ID: 592
+Chipped
+Cross
+Angle: 1.2
+Pass End X: 86.3
+Length: 5.6
+Zone: Right
+Pass End Y: 20.7
+
+48:53 Ball touch | Event ID: 396
+Zone: Back
+
+48:54 Keeper pick-up | Event ID: 397
+
+48:57 Pass | Event ID: 398
+Keeper Throw
+Length: 18.8
+Angle: 6.1
+Pass End X: 26.9
+Zone: Back
+Pass End Y: 44.0
+
+48:59 Pass | Event ID: 399
+Pass End Y: 77.2
+Zone: Back
+Pass End X: 38.2
+Angle: 0.9
+Length: 23.1
+
+49:01 Pass | Event ID: 400
+Angle: 6.3
+Pass End X: 56.8
+Length: 18.9
+Zone: Center
+Pass End Y: 75.3
+
+49:02 Ball recovery | Event ID: 593
+
+49:02 Pass | Event ID: 594
+Zone: Back
+Long ball
+Length: 32.7
+Angle: 2.8
+Pass End Y: 43.0
+Pass End X: 15.5
+
+49:06 Pass | Event ID: 595
+Angle: 0.7
+Pass End X: 25.6
+Zone: Back
+Pass End Y: 60.6
+Length: 15.2
+
+49:09 Pass | Event ID: 596
+Pass End X: 33.0
+Pass End Y: 52.7
+Length: 9.4
+Zone: Back
+Angle: 5.7
+
+49:11 Pass | Event ID: 597
+Zone: Back
+Length: 18.6
+Angle: 1.3
+Pass End Y: 79.4
+Pass End X: 39.1
+
+49:17 Pass | Event ID: 598
+Zone: Back
+Angle: 2.3
+Pass End X: 45.1
+Pass End Y: 93.9
+Length: 10.6
+
+49:18 Pass | Event ID: 599
+Pass End X: 55.3
+Pass End Y: 84.1
+Angle: 5.7
+Zone: Left
+Length: 11.7
+Chipped
+
+49:19 Ball touch | Event ID: 401
+Zone: Back
+
+49:23 Out | Event ID: 402
+Zone: Back
+Q233: 600
+
+49:23 Out | Event ID: 600
+Q233: 402
+Zone: Left
+
+49:34 Pass | Event ID: 601
+Pass End Y: 93.9
+Throw-in
+Zone: Left
+Pass End X: 56.8
+Length: 19.4
+Angle: 3.4
+
+49:38 Foul | Event ID: 403
+Q285
+Foul
+Q265
+Zone: Back
+Q233: 602
+Q152
+
+49:38 Foul | Event ID: 602
+Q286
+Foul
+Zone: Left
+Q265
+Q152
+Q233: 403
+
+49:47 Pass | Event ID: 603
+Pass End Y: 81.4
+Zone: Left
+Pass End X: 62.5
+Q152
+Free kick taken
+Length: 10.0
+Angle: 4.0
+
+49:49 Pass | Event ID: 604
+Pass End Y: 32.4
+Long ball
+Zone: Center
+Pass End X: 56.8
+Angle: 4.7
+Length: 32.7
+
+49:50 Pass | Event ID: 605
+Length: 9.7
+Pass End Y: 27.4
+Pass End X: 65.5
+Zone: Center
+Angle: 5.9
+
+49:52 Pass | Event ID: 606
+Angle: 3.4
+Pass End X: 57.0
+Zone: Center
+Pass End Y: 24.0
+Length: 9.2
+
+49:53 Pass | Event ID: 607
+Angle: 4.8
+Length: 12.9
+Pass End X: 57.2
+Zone: Right
+Pass End Y: 5.2
+
+49:56 Pass | Event ID: 608
+Pass End Y: 9.4
+Zone: Back
+Pass End X: 39.3
+Angle: 3.0
+Length: 17.6
+
+49:58 Pass | Event ID: 609
+Pass End X: 41.5
+Pass End Y: 52.4
+Length: 27.8
+Zone: Back
+Angle: 1.4
+
+50:02 Pass | Event ID: 610
+Length: 4.8
+Pass End Y: 47.9
+Pass End X: 45.0
+Zone: Back
+Angle: 4.9
+
+50:07 Challenge | Event ID: 404
+Q233: 611
+Q285
+Zone: Back
+
+50:07 Take On | Event ID: 611
+Q286
+Zone: Center
+Q233: 404
+
+50:09 Take On | Event ID: 612
+Q286
+Q233: 405
+Zone: Center
+
+50:09 Tackle | Event ID: 405
+Q233: 612
+Zone: Back
+Q285
+
+50:10 Ball touch | Event ID: 613
+Zone: Center
+
+50:12 Pass | Event ID: 614
+Length: 9.9
+Angle: 0.0
+Zone: Center
+Pass End Y: 73.3
+Pass End X: 80.2
+
+50:14 Ball recovery | Event ID: 406
+
+50:14 Pass | Event ID: 407
+Length: 9.7
+Pass End X: 24.7
+Angle: 5.2
+Pass End Y: 12.3
+Zone: Back
+
+50:16 Dispossessed | Event ID: 408
+Q285
+Zone: Back
+Q233: 615
+
+50:16 Tackle | Event ID: 615
+Zone: Left
+Q286
+Q233: 408
+
+50:18 Ball recovery | Event ID: 616
+
+50:18 Pass | Event ID: 617
+Length: 18.6
+Pass End Y: 86.0
+Pass End X: 92.2
+Zone: Left
+Angle: 0.4
+
+50:20 Pass | Event ID: 618
+Angle: 4.7
+Zone: Right
+Long ball
+Cross
+Chipped
+Pass End X: 92.3
+Pass End Y: 3.2
+Length: 56.1
+
+50:26 Pass | Event ID: 619
+Zone: Center
+Angle: 1.4
+Pass End X: 95.1
+Pass End Y: 26.2
+Length: 15.3
+
+50:27 Ball touch | Event ID: 409
+Zone: Back
+
+50:28 Ball recovery | Event ID: 410
+
+50:31 Pass | Event ID: 411
+Angle: 0.3
+Pass End X: 13.0
+Zone: Back
+Pass End Y: 97.8
+Length: 11.3
+
+50:33 Pass | Event ID: 412
+Pass End X: 2.7
+Length: 13.5
+Pass End Y: 88.3
+Angle: 3.6
+Zone: Back
+
+50:39 Take On | Event ID: 413
+Zone: Back
+Q233: 620
+Q285
+
+50:39 Tackle | Event ID: 620
+Q233: 413
+Zone: Center
+Q286
+
+50:40 Foul | Event ID: 415
+Q285
+Foul
+Zone: Back
+Q152
+Q265
+Q233: 621
+
+50:40 Foul | Event ID: 621
+Zone: Center
+Q286
+Q233: 415
+Foul
+Q265
+Q152
+
+50:41 Deleted event | Event ID: 414
+Deleted event type: 3
+Zone: Back
+Q285
+Overrun
+
+51:50 Attempt Saved | Event ID: 622
+Out of box-centre
+Free kick
+Swerve Moving
+Blocked x co-ordinate: 80.1
+Left footed
+Blocked y co-ordinate: 42.8
+Zone: Center
+Blocked
+Q233: 417
+
+51:50 Save | Event ID: 417
+Zone: Back
+Q239
+Def block
+Q233: 622
+
+51:52 Corner Awarded | Event ID: 418
+Q233: 624
+Left
+Zone: Back
+
+51:52 Corner Awarded | Event ID: 624
+Left
+Zone: Center
+Q233: 418
+
+51:53 Deleted event | Event ID: 416
+Deleted event type: 5
+Zone: Back
+
+51:53 Deleted event | Event ID: 623
+Deleted event type: 5
+Q233: 416
+Zone: Center
+
+52:09 Pass | Event ID: 625
+Length: 30.7
+Angle: 3.6
+Pass End X: 73.2
+Corner taken
+Pass End Y: 79.7
+Zone: Left
+
+52:12 Pass | Event ID: 626
+Chipped
+Cross
+Angle: 5.7
+Pass End Y: 74.8
+Length: 6.7
+Pass End X: 78.7
+Zone: Center
+
+52:13 Clearance | Event ID: 419
+Length
+Blocked cross
+Pass End X: 22.2
+Angle: 4.7
+Pass End Y: 22.2
+Zone: Back
+
+52:17 Pass | Event ID: 420
+Pass End X: 40.9
+Head pass
+Angle: 5.8
+Zone: Back
+Length: 11.6
+Pass End Y: 61.5
+
+52:19 Dispossessed | Event ID: 421
+Zone: Back
+Q233: 627
+Q286
+
+52:19 Tackle | Event ID: 627
+Q285
+Zone: Center
+Q233: 421
+
+52:23 Pass | Event ID: 628
+Launch
+Pass End X: 68.9
+Angle: 0.7
+Pass End Y: 89.3
+Long ball
+Zone: Back
+Length: 32.5
+
+52:27 Interception | Event ID: 422
+Zone: Back
+Head
+
+52:28 Pass | Event ID: 423
+Launch
+Angle: 6.2
+Length: 28.0
+Pass End Y: 7.9
+Long ball
+Zone: Right
+Pass End X: 53.7
+
+52:30 Pass | Event ID: 629
+Zone: Left
+Pass End Y: 85.7
+Angle: 5.1
+Pass End X: 55.7
+Length: 5.2
+
+52:32 Pass | Event ID: 630
+Long ball
+Angle: 3.7
+Pass End Y: 54.2
+Pass End X: 14.0
+Length: 43.9
+Zone: Back
+
+52:37 Pass | Event ID: 631
+Length: 19.6
+Angle: 5.5
+Pass End X: 34.4
+Zone: Back
+Pass End Y: 31.6
+
+52:42 Pass | Event ID: 632
+Pass End Y: 50.1
+Pass End X: 82.1
+Angle: 0.4
+Length: 46.2
+Through ball
+Chipped
+Zone: Center
+Assist
+Long ball
+Intentional assist
+
+52:45 Save | Event ID: 424
+Standing
+Hands
+Caught
+Q233: 633
+Zone: Back
+
+52:45 Attempt Saved | Event ID: 633
+Head
+Intentional assist
+Zone: Center
+Goal mouth z co-ordinate: 19.6
+Regular play
+Assisted
+Blocked y co-ordinate: 50
+Low centre
+Q233: 424
+Goal mouth y co-ordinate: 49.8
+Related event ID: 632
+Blocked x co-ordinate: 96.9
+Out of box-centre
+Weak
+
+52:46 Keeper pick-up | Event ID: 425
+
+52:52 Pass | Event ID: 426
+Q287
+Length: 27.7
+Pass End X: 24.1
+Pass End Y: 12.2
+Zone: Back
+Keeper Throw
+Angle: 5.1
+
+52:55 Pass | Event ID: 427
+Angle: 2.2
+Pass End Y: 23.0
+Length: 13.8
+Pass End X: 21.8
+Zone: Back
+
+52:59 Pass | Event ID: 428
+Length: 19.2
+Pass End X: 16.5
+Pass End Y: 53.8
+Zone: Back
+Angle: 1.7
+
+53:02 Pass | Event ID: 429
+Length: 26.8
+Pass End X: 29.5
+Angle: 1.2
+Pass End Y: 97.4
+Zone: Back
+
+53:07 Pass | Event ID: 430
+Pass End Y: 80.2
+Length: 18.7
+Pass End X: 17.1
+Zone: Back
+Angle: 3.8
+
+53:11 Pass | Event ID: 431
+Pass End Y: 62.1
+Length: 18.3
+Angle: 4.0
+Pass End X: 2.8
+Zone: Back
+
+53:13 Pass | Event ID: 432
+Zone: Back
+Pass End X: 37.2
+Long ball
+Launch
+Angle: 0.5
+Length: 42.0
+Pass End Y: 93.5
+
+53:17 Pass | Event ID: 634
+Pass End Y: 20.3
+Zone: Right
+Angle: 1.1
+Pass End X: 63.5
+Length: 10.2
+Head pass
+
+53:18 Interception | Event ID: 433
+Zone: Back
+
+53:19 Ball touch | Event ID: 733
+Zone: Back
+
+53:20 Deleted event | Event ID: 635
+Zone: Right
+Deleted event type: 61
+
+53:22 Pass | Event ID: 434
+Zone: Back
+Length: 12.6
+Angle: 0.7
+Pass End X: 35.2
+Pass End Y: 100.0
+
+53:26 Out | Event ID: 435
+Q233: 636
+Zone: Back
+
+53:26 Out | Event ID: 636
+Q233: 435
+Zone: Right
+
+53:32 Pass | Event ID: 637
+Angle: 1.9
+Zone: Right
+Pass End Y: 9.8
+Length: 8.0
+Pass End X: 59.5
+Throw-in
+
+53:34 Pass | Event ID: 638
+Length: 22.9
+Pass End Y: 41.8
+Pass End X: 48.6
+Angle: 2.1
+Zone: Back
+
+53:37 Pass | Event ID: 639
+Length: 22.6
+Angle: 1.6
+Pass End Y: 78.1
+Zone: Center
+Pass End X: 52.7
+
+53:39 Pass | Event ID: 640
+Angle: 6.0
+Pass End Y: 73.2
+Length: 10.9
+Zone: Center
+Pass End X: 63.1
+
+53:42 Deleted event | Event ID: 641
+Q286
+Zone: Center
+Deleted event type: 50
+
+53:42 Foul | Event ID: 436
+Q285
+Q233: 642
+Q152
+Foul
+Zone: Back
+Q265
+
+53:42 Foul | Event ID: 642
+Q152
+Zone: Center
+Q233: 436
+Q286
+Foul
+Q265
+
+53:53 Pass | Event ID: 643
+Zone: Center
+Length: 5.9
+Pass End X: 56.9
+Pass End Y: 73.6
+Free kick taken
+Q152
+Angle: 4.5
+
+53:55 Pass | Event ID: 644
+Pass End Y: 17.4
+Chipped
+Pass End X: 86.1
+Zone: Right
+Angle: 5.4
+Length: 49.0
+Long ball
+
+53:58 Take On | Event ID: 645
+Q233: 437
+Q286
+Zone: Center
+
+53:58 Tackle | Event ID: 437
+Q285
+Zone: Back
+Q233: 645
+
+54:00 Pass | Event ID: 646
+Length: 22.3
+Pass End X: 93.3
+Cross
+Chipped
+Pass End Y: 55.1
+Angle: 1.5
+Zone: Center
+
+54:01 Clearance | Event ID: 438
+Pass End Y: 83.5
+Head
+Zone: Back
+Angle: 0.8
+Length: 30.7
+Pass End X: 27.1
+
+54:05 Ball recovery | Event ID: 439
+
+54:06 Take On | Event ID: 440
+Q286
+Zone: Back
+Q233: 647
+
+54:06 Tackle | Event ID: 647
+Zone: Right
+Q233: 440
+Out of play
+Q285
+
+54:08 Out | Event ID: 441
+Zone: Back
+Q233: 648
+
+54:08 Out | Event ID: 648
+Q233: 441
+Zone: Right
+
+54:36 Player off | Event ID: 442
+Player position: Forward
+Tactical
+Related event ID: 443
+Jersey number: 7
+
+54:36 Player on | Event ID: 443
+Q292: 8
+Related event ID: 442
+Q293: 2
+Formation slot: 10
+Jersey number: 23
+Tactical
+Player position: Midfielder
+
+54:48 Pass | Event ID: 444
+Zone: Left
+Throw-in
+Angle: 5.9
+Long ball
+Pass End X: 66.4
+Pass End Y: 88.4
+Length: 24.7
+Chipped
+
+54:50 Interception | Event ID: 649
+Zone: Back
+Head
+
+54:51 Ball touch | Event ID: 445
+Zone: Left
+
+54:52 Ball recovery | Event ID: 650
+
+54:57 Pass | Event ID: 651
+Pass End Y: 10.3
+Pass End X: 10.3
+Long ball
+Angle: 6.1
+Q236
+Zone: Back
+Q286
+Launch
+Q233: 446
+Length: 4.2
+
+54:57 Blocked pass | Event ID: 446
+Zone: Left
+Q233: 651
+Q285
+
+54:59 Out | Event ID: 447
+Q233: 652
+Zone: Left
+
+54:59 Out | Event ID: 652
+Q233: 447
+Zone: Back
+
+55:10 Pass | Event ID: 653
+Length: 26.5
+Pass End Y: 73.0
+Goal Kick
+Angle: 0.9
+Pass End X: 19.9
+Q237
+Zone: Back
+
+55:12 Pass | Event ID: 654
+Pass End X: 24.3
+Angle: 1.2
+Zone: Back
+Pass End Y: 92.0
+Length: 13.7
+
+55:14 Pass | Event ID: 655
+Angle: 0.2
+Length: 10.3
+Pass End X: 34.9
+Pass End Y: 96.2
+Zone: Back
+
+55:16 Interception | Event ID: 448
+Zone: Right
+
+55:18 Ball recovery | Event ID: 449
+
+55:19 Pass | Event ID: 450
+Pass End Y: 12.9
+Pass End X: 59.0
+Angle: 1.5
+Length: 5.7
+Zone: Right
+
+55:23 Pass | Event ID: 451
+Length: 4.6
+Angle: 0.1
+Zone: Right
+Pass End X: 65.0
+Pass End Y: 3.8
+
+55:24 Ball touch | Event ID: 656
+Zone: Back
+
+55:25 Out | Event ID: 452
+Zone: Right
+Q233: 657
+
+55:25 Out | Event ID: 657
+Q233: 452
+Zone: Back
+
+55:34 Pass | Event ID: 453
+Angle: 1.4
+Pass End Y: 23.0
+Throw-in
+Pass End X: 70.8
+Length: 17.2
+Zone: Center
+
+55:36 Take On | Event ID: 454
+Q286
+Q233: 658
+Zone: Center
+
+55:36 Tackle | Event ID: 658
+Zone: Back
+Q233: 454
+Q285
+
+55:38 Foul | Event ID: 455
+Q286
+Q233: 659
+Foul
+Zone: Center
+Q152
+Q295
+
+55:38 Foul | Event ID: 659
+Zone: Back
+Q233: 455
+Q152
+Q285
+Q295
+Foul
+
+55:52 Pass | Event ID: 660
+Free kick taken
+Q152
+Angle: 0.6
+Pass End X: 25.0
+Length: 7.1
+Zone: Back
+Pass End Y: 59.3
+
+55:53 Pass | Event ID: 661
+Length: 12.9
+Pass End Y: 60.3
+Angle: 0.1
+Zone: Back
+Pass End X: 37.3
+
+55:54 Pass | Event ID: 662
+Pass End Y: 56.0
+Length: 9.6
+Angle: 3.5
+Pass End X: 28.6
+Lay-off
+Zone: Back
+
+55:55 Pass | Event ID: 663
+Pass End Y: 76.7
+Angle: 1.1
+Pass End X: 35.3
+Length: 15.7
+Zone: Back
+
+55:57 Pass | Event ID: 664
+Pass End Y: 56.4
+Length: 13.8
+Pass End X: 35.4
+Angle: 4.7
+Zone: Back
+
+55:59 Pass | Event ID: 665
+Zone: Back
+Pass End Y: 58.8
+Angle: 3.0
+Length: 9.6
+Pass End X: 26.3
+
+56:00 Pass | Event ID: 666
+Length: 22.3
+Angle: 4.9
+Zone: Back
+Pass End Y: 26.5
+Pass End X: 30.0
+
+56:02 Pass | Event ID: 667
+Pass End X: 42.8
+Angle: 5.4
+Zone: Back
+Length: 19.1
+Pass End Y: 4.9
+
+56:04 Pass | Event ID: 668
+Length: 26.4
+Pass End X: 67.9
+Pass End Y: 5.9
+Zone: Right
+Angle: 0.0
+
+56:10 Foul | Event ID: 456
+Q233: 669
+Q152
+Foul
+Q285
+Zone: Back
+Q295
+
+56:10 Foul | Event ID: 669
+Q295
+Q286
+Foul
+Zone: Right
+Q233: 456
+Q152
+
+56:49 Pass | Event ID: 670
+Zone: Center
+Cross
+Angle: 1.0
+Pass End Y: 36.7
+Length: 26.5
+Pass End X: 87.2
+Chipped
+Q152
+Free kick taken
+
+56:52 Clearance | Event ID: 457
+Head
+Zone: Back
+Pass End Y: 41.2
+Pass End X: 27.0
+Angle: 5.5
+Length: 17.8
+
+56:55 Pass | Event ID: 671
+Angle: 0.8
+Zone: Center
+Length: 8.3
+Head pass
+Pass End X: 75.2
+Pass End Y: 66.3
+
+56:56 Pass | Event ID: 458
+Zone: Right
+Head pass
+Angle: 5.8
+Length: 31.2
+Pass End X: 52.6
+Pass End Y: 12.6
+
+56:59 Ball recovery | Event ID: 459
+
+57:01 Take On | Event ID: 460
+Q233: 672
+Zone: Right
+Q286
+
+57:01 Tackle | Event ID: 672
+Q233: 460
+Zone: Back
+Q285
+
+57:04 Ball recovery | Event ID: 673
+
+57:05 Dispossessed | Event ID: 674
+Q233: 461
+Zone: Back
+Q286
+
+57:05 Tackle | Event ID: 461
+Q233: 674
+Q285
+Zone: Right
+
+57:06 Tackle | Event ID: 462
+Q233: 675
+Q285
+Zone: Back
+
+57:06 Take On | Event ID: 675
+Zone: Left
+Q233: 462
+Q286
+
+57:09 Ball touch | Event ID: 1037
+Zone: Center
+
+57:11 Ball recovery | Event ID: 463
+
+57:12 Pass | Event ID: 464
+Pass End X: 76.0
+Angle: 0.8
+Pass End Y: 91.1
+Long ball
+Length: 32.7
+Zone: Left
+
+57:19 Pass | Event ID: 465
+Angle: 6.1
+Zone: Left
+Pass End Y: 79.8
+Pass End X: 87.0
+Length: 7.7
+
+57:22 Pass | Event ID: 466
+Pass End Y: 69.9
+Pass End X: 90.0
+Length: 4.7
+Angle: 4.9
+Zone: Center
+Cross
+Chipped
+
+57:23 Ball touch | Event ID: 1038
+Zone: Back
+
+57:29 Pass | Event ID: 467
+Cross
+Angle: 1.1
+Pass End X: 84.0
+Zone: Center
+Pass End Y: 50.3
+Chipped
+Length: 30.1
+
+57:35 Pass | Event ID: 468
+Pass End X: 75.1
+Angle: 1.6
+Zone: Center
+Length: 7.8
+Pass End Y: 66.6
+
+57:36 Ball recovery | Event ID: 676
+
+57:37 Pass | Event ID: 677
+Zone: Back
+Length: 6.7
+Pass End Y: 24.1
+Pass End X: 21.1
+Angle: 4.1
+
+57:38 Pass | Event ID: 679
+Pass End X: 36.1
+Pass End Y: 14.3
+Length: 15.8
+Zone: Back
+Angle: 5.7
+
+57:39 Ball recovery | Event ID: 469
+
+57:40 Pass | Event ID: 470
+Pass End X: 72.2
+Pass End Y: 91.4
+Length: 10.1
+Angle: 0.6
+Zone: Left
+
+57:43 Pass | Event ID: 471
+Zone: Center
+Angle: 5.0
+Pass End X: 78.3
+Length: 19.4
+Pass End Y: 62.7
+
+57:45 Dispossessed | Event ID: 472
+Zone: Center
+Q233: 680
+Q286
+
+57:45 Tackle | Event ID: 680
+Q285
+Zone: Back
+Q233: 472
+
+57:47 Ball recovery | Event ID: 681
+
+57:47 Pass | Event ID: 682
+Angle: 1.3
+Pass End X: 29.4
+Pass End Y: 51.8
+Length: 16.7
+Zone: Back
+
+57:50 Pass | Event ID: 683
+Long ball
+Length: 32.3
+Zone: Left
+Pass End Y: 87.4
+Pass End X: 56.1
+Angle: 0.7
+
+57:59 Pass | Event ID: 684
+Length: 16.7
+Zone: Center
+Pass End Y: 72.1
+Angle
+Pass End X: 91.2
+
+58:01 Pass | Event ID: 686
+Zone: Center
+Length: 6.9
+Pass End Y: 63.9
+Chipped
+Angle: 4.9
+Pass End X: 88.1
+Cross
+
+58:03 Clearance | Event ID: 473
+Zone: Back
+Out of play
+Head
+Angle: 5.0
+Pass End X: 17.0
+Length: 24.3
+Pass End Y: 0.0
+
+58:07 Out | Event ID: 474
+Zone: Back
+Q233: 687
+
+58:07 Out | Event ID: 687
+Q233: 474
+Zone: Left
+
+58:28 Pass | Event ID: 689
+Angle: 4.5
+Pass End Y: 88.9
+Zone: Left
+Length: 9.2
+Throw-in
+Pass End X: 80.6
+
+58:32 Foul | Event ID: 476
+Zone: Back
+Foul
+Q233: 690
+Q285
+Q265
+Q152
+
+58:32 Foul | Event ID: 690
+Foul
+Zone: Left
+Q152
+Q286
+Q265
+Q233: 476
+
+59:08 Pass | Event ID: 691
+Assist
+Free kick taken
+Angle: 5.2
+Pass End Y: 54.2
+Intentional assist
+Zone: Center
+Cross
+Chipped
+Length: 26.1
+Pass End X: 87.2
+Q152
+
+59:10 Attempt Saved | Event ID: 692
+Box-centre
+Low centre
+Blocked y co-ordinate: 50
+Blocked x co-ordinate: 96.8
+Q233: 477
+Related event ID: 691
+Zone: Center
+Goal mouth z co-ordinate: 4.4
+Goal mouth y co-ordinate: 49.6
+Assisted
+Head
+Set piece
+Intentional assist
+
+59:10 Save | Event ID: 477
+Zone: Back
+Hands
+Caught
+Stooping
+Q233: 692
+
+59:11 Keeper pick-up | Event ID: 478
+
+59:13 Pass | Event ID: 479
+Zone: Back
+Angle: 1.1
+Keeper Throw
+Pass End Y: 85.9
+Pass End X: 22.9
+Length: 23.5
+
+59:15 Pass | Event ID: 480
+Pass End X: 36.1
+Pass End Y: 93.8
+Angle: 0.3
+Zone: Back
+Length: 12.1
+
+59:18 Pass | Event ID: 481
+Pass End Y: 82.9
+Angle: 4.2
+Zone: Back
+Length: 11.1
+Pass End X: 29.0
+
+59:23 Pass | Event ID: 482
+Length: 23.3
+Angle: 5.1
+Pass End Y: 35.4
+Pass End X: 35.8
+Zone: Back
+
+59:29 Take On | Event ID: 483
+Zone: Center
+Q233: 693
+Q286
+
+59:29 Tackle | Event ID: 693
+Q285
+Zone: Back
+Q233: 483
+
+59:32 Pass | Event ID: 484
+Length: 32.7
+Long ball
+Pass End Y: 96.5
+Zone: Left
+Angle: 1.1
+Pass End X: 65.8
+
+59:35 Pass | Event ID: 485
+Angle: 5.3
+Cross
+Pass End Y: 62.9
+Zone: Center
+Pass End X: 87.3
+Length: 24.7
+Chipped
+
+59:38 Clearance | Event ID: 694
+Zone: Back
+Angle: 5.0
+Pass End Y: 2.8
+Pass End X: 17.0
+Length: 27.5
+
+59:40 Ball touch | Event ID: 695
+Zone: Back
+
+59:41 Out | Event ID: 486
+Zone: Left
+Q233: 696
+
+59:41 Out | Event ID: 696
+Q233: 486
+Zone: Back
+
+59:49 Pass | Event ID: 487
+Length: 15.9
+Pass End X: 84.4
+Angle: 5.3
+Pass End Y: 82.4
+Throw-in
+Zone: Left
+
+59:55 Take On | Event ID: 488
+Zone: Left
+Q233: 697
+Q286
+
+59:55 Challenge | Event ID: 697
+Zone: Back
+Q233: 488
+Q285
+
+59:58 Dispossessed | Event ID: 489
+Zone: Center
+Q286
+Q233: 698
+
+59:58 Tackle | Event ID: 698
+Q285
+Zone: Back
+Q233: 489
+
+59:59 Dispossessed | Event ID: 699
+Zone: Back
+Q233: 728
+Q285
+
+59:59 Tackle | Event ID: 728
+Q286
+Q233: 699
+Zone: Center
+
+60:01 Pass | Event ID: 490
+Zone: Center
+Length: 11.1
+Angle: 4.2
+Pass End Y: 58.5
+Pass End X: 84.9
+
+60:03 Pass | Event ID: 491
+Length: 15.1
+Zone: Center
+Intentional assist
+Pass End Y: 39.2
+Angle: 3.9
+Pass End X: 71.4
+Assist
+
+60:05 Attempt Saved | Event ID: 492
+Assisted
+Goal mouth z co-ordinate: 1.3
+Q233: 700
+Right footed
+Goal mouth y co-ordinate: 48.0
+Blocked x co-ordinate: 97.8
+Intentional assist
+Out of box-centre
+Low right
+Blocked y co-ordinate: 48.2
+Related event ID: 491
+Zone: Center
+Regular play
+
+60:05 Save | Event ID: 700
+Q233: 492
+Stooping
+Zone: Back
+Hands
+Collected
+
+60:07 Keeper pick-up | Event ID: 701
+
+60:10 Pass | Event ID: 702
+Length: 29.3
+Pass End Y: 84.8
+Angle: 0.9
+Zone: Back
+Keeper Throw
+Pass End X: 18.7
+
+60:13 Pass | Event ID: 703
+Length: 11.9
+Angle: 4.9
+Zone: Back
+Pass End Y: 70.9
+Pass End X: 21.8
+
+60:16 Pass | Event ID: 704
+Angle: 1.7
+Zone: Back
+Pass End X: 20.1
+Pass End Y: 90.0
+Length: 5.3
+
+60:17 Pass | Event ID: 705
+Pass End X: 13.8
+Length: 18.0
+Pass End Y: 65.4
+Zone: Back
+Angle: 4.3
+
+60:20 Pass | Event ID: 706
+Zone: Back
+Pass End X: 20.7
+Pass End Y: 32.4
+Angle: 5.1
+Length: 22.1
+
+60:23 Pass | Event ID: 707
+Pass End X: 28.3
+Zone: Back
+Angle: 5.3
+Length: 15.5
+Pass End Y: 12.9
+
+60:25 Pass | Event ID: 708
+Zone: Back
+Length: 6.6
+Pass End X: 31.5
+Angle: 1.0
+Pass End Y: 21.9
+
+60:26 Pass | Event ID: 709
+Pass End X: 26.7
+Length: 8.4
+Lay-off
+Angle: 4.1
+Pass End Y: 12.0
+Zone: Back
+
+60:27 Pass | Event ID: 710
+Pass End X: 7.0
+Length: 29.1
+Pass End Y: 42.2
+Angle: 2.4
+Zone: Back
+
+60:30 Pass | Event ID: 711
+Pass End X: 21.2
+Pass End Y: 68.8
+Angle: 0.9
+Zone: Back
+Length: 23.0
+
+60:32 Pass | Event ID: 712
+Zone: Back
+Angle: 5.4
+Pass End X: 27.9
+Length: 11.4
+Pass End Y: 55.7
+
+60:37 Pass | Event ID: 713
+Pass End X: 53.7
+Angle: 0.3
+Length: 17.4
+Pass End Y: 74.7
+Zone: Center
+
+60:40 Foul | Event ID: 493
+Q265
+Zone: Back
+Q233: 714
+Q152
+Foul
+Q285
+
+60:40 Foul | Event ID: 714
+Q152
+Zone: Center
+Q265
+Q286
+Q233: 493
+Foul
+
+60:45 Card | Event ID: 494
+Foul: 243
+Yellow Card
+
+61:08 Player off | Event ID: 715
+Tactical
+Player position: Midfielder
+Related event ID: 716
+Jersey number: 16
+
+61:08 Player on | Event ID: 716
+Tactical
+Jersey number: 19
+Player position: Midfielder
+Related event ID: 715
+Formation slot: 7
+Q292: 6
+Q293: 2
+
+61:14 Pass | Event ID: 717
+Pass End Y: 61.6
+Pass End X: 63.5
+Free kick taken
+Angle: 5.5
+Q152
+Length: 12.9
+Zone: Center
+
+61:16 Pass | Event ID: 718
+Zone: Back
+Length: 15.6
+Pass End Y: 69.7
+Angle: 2.8
+Lay-off
+Pass End X: 47.4
+
+61:18 Pass | Event ID: 719
+Long ball
+Zone: Back
+Pass End X: 46.1
+Pass End Y: 21.5
+Angle: 4.7
+Length: 32.8
+
+61:22 Pass | Event ID: 720
+Pass End Y: 46.0
+Pass End X: 45.1
+Angle: 1.6
+Zone: Back
+Length: 15.0
+
+61:25 Pass | Event ID: 721
+Angle: 0.5
+Pass End X: 59.0
+Length: 16.7
+Zone: Center
+Pass End Y: 64.2
+
+61:27 Pass | Event ID: 722
+Pass End X: 46.5
+Zone: Back
+Length: 13.2
+Angle: 3.1
+Lay-off
+Pass End Y: 65.7
+
+61:30 Pass | Event ID: 723
+Zone: Center
+Pass End X: 55.8
+Length: 7.6
+Pass End Y: 59.0
+Angle: 5.2
+
+61:31 Pass | Event ID: 724
+Length: 8.1
+Pass End X: 53.1
+Angle: 1.9
+Pass End Y: 70.2
+Zone: Center
+
+61:32 Pass | Event ID: 725
+Pass End Y: 62.6
+Zone: Back
+Angle: 3.7
+Pass End X: 44.6
+Length: 10.3
+
+61:33 Pass | Event ID: 726
+Pass End Y: 28.2
+Pass End X: 44.5
+Zone: Back
+Length: 23.4
+Angle: 4.7
+
+61:37 Pass | Event ID: 727
+Pass End X: 62.6
+Length: 17.3
+Angle: 5.3
+Pass End Y: 2.3
+Zone: Right
+
+61:42 Pass | Event ID: 728
+Zone: Back
+Pass End X: 48.7
+Pass End Y: 16.7
+Angle: 2.7
+Length: 20.5
+
+61:44 Pass | Event ID: 729
+Pass End X: 49.0
+Angle: 1.5
+Pass End Y: 53.3
+Length: 23.0
+Zone: Back
+
+61:47 Pass | Event ID: 730
+Angle: 1.4
+Length: 17.8
+Pass End Y: 82.3
+Pass End X: 55.7
+Zone: Left
+
+61:50 Pass | Event ID: 731
+Long ball
+Length: 43.5
+Zone: Center
+Chipped
+Pass End Y: 46.4
+Pass End X: 95.3
+Through ball
+Angle: 5.8
+
+61:53 Keeper pick-up | Event ID: 495
+
+62:03 Pass | Event ID: 496
+Zone: Back
+Pass End X: 19.2
+Keeper Throw
+Angle: 1.1
+Length: 10.4
+Pass End Y: 65.4
+
+62:05 Pass | Event ID: 497
+Pass End X: 66.5
+Long ball
+Angle: 5.8
+Length: 54.1
+Chipped
+Pass End Y: 26.4
+Zone: Center
+
+62:10 Ball recovery | Event ID: 732
+
+62:11 Pass | Event ID: 733
+Pass End Y: 49.3
+Length: 25.2
+Pass End X: 7.2
+Zone: Back
+Angle: 3.8
+
+62:16 Pass | Event ID: 734
+Zone: Back
+Pass End Y: 49.9
+Angle: 0.2
+Pass End X: 25.2
+Length: 17.7
+
+62:20 Pass | Event ID: 735
+Length: 7.2
+Zone: Back
+Pass End Y: 63.0
+Angle: 1.3
+Pass End X: 32.5
+
+62:23 Pass | Event ID: 736
+Pass End Y: 25.3
+Length: 24.9
+Angle: 4.6
+Zone: Back
+Pass End X: 30.0
+
+62:26 Pass | Event ID: 737
+Zone: Back
+Length: 9.0
+Pass End X: 44.1
+Angle: 5.3
+Pass End Y: 3.1
+
+62:28 Pass | Event ID: 738
+Angle: 2.6
+Pass End Y: 16.5
+Zone: Back
+Pass End X: 31.6
+Length: 12.5
+
+62:30 Pass | Event ID: 739
+Pass End X: 31.3
+Angle: 1.6
+Zone: Back
+Pass End Y: 27.1
+Length: 7.2
+
+62:33 Pass | Event ID: 740
+Length: 23.9
+Pass End Y: 73.3
+Angle: 1.5
+Pass End X: 32.4
+Zone: Back
+
+62:36 Pass | Event ID: 741
+Pass End X: 44.6
+Pass End Y: 96.9
+Angle: 0.9
+Length: 16.9
+Zone: Back
+
+62:41 Foul | Event ID: 498
+Zone: Right
+Q152
+Foul
+Q265
+Q285
+Q233: 742
+
+62:41 Foul | Event ID: 742
+Q152
+Zone: Back
+Q265
+Q233: 498
+Foul
+Q286
+
+63:00 Pass | Event ID: 743
+Pass End Y: 50.6
+Free kick taken
+Length: 30.4
+Angle: 4.4
+Q152
+Zone: Back
+Pass End X: 36.1
+
+63:01 Pass | Event ID: 744
+Zone: Right
+Pass End Y: 16.9
+Chipped
+Angle: 6.0
+Pass End X: 92.9
+Length: 62.1
+Long ball
+
+63:04 Interception | Event ID: 499
+Zone: Back
+
+63:06 Clearance | Event ID: 500
+Length: 18.8
+Out of play
+Zone: Back
+Pass End Y: 100.0
+Angle: 1.2
+Pass End X: 7.9
+
+63:07 Out | Event ID: 501
+Q233: 745
+Zone: Back
+
+63:07 Out | Event ID: 745
+Zone: Right
+Q233: 501
+
+63:21 Pass | Event ID: 746
+Throw-in
+Pass End Y: 8.3
+Length: 8.0
+Angle: 1.0
+Pass End X: 94.1
+Zone: Right
+
+63:23 Pass | Event ID: 747
+Pass End Y: 3.4
+Pass End X: 85.6
+Length: 9.5
+Zone: Right
+Angle: 3.5
+
+63:24 Pass | Event ID: 748
+Length: 11.0
+Pass End X: 74.9
+Angle: 3.0
+Zone: Right
+Pass End Y: 6.7
+
+63:28 Pass | Event ID: 749
+Length: 13.5
+Pass End Y: 12.3
+Zone: Right
+Pass End X: 55.9
+Angle: 2.8
+
+63:30 Pass | Event ID: 750
+Pass End X: 55.3
+Length: 13.5
+Pass End Y: 32.1
+Zone: Center
+Angle: 1.6
+
+63:33 Pass | Event ID: 751
+Length: 10.0
+Pass End Y: 41.6
+Pass End X: 68.0
+Angle: 0.4
+Zone: Center
+
+63:34 Pass | Event ID: 752
+Angle: 5.7
+Zone: Center
+Pass End X: 74.6
+Flick-on
+Length: 8.1
+Pass End Y: 35.5
+
+63:35 Ball recovery | Event ID: 502
+
+63:35 Pass | Event ID: 503
+Angle: 5.5
+Pass End Y: 53.0
+Pass End X: 32.9
+Zone: Back
+Length: 7.5
+
+63:36 Pass | Event ID: 504
+Zone: Back
+Angle: 1.7
+Length: 5.0
+Pass End X: 32.4
+Pass End Y: 60.3
+
+63:40 Pass | Event ID: 505
+Zone: Back
+Angle: 4.7
+Length: 14.4
+Pass End X: 42.1
+Pass End Y: 11.7
+
+63:42 Pass | Event ID: 506
+Pass End Y: 16.5
+Angle: 0.7
+Zone: Back
+Length: 3.8
+Pass End X: 44.2
+
+63:43 Ball touch | Event ID: 753
+Zone: Left
+
+63:44 Pass | Event ID: 507
+Length: 6.7
+Angle: 0.9
+Zone: Back
+Pass End X: 43.3
+Pass End Y: 26.8
+
+63:46 Pass | Event ID: 508
+Pass End Y: 5.9
+Angle: 5.8
+Zone: Right
+Length: 20.9
+Pass End X: 62.8
+
+63:49 Take On | Event ID: 509
+Zone: Right
+Q233: 754
+Q286
+
+63:49 Tackle | Event ID: 754
+Zone: Back
+Q233: 509
+Q285
+
+63:50 Ball recovery | Event ID: 755
+
+63:53 Pass | Event ID: 756
+Length: 26.7
+Pass End Y: 60.6
+Angle: 4.0
+Pass End X: 11.5
+Zone: Back
+
+63:55 Pass | Event ID: 757
+Zone: Center
+Pass End Y: 61.7
+Length: 49.7
+Pass End X: 58.8
+Launch
+Angle: 0.0
+Long ball
+
+63:59 Pass | Event ID: 510
+Pass End X: 48.9
+Zone: Back
+Length: 15.4
+Angle: 5.7
+Head pass
+Pass End Y: 22.8
+
+64:03 Take On | Event ID: 758
+Zone: Center
+Q233: 511
+Q286
+
+64:03 Tackle | Event ID: 511
+Zone: Back
+Q233: 758
+Q285
+
+64:03 Ball recovery | Event ID: 512
+
+64:07 Pass | Event ID: 513
+Pass End Y: 18.5
+Length: 9.5
+Angle: 3.6
+Zone: Back
+Pass End X: 32.5
+
+64:08 Pass | Event ID: 514
+Length: 13.2
+Angle: 5.4
+Zone: Back
+Pass End X: 40.9
+Pass End Y: 4.0
+
+64:11 Pass | Event ID: 515
+Length: 16.2
+Angle: 0.8
+Pass End Y: 21.0
+Pass End X: 53.8
+Zone: Right
+
+64:12 Pass | Event ID: 759
+Length: 4.8
+Pass End Y: 82.7
+Pass End X: 46.7
+Angle: 1.2
+Zone: Back
+
+64:13 Ball recovery | Event ID: 760
+
+64:14 Pass | Event ID: 761
+Pass End X: 60.0
+Angle: 5.5
+Pass End Y: 70.3
+Zone: Center
+Length: 9.2
+
+64:15 Ball touch | Event ID: 762
+Zone: Center
+
+64:16 Pass | Event ID: 516
+Pass End Y: 37.1
+Angle: 2.9
+Length: 5.0
+Pass End X: 29.7
+Zone: Back
+
+64:17 Ball touch | Event ID: 763
+Zone: Center
+
+64:18 Ball recovery | Event ID: 517
+
+64:19 Pass | Event ID: 518
+Pass End X: 46.2
+Zone: Back
+Angle: 6.0
+Length: 11.2
+Pass End Y: 30.9
+
+64:21 Dispossessed | Event ID: 519
+Q286
+Q233: 764
+Zone: Back
+
+64:21 Tackle | Event ID: 764
+Q285
+Q233: 519
+Zone: Center
+
+64:22 Pass | Event ID: 765
+Zone: Center
+Pass End X: 55.7
+Pass End Y: 63.9
+Length: 5.2
+Angle: 4.8
+
+64:23 Ball recovery | Event ID: 766
+
+64:25 Pass | Event ID: 767
+Zone: Center
+Pass End X: 55.3
+Length: 6.1
+Angle: 1.8
+Pass End Y: 73.5
+
+64:27 Pass | Event ID: 768
+Pass End X: 45.5
+Length: 11.2
+Angle: 3.6
+Zone: Back
+Pass End Y: 66.7
+
+64:29 Pass | Event ID: 769
+Zone: Center
+Pass End Y: 65.2
+Pass End X: 52.9
+Length: 7.8
+Angle: 6.2
+
+64:30 Pass | Event ID: 770
+Length: 8.5
+Zone: Back
+Pass End X: 45.1
+Angle: 2.9
+Pass End Y: 68.5
+
+64:31 Pass | Event ID: 771
+Length: 10.6
+Angle: 6.0
+Pass End X: 54.7
+Zone: Center
+Pass End Y: 63.9
+
+64:33 Pass | Event ID: 772
+Zone: Center
+Pass End Y: 38.9
+Length: 12.7
+Pass End X: 61.1
+Angle: 5.2
+
+64:35 Pass | Event ID: 773
+Pass End X: 63.5
+Pass End Y: 6.4
+Zone: Right
+Angle: 4.8
+Length: 22.2
+
+64:41 Pass | Event ID: 774
+Length: 13.7
+Angle: 0.4
+Zone: Center
+Pass End X: 86.8
+Pass End Y: 27.9
+
+64:45 Pass | Event ID: 775
+Pass End Y: 22.2
+Zone: Center
+Length: 9.6
+Angle: 3.3
+Pass End X: 68.8
+
+64:47 Pass | Event ID: 776
+Zone: Center
+Length: 21.8
+Angle: 1.6
+Pass End X: 68.5
+Pass End Y: 54.3
+
+64:50 Pass | Event ID: 777
+Zone: Center
+Pass End Y: 63.9
+Player not visible
+Pass End X: 75.6
+Angle: 0.3
+Length: 9.5
+
+64:54 Foul | Event ID: 520
+Q152
+Q265
+Q285
+Zone: Back
+Foul
+Q233: 778
+
+64:54 Foul | Event ID: 778
+Q265
+Q286
+Foul
+Q233: 520
+Zone: Center
+Q152
+
+65:58 Attempt Saved | Event ID: 779
+Free kick
+Q233: 521
+Blocked x co-ordinate: 85.3
+Out of box-centre
+Zone: Center
+Blocked y co-ordinate: 61.0
+Right footed
+Blocked
+
+65:58 Save | Event ID: 521
+Def block
+Q239
+Zone: Back
+Q233: 779
+
+66:00 Pass | Event ID: 780
+Angle: 3.4
+Pass End Y: 62.0
+Length: 2.3
+Zone: Center
+Pass End X: 72.8
+
+66:02 Take On | Event ID: 781
+Q286
+Zone: Center
+Q233: 522
+
+66:02 Tackle | Event ID: 522
+Q285
+Q233: 781
+Zone: Back
+
+66:03 Ball recovery | Event ID: 523
+
+66:04 Take On | Event ID: 524
+Q285
+Q233: 782
+Zone: Back
+
+66:04 Tackle | Event ID: 782
+Q233: 524
+Zone: Center
+Q286
+
+66:05 Pass | Event ID: 783
+Length: 3.4
+Zone: Center
+Pass End X: 71.4
+Angle: 5.1
+Pass End Y: 63.5
+
+66:06 Pass | Event ID: 784
+Pass End X: 71.6
+Pass End Y: 68.8
+Length: 5.0
+Angle: 1.3
+Zone: Center
+
+66:07 Ball touch | Event ID: 785
+Zone: Center
+
+66:08 Dispossessed | Event ID: 525
+Q233: 786
+Q285
+Zone: Back
+
+66:08 Tackle | Event ID: 786
+Zone: Center
+Q286
+Q233: 525
+
+66:11 Dispossessed | Event ID: 526
+Q233: 787
+Q285
+Zone: Back
+
+66:11 Tackle | Event ID: 787
+Zone: Left
+Q233: 526
+Q286
+
+66:12 Ball recovery | Event ID: 788
+
+66:17 Pass | Event ID: 789
+Angle: 3.9
+Chipped
+Pass End X: 70.0
+Pass End Y: 64.9
+Length: 28.3
+Zone: Center
+
+66:20 Pass | Event ID: 790
+Length: 15.3
+Head pass
+Angle: 2.9
+Zone: Center
+Pass End Y: 70.8
+Pass End X: 55.9
+
+66:22 Pass | Event ID: 791
+Angle: 4.7
+Pass End Y: 31.9
+Pass End X: 54.5
+Length: 19.4
+Zone: Center
+
+66:25 Pass | Event ID: 792
+Pass End Y: 38.6
+Angle: 1.0
+Zone: Center
+Pass End X: 57.7
+Length: 6.1
+
+66:26 Pass | Event ID: 793
+Length: 23.2
+Zone: Right
+Pass End Y: 4.9
+Pass End X: 60.9
+Angle: 4.9
+
+66:30 Pass | Event ID: 794
+Pass End X: 53.9
+Angle: 2.2
+Length: 10.9
+Zone: Right
+Pass End Y: 18.9
+
+66:33 Pass | Event ID: 795
+Zone: Back
+Pass End Y: 43.4
+Angle: 2.3
+Pass End X: 44.7
+Length: 18.2
+
+66:35 Pass | Event ID: 796
+Length: 12.7
+Pass End Y: 61.2
+Zone: Back
+Angle: 1.3
+Pass End X: 48.5
+
+66:38 Pass | Event ID: 797
+Length: 19.2
+Pass End X: 56.0
+Zone: Left
+Angle: 1.2
+Pass End Y: 88.4
+
+66:39 Pass | Event ID: 798
+Pass End X: 58.4
+Zone: Center
+Length: 8.9
+Angle: 5.0
+Pass End Y: 75.9
+
+66:40 Pass | Event ID: 799
+Zone: Back
+Pass End X: 34.4
+Pass End Y: 72.6
+Length: 25.3
+Angle: 3.2
+
+66:44 Pass | Event ID: 800
+Pass End Y: 80.0
+Pass End X: 43.6
+Length: 10.6
+Angle: 0.5
+Zone: Back
+
+66:46 Pass | Event ID: 801
+Pass End X: 53.1
+Length: 14.6
+Zone: Left
+Angle: 0.8
+Pass End Y: 95.6
+
+66:50 Pass | Event ID: 802
+Angle: 4.4
+Length: 13.7
+Pass End Y: 68.2
+Zone: Back
+Pass End X: 40.5
+
+66:52 Pass | Event ID: 803
+Length: 26.9
+Pass End X: 39.7
+Pass End Y: 28.6
+Angle: 4.7
+Zone: Back
+
+66:55 Pass | Event ID: 804
+Angle: 1.6
+Pass End X: 38.6
+Pass End Y: 64.0
+Zone: Back
+Length: 23.7
+
+66:58 Pass | Event ID: 805
+Pass End Y: 80.9
+Length: 13.8
+Pass End X: 46.3
+Angle: 1.0
+Zone: Back
+
+67:00 Pass | Event ID: 806
+Pass End X: 60.1
+Angle: 6.1
+Pass End Y: 79.3
+Length: 7.7
+Zone: Left
+
+67:01 Pass | Event ID: 807
+Angle: 2.2
+Pass End X: 55.9
+Length: 7.9
+Pass End Y: 89.0
+Lay-off
+Zone: Left
+
+67:05 Pass | Event ID: 808
+Pass End X: 42.9
+Angle: 4.0
+Length: 17.5
+Zone: Back
+Pass End Y: 67.8
+
+67:10 Pass | Event ID: 809
+Pass End X: 41.9
+Angle: 4.6
+Zone: Back
+Length: 9.3
+Pass End Y: 72.3
+
+67:12 Pass | Event ID: 810
+Pass End Y: 59.1
+Zone: Back
+Length: 10.2
+Angle: 5.3
+Pass End X: 47.5
+
+67:14 Pass | Event ID: 811
+Zone: Center
+Pass End X: 57.7
+Angle: 0.5
+Pass End Y: 72.0
+Length: 8.5
+
+67:15 Pass | Event ID: 812
+Pass End X: 53.9
+Angle: 3.8
+Zone: Center
+Pass End Y: 67.3
+Lay-off
+Length: 5.1
+
+67:17 Pass | Event ID: 813
+Chipped
+Length: 57.7
+Angle: 5.7
+Zone: Center
+Long ball
+Pass End X: 100.0
+Pass End Y: 23.9
+
+67:20 Out | Event ID: 527
+Zone: Back
+Q233: 814
+
+67:20 Out | Event ID: 814
+Q233: 527
+Zone: Center
+
+67:39 Player off | Event ID: 815
+Player position: Midfielder
+Related event ID: 816
+Jersey number: 22
+Tactical
+
+67:39 Player on | Event ID: 816
+Player position: Midfielder
+Related event ID: 815
+Jersey number: 10
+Q292: 6
+Formation slot: 8
+Q293: 1
+Tactical
+
+67:54 Player off | Event ID: 528
+Player position: Midfielder
+Related event ID: 529
+Jersey number: 21
+Tactical
+
+67:54 Player on | Event ID: 529
+Q293: 3
+Q292: 9
+Tactical
+Player position: Forward
+Formation slot: 8
+Jersey number: 20
+Related event ID: 528
+
+68:04 Pass | Event ID: 530
+Pass End Y: 14.4
+Length: 21.8
+Pass End X: 5.6
+Q237
+Zone: Back
+Goal Kick
+Angle: 4.7
+
+68:06 Pass | Event ID: 531
+Angle: 6.1
+Pass End X: 33.5
+Zone: Back
+Pass End Y: 4.4
+Length: 30.1
+
+68:09 Ball touch | Event ID: 532
+Zone: Back
+
+68:10 Out | Event ID: 533
+Q233: 817
+Zone: Back
+
+68:10 Out | Event ID: 817
+Zone: Left
+Q233: 533
+
+68:19 Pass | Event ID: 818
+Throw-in
+Zone: Left
+Pass End X: 57.0
+Angle: 4.6
+Length: 7.9
+Pass End Y: 90.2
+
+68:20 Pass | Event ID: 819
+Pass End Y: 97.2
+Pass End X: 55.8
+Length: 4.9
+Zone: Left
+Angle: 1.8
+
+68:25 Pass | Event ID: 820
+Long ball
+Chipped
+Pass End X: 27.5
+Zone: Back
+Length: 35.5
+Pass End Y: 49.7
+Angle: 4.3
+
+68:29 Pass | Event ID: 821
+Angle: 5.3
+Pass End X: 42.1
+Pass End Y: 7.6
+Zone: Back
+Length: 25.5
+
+68:32 Pass | Event ID: 822
+Pass End X: 61.0
+Pass End Y: 2.0
+Length: 7.9
+Zone: Right
+Angle: 5.9
+
+68:34 Pass | Event ID: 823
+Angle: 1.0
+Pass End X: 64.1
+Zone: Right
+Length: 4.5
+Pass End Y: 8.6
+
+68:36 Pass | Event ID: 824
+Pass End X: 66.4
+Angle: 5.3
+Pass End Y: 3.2
+Zone: Right
+Length: 4.4
+
+68:38 Take On | Event ID: 825
+Q233: 534
+Q286
+Zone: Right
+
+68:38 Tackle | Event ID: 534
+Zone: Back
+Q233: 825
+Q285
+
+68:39 Ball touch | Event ID: 535
+Zone: Back
+
+68:42 Dispossessed | Event ID: 826
+Zone: Right
+Q286
+Q233: 536
+
+68:42 Tackle | Event ID: 536
+Q285
+Zone: Back
+Q233: 826
+
+68:43 Ball recovery | Event ID: 537
+
+68:44 Take On | Event ID: 538
+Zone: Back
+Q285
+Q233: 827
+
+68:44 Challenge | Event ID: 827
+Q233: 538
+Q286
+Zone: Right
+
+68:45 Pass | Event ID: 539
+Pass End Y: 65.1
+Angle: 5.0
+Pass End X: 36.1
+Zone: Back
+Length: 8.3
+
+68:46 Pass | Event ID: 540
+Length: 9.5
+Pass End Y: 77.6
+Angle: 2.1
+Zone: Back
+Pass End X: 31.3
+
+68:48 Pass | Event ID: 541
+Zone: Back
+Angle: 4.3
+Pass End X: 28.7
+Pass End Y: 64.6
+Length: 10.1
+
+68:50 Pass | Event ID: 542
+Pass End X: 37.7
+Angle: 4.9
+Zone: Back
+Long ball
+Pass End Y: 5.3
+Length: 33.2
+
+68:56 Pass | Event ID: 543
+Long ball
+Length: 44.6
+Angle: 0.0
+Pass End X: 84.9
+Zone: Right
+Pass End Y: 7.9
+
+68:58 Ball recovery | Event ID: 828
+
+68:59 Pass | Event ID: 829
+Pass End Y: 98.7
+Zone: Back
+Length: 11.9
+Angle: 0.3
+Pass End X: 15.0
+
+69:03 Challenge | Event ID: 544
+Zone: Right
+Q286
+Q233: 830
+
+69:03 Take On | Event ID: 830
+Q285
+Zone: Back
+Q233: 544
+
+69:04 Pass | Event ID: 831
+Pass End X: 14.0
+Angle: 4.0
+Length: 9.6
+Zone: Back
+Pass End Y: 85.4
+
+69:06 Pass | Event ID: 832
+Angle: 4.7
+Zone: Back
+Length: 24.4
+Pass End Y: 39.4
+Pass End X: 17.8
+
+69:11 Pass | Event ID: 833
+Angle: 0.3
+Length: 13.7
+Pass End X: 34.2
+Zone: Back
+Pass End Y: 43.1
+
+69:17 Pass | Event ID: 834
+Pass End Y: 5.5
+Length: 22.0
+Zone: Right
+Angle: 5.9
+Pass End X: 72.3
+
+69:18 Pass | Event ID: 835
+Angle: 0.7
+Pass End X: 77.5
+Zone: Right
+Pass End Y: 12.5
+Length: 7.2
+
+69:19 Interception | Event ID: 545
+Zone: Back
+
+69:21 Ball recovery | Event ID: 546
+
+69:23 Foul | Event ID: 547
+Q233: 836
+Q152
+Zone: Back
+Q295
+Q285
+Foul
+
+69:23 Foul | Event ID: 836
+Foul
+Q295
+Zone: Right
+Q286
+Q233: 547
+Q152
+
+69:33 Pass | Event ID: 548
+Pass End Y: 52.0
+Zone: Back
+Angle: 4.5
+Length: 20.4
+Free kick taken
+Q152
+Pass End X: 18.7
+
+69:35 Pass | Event ID: 549
+Pass End X: 8.2
+Pass End Y: 52.1
+Zone: Back
+Length: 10.4
+Angle: 3.1
+
+69:36 Pass | Event ID: 550
+Launch
+Pass End X: 43.2
+Angle: 6.3
+Zone: Back
+Pass End Y: 51.2
+Length: 36.3
+Long ball
+
+69:40 Aerial | Event ID: 551
+Q285
+Zone: Back
+Q233: 837
+
+69:40 Aerial | Event ID: 837
+Q286
+Zone: Center
+Q233: 551
+
+69:41 Pass | Event ID: 838
+Zone: Center
+Head pass
+Pass End X: 57.0
+Length: 4.8
+Pass End Y: 52.8
+Angle: 0.5
+
+69:42 Ball recovery | Event ID: 839
+
+69:42 Pass | Event ID: 840
+Length: 12.9
+Pass End Y: 51.5
+Pass End X: 44.7
+Zone: Back
+Angle: 3.2
+
+69:44 Pass | Event ID: 841
+Zone: Left
+Pass End X: 56.8
+Length: 22.6
+Angle: 1.0
+Pass End Y: 79.4
+
+69:46 Pass | Event ID: 842
+Long ball
+Angle: 6.2
+Pass End X: 100.0
+Zone: Center
+Length: 47.5
+Pass End Y: 76.9
+Chipped
+
+69:52 Out | Event ID: 552
+Q233: 843
+Zone: Back
+
+69:52 Out | Event ID: 843
+Q233: 552
+Zone: Center
+
+70:20 Pass | Event ID: 553
+High
+Zone: Center
+Goal Kick
+Angle: 6.1
+Length: 64.0
+Pass End Y: 25.9
+Long ball
+Pass End X: 65.0
+
+70:21 Pass | Event ID: 844
+Angle: 0.3
+Pass End Y: 87.4
+Length: 20.3
+Zone: Left
+Chipped
+Pass End X: 58.1
+
+70:22 Pass | Event ID: 554
+Angle: 0.0
+Zone: Back
+Pass End Y: 11.9
+Length: 9.6
+Head pass
+Pass End X: 40.0
+
+70:24 Pass | Event ID: 555
+Angle: 3.3
+Pass End X: 32.9
+Length: 8.2
+Pass End Y: 10.7
+Zone: Back
+
+70:25 Pass | Event ID: 556
+Angle: 0.7
+Launch
+Length: 8.6
+Pass End X: 39.2
+Pass End Y: 18.8
+Long ball
+Zone: Back
+
+70:27 Ball touch | Event ID: 845
+Zone: Left
+
+70:28 Pass | Event ID: 557
+Angle: 5.5
+Length: 5.4
+Pass End Y: 14.1
+Zone: Back
+Pass End X: 42.3
+
+70:29 Pass | Event ID: 846
+Angle: 4.2
+Pass End Y: 73.6
+Pass End X: 53.1
+Zone: Center
+Length: 10.3
+
+70:30 Pass | Event ID: 847
+Zone: Back
+Angle: 2.8
+Pass End Y: 80.0
+Length: 12.0
+Pass End X: 42.4
+
+70:31 Ball recovery | Event ID: 848
+
+70:32 Pass | Event ID: 849
+Angle: 4.5
+Pass End Y: 42.7
+Length: 26.2
+Zone: Back
+Pass End X: 36.7
+
+70:36 Pass | Event ID: 850
+Length: 20.3
+Pass End X: 38.3
+Angle: 4.8
+Zone: Back
+Pass End Y: 12.9
+
+70:38 Pass | Event ID: 851
+Angle: 1.7
+Pass End Y: 33.6
+Zone: Back
+Pass End X: 36.3
+Length: 12.1
+
+70:43 Pass | Event ID: 852
+Length: 15.3
+Pass End Y: 46.3
+Pass End X: 53.3
+Zone: Center
+Angle: 0.4
+
+70:45 Pass | Event ID: 853
+Angle: 4.7
+Length: 11.1
+Zone: Center
+Pass End Y: 30.0
+Pass End X: 52.9
+
+70:47 Pass | Event ID: 854
+Angle: 5.7
+Length: 9.0
+Zone: Center
+Pass End X: 60.2
+Pass End Y: 23.1
+
+70:48 Pass | Event ID: 855
+Lay-off
+Zone: Center
+Angle: 2.5
+Length: 6.7
+Pass End Y: 28.8
+Pass End X: 55.2
+
+70:51 Pass | Event ID: 856
+Pass End Y: 58.3
+Length: 15.9
+Pass End X: 60.7
+Zone: Center
+Angle: 1.4
+
+70:52 Ball touch | Event ID: 734
+Zone: Back
+
+70:54 Pass | Event ID: 857
+Pass End X: 70.2
+Angle: 0.3
+Length: 10.1
+Pass End Y: 79.6
+Zone: Left
+
+70:56 Ball recovery | Event ID: 558
+
+70:56 Pass | Event ID: 559
+Angle: 0.1
+Pass End X: 34.0
+Pass End Y: 24.1
+Length: 9.9
+Zone: Back
+
+71:00 Pass | Event ID: 560
+Length: 7.2
+Pass End Y: 27.0
+Angle: 2.6
+Zone: Back
+Pass End X: 29.8
+
+71:01 Pass | Event ID: 561
+Angle: 0.2
+Through ball
+Intentional assist
+Long ball
+Pass End X: 70.5
+Length: 45.1
+Zone: Center
+Assist
+Pass End Y: 45.4
+
+71:06 Attempt Saved | Event ID: 562
+Q233: 858
+Goal mouth z co-ordinate: 31.6
+Fast break
+Goal mouth y co-ordinate: 52.3
+Out of box-centre
+Right footed
+Related event ID: 561
+Blocked x co-ordinate: 93.7
+High left
+Assisted
+Intentional assist
+Zone: Center
+Blocked y co-ordinate: 49.3
+
+71:06 Save | Event ID: 858
+Hands
+Parried safe
+Zone: Back
+Diving
+Q233: 562
+
+71:08 Corner Awarded | Event ID: 563
+Zone: Center
+Q233: 859
+Left
+
+71:08 Corner Awarded | Event ID: 859
+Q233: 563
+Left
+Zone: Back
+
+71:40 Pass | Event ID: 564
+Zone: Center
+Pass End Y: 37.6
+Angle: 4.5
+Pass End X: 89.0
+Long ball
+Out-swinger
+Length: 43.5
+Cross
+Chipped
+Corner taken
+
+71:43 Aerial | Event ID: 565
+Q233: 860
+Zone: Center
+Q286
+
+71:43 Aerial | Event ID: 860
+Zone: Back
+Q285
+Q233: 565
+
+71:44 Clearance | Event ID: 861
+Length: 5.2
+Angle: 5.8
+Pass End X: 10.2
+Head
+Pass End Y: 51.5
+Zone: Back
+
+71:47 Clearance | Event ID: 862
+Angle: 0.6
+Zone: Left
+Pass End X: 51.5
+Length: 51.1
+Pass End Y: 92.4
+
+71:50 Pass | Event ID: 566
+Chipped
+Pass End Y: 26.2
+Zone: Back
+Length: 28.3
+Pass End X: 10.3
+Angle: 2.7
+
+71:59 Pass | Event ID: 567
+Length: 11.5
+Pass End X: 23.7
+Pass End Y: 30.7
+Zone: Back
+Angle: 6.1
+
+72:04 Pass | Event ID: 568
+Zone: Back
+Length: 20.9
+Angle: 5.7
+Pass End X: 45.4
+Pass End Y: 3.4
+
+72:06 Pass | Event ID: 569
+Zone: Back
+Length: 12.0
+Angle: 2.2
+Pass End Y: 17.3
+Pass End X: 38.4
+
+72:09 Pass | Event ID: 570
+Pass End Y: 31.9
+Pass End X: 40.8
+Angle: 1.2
+Length: 11.2
+Zone: Back
+
+72:11 Pass | Event ID: 571
+Angle: 1.0
+Pass End Y: 91.4
+Long ball
+Chipped
+Zone: Left
+Length: 46.9
+Pass End X: 63.4
+
+72:14 Ball touch | Event ID: 572
+Zone: Left
+
+72:15 Out | Event ID: 573
+Zone: Left
+Q233: 863
+
+72:15 Out | Event ID: 863
+Q233: 573
+Zone: Back
+
+72:32 Pass | Event ID: 864
+Zone: Back
+Throw-in
+Pass End X: 36.5
+Length: 15.9
+Pass End Y: 4.7
+Angle: 0.3
+
+72:33 Pass | Event ID: 865
+Pass End X: 27.2
+Angle: 3.2
+Length: 9.8
+Zone: Back
+Pass End Y: 3.2
+Lay-off
+
+72:35 Interception | Event ID: 574
+Zone: Left
+
+72:38 Pass | Event ID: 866
+Pass End X: 19.4
+Pass End Y: 12.0
+Angle: 2.5
+Zone: Back
+Length: 9.4
+
+72:39 Pass | Event ID: 867
+Pass End X: 52.1
+Long ball
+Length: 35.5
+Pass End Y: 0.0
+Angle: 6.0
+Launch
+Zone: Right
+
+72:42 Out | Event ID: 575
+Q233: 868
+Zone: Back
+
+72:42 Out | Event ID: 868
+Zone: Right
+Q233: 575
+
+72:46 Pass | Event ID: 576
+Zone: Back
+Pass End X: 42.9
+Angle: 4.7
+Length: 15.8
+Throw-in
+Pass End Y: 78.7
+
+72:54 Pass | Event ID: 577
+Angle: 5.0
+Length: 21.7
+Zone: Center
+Pass End Y: 48.8
+Pass End X: 56.7
+
+72:58 Take On | Event ID: 578
+Zone: Center
+Q286
+Q233: 869
+
+72:58 Tackle | Event ID: 869
+Q285
+Q233: 578
+Zone: Back
+
+73:01 Ball recovery | Event ID: 870
+
+73:01 Pass | Event ID: 871
+Pass End X: 41.4
+Zone: Back
+Angle: 0.8
+Length: 23.5
+Pass End Y: 71.4
+
+73:04 Pass | Event ID: 872
+Pass End X: 66.0
+Zone: Center
+Chipped
+Length: 31.1
+Pass End Y: 34.3
+Angle: 5.5
+
+73:06 Ball recovery | Event ID: 579
+
+73:07 Pass | Event ID: 580
+Length: 16.5
+Angle: 0.4
+Zone: Back
+Pass End X: 43.3
+Pass End Y: 72.7
+
+73:13 Pass | Event ID: 581
+Pass End X: 74.9
+Zone: Left
+Angle: 0.7
+Pass End Y: 97.1
+Length: 13.2
+
+73:15 Pass | Event ID: 582
+Pass End Y: 93.8
+Angle: 3.4
+Length: 9.2
+Pass End X: 66.7
+Zone: Left
+
+73:18 Pass | Event ID: 583
+Length: 23.1
+Angle: 0.0
+Pass End X: 88.6
+Zone: Left
+Pass End Y: 95.6
+
+73:23 Dispossessed | Event ID: 584
+Zone: Left
+Q233: 873
+Q286
+
+73:23 Tackle | Event ID: 873
+Q285
+Q233: 584
+Zone: Back
+
+73:24 Foul | Event ID: 585
+Q265
+Q286
+Foul
+Zone: Left
+Q233: 874
+Q152
+
+73:24 Foul | Event ID: 874
+Q233: 585
+Q152
+Foul
+Q285
+Q265
+Zone: Back
+
+73:52 Pass | Event ID: 875
+Pass End Y: 47.8
+Free kick taken
+Length: 55.6
+Zone: Center
+Q152
+Pass End X: 60.7
+Angle: 0.5
+Long ball
+Launch
+
+73:56 Pass | Event ID: 586
+Angle: 5.6
+Length: 10.9
+Head pass
+Pass End Y: 43.6
+Pass End X: 45.6
+Zone: Back
+
+73:58 Pass | Event ID: 587
+Flick-on
+Head pass
+Zone: Center
+Angle: 5.9
+Pass End X: 53.3
+Pass End Y: 40.4
+Length: 9.5
+
+73:59 Pass | Event ID: 588
+Angle: 4.3
+Length: 18.7
+Zone: Back
+Pass End Y: 13.0
+Head pass
+Pass End X: 47.9
+
+74:02 Pass | Event ID: 876
+Zone: Back
+Pass End X: 38.2
+Length: 9.7
+Angle: 3.6
+Pass End Y: 80.6
+
+74:03 Pass | Event ID: 877
+Pass End X: 12.5
+Pass End Y: 50.0
+Zone: Back
+Angle: 3.8
+Long ball
+Length: 33.9
+
+74:15 Pass | Event ID: 878
+Zone: Left
+Pass End Y: 89.3
+Angle: 0.6
+Long ball
+Launch
+Pass End X: 60.2
+Length: 51.4
+
+74:18 Deleted event | Event ID: 589
+Zone: Back
+Deleted event type: 61
+
+74:19 Ball recovery | Event ID: 590
+
+74:22 Take On | Event ID: 591
+Q286
+Q233: 879
+Zone: Center
+
+74:22 Challenge | Event ID: 879
+Q285
+Zone: Back
+Q233: 591
+
+74:23 Good Skill | Event ID: 592
+
+74:27 Offside Pass | Event ID: 593
+Players caught offside: 109707
+Pass End X: 81.6
+Pass End Y: 47.4
+Zone: Center
+
+74:27 Offside provoked | Event ID: 881
+
+74:29 Deleted event | Event ID: 594
+Regular play
+Out of box-centre
+Deleted event type: 39
+Q250
+Zone: Center
+
+74:30 Deleted event | Event ID: 880
+Def block
+Zone: Back
+Deleted event type: 10
+
+74:47 Pass | Event ID: 882
+Q241
+Pass End Y: 41.3
+Free kick taken
+Length: 11.0
+Zone: Back
+Angle: 6.2
+Pass End X: 27.8
+
+74:48 Pass | Event ID: 884
+Angle: 0.0
+Pass End Y: 41.8
+Pass End X: 39.6
+Length: 12.4
+Zone: Back
+
+74:49 Pass | Event ID: 885
+Pass End X: 39.9
+Length: 7.4
+Zone: Back
+Angle: 4.8
+Pass End Y: 30.9
+
+74:50 Ball touch | Event ID: 886
+Zone: Back
+
+74:51 Pass | Event ID: 595
+Q286
+Zone: Center
+Q233: 887
+Pass End Y: 68.2
+Pass End X: 60.4
+Q236
+Length: 2.2
+Angle: 6.2
+
+74:51 Blocked pass | Event ID: 887
+Q233: 595
+Zone: Back
+Q285
+
+74:52 Ball recovery | Event ID: 596
+
+74:53 Pass | Event ID: 597
+Pass End X: 61.0
+Assist
+Angle: 5.3
+Pass End Y: 31.6
+Length: 15.0
+Zone: Center
+
+74:57 Take On | Event ID: 598
+Q233: 888
+Zone: Center
+Q286
+
+74:57 Challenge | Event ID: 888
+Zone: Back
+Q233: 598
+Q285
+
+75:00 Attempt Saved | Event ID: 599
+Individual Play
+Blocked x co-ordinate: 83.6
+Out of box-centre
+Assisted
+Zone: Center
+Blocked
+Related event ID: 597
+Q233: 889
+Regular play
+Left footed
+Blocked y co-ordinate: 33.4
+
+75:00 Save | Event ID: 889
+Def block
+Zone: Back
+Q233: 599
+
+75:04 Pass | Event ID: 600
+Cross
+Angle: 5.2
+Pass End Y: 46.1
+Pass End X: 87.9
+Length: 22.5
+Zone: Center
+
+75:06 Clearance | Event ID: 890
+Pass End X: 32.2
+Pass End Y: 48.5
+Zone: Back
+Length: 24.4
+Angle: 6.0
+
+75:10 Pass | Event ID: 601
+Length: 14.7
+Zone: Center
+Pass End Y: 66.3
+Pass End X: 75.3
+Angle: 0.5
+Head pass
+
+75:11 Ball recovery | Event ID: 891
+
+75:11 Pass | Event ID: 892
+Pass End Y: 27.6
+Angle: 5.4
+Zone: Back
+Pass End X: 33.9
+Length: 10.2
+
+75:14 Pass | Event ID: 893
+Zone: Back
+Length: 7.3
+Pass End X: 37.3
+Angle: 1.2
+Pass End Y: 39.5
+
+75:15 Pass | Event ID: 894
+Pass End Y: 20.1
+Length: 14.1
+Zone: Back
+Pass End X: 41.8
+Angle: 5.1
+
+75:19 Pass | Event ID: 895
+Zone: Right
+Pass End X: 57.2
+Angle: 5.1
+Pass End Y: 4.7
+Length: 11.0
+
+75:21 Pass | Event ID: 896
+Length: 9.1
+Zone: Right
+Angle: 1.2
+Pass End X: 60.2
+Pass End Y: 17.3
+
+75:23 Pass | Event ID: 897
+Angle: 1.5
+Pass End Y: 81.4
+Length: 35.8
+Long ball
+Zone: Left
+Pass End X: 61.4
+
+75:30 Pass | Event ID: 898
+Pass End X: 60.2
+Angle: 4.3
+Zone: Left
+Pass End Y: 82.9
+Length: 11.3
+
+75:32 Pass | Event ID: 899
+Zone: Center
+Length: 11.5
+Angle: 4.9
+Pass End Y: 63.6
+Pass End X: 62.7
+
+75:35 Pass | Event ID: 900
+Angle: 2.1
+Pass End Y: 76.4
+Pass End X: 58.0
+Length: 10.0
+Zone: Center
+
+75:36 Pass | Event ID: 901
+Length: 22.5
+Zone: Center
+Pass End X: 54.2
+Pass End Y: 43.9
+Angle: 4.5
+
+75:38 Pass | Event ID: 902
+Angle: 4.9
+Pass End X: 58.3
+Zone: Right
+Pass End Y: 5.0
+Length: 26.2
+
+75:41 Pass | Event ID: 903
+Pass End X: 44.9
+Length: 18.3
+Zone: Back
+Angle: 2.4
+Pass End Y: 21.6
+
+75:43 Pass | Event ID: 904
+Pass End X: 53.0
+Zone: Center
+Length: 17.8
+Pass End Y: 45.4
+Angle: 1.0
+
+75:47 Pass | Event ID: 905
+Length: 16.5
+Zone: Center
+Pass End X: 67.2
+Pass End Y: 27.4
+Angle: 5.4
+
+75:49 Pass | Event ID: 906
+Pass End Y: 40.0
+Lay-off
+Zone: Center
+Angle: 2.4
+Pass End X: 57.7
+Length: 13.1
+
+75:51 Pass | Event ID: 907
+Length: 16.9
+Pass End Y: 67.8
+Pass End X: 65.9
+Angle: 1.0
+Zone: Center
+
+75:53 Pass | Event ID: 908
+Angle: 6.0
+Pass End X: 78.8
+Intentional assist
+Regular play
+Pass End Y: 63.1
+Assist
+Length: 12.9
+Zone: Center
+
+75:55 Challenge | Event ID: 602
+Q233: 909
+Q285
+Zone: Back
+
+75:55 Take On | Event ID: 909
+Zone: Center
+Q286
+Q233: 602
+
+75:57 Goal | Event ID: 910
+GK X Coordinate: 4.1
+Goal mouth z co-ordinate: 15.2
+Low left
+Zone: Center
+Assisted
+Regular play
+Related event ID: 908
+1 on 1
+Q254
+Intentional assist
+Box-centre
+Right footed
+GK Y Coordinate: 45.7
+Goal mouth y co-ordinate: 54.3
+Big Chance
+
+76:58 Pass | Event ID: 603
+Zone: Back
+Pass End X: 37.8
+Pass End Y: 50.3
+Angle: 3.1
+Length: 12.7
+Q279: G
+
+77:00 Pass | Event ID: 604
+Angle: 1.6
+Length: 26.8
+Pass End Y: 89.7
+Pass End X: 37.7
+Zone: Back
+
+77:03 Pass | Event ID: 605
+Pass End Y: 96.6
+Zone: Back
+Pass End X: 45.7
+Angle: 0.5
+Length: 8.6
+
+77:04 Pass | Event ID: 606
+Pass End X: 34.4
+Pass End Y: 94.5
+Angle: 3.3
+Zone: Back
+Length: 12.0
+
+77:07 Pass | Event ID: 607
+Zone: Left
+Angle: 6.2
+Pass End Y: 90.2
+Length: 18.5
+Pass End X: 52.6
+
+77:09 Pass | Event ID: 911
+Length: 7.1
+Zone: Back
+Angle: 4.1
+Pass End Y: 6.7
+Pass End X: 41.6
+
+77:10 Ball recovery | Event ID: 912
+
+77:10 Pass | Event ID: 913
+Zone: Back
+Length: 8.7
+Angle: 2.0
+Pass End X: 38.0
+Pass End Y: 18.2
+
+77:11 Pass | Event ID: 914
+Length: 20.8
+Angle: 1.0
+Zone: Back
+Pass End Y: 43.4
+Pass End X: 49.2
+
+77:13 Pass | Event ID: 915
+Length: 34.5
+Pass End X: 65.3
+Pass End Y: 90.2
+Zone: Left
+Long ball
+Angle: 1.1
+
+77:19 Pass | Event ID: 916
+Pass End Y: 53.3
+Zone: Center
+Pass End X: 68.6
+Angle: 4.6
+Length: 22.5
+
+77:21 Pass | Event ID: 917
+Pass End X: 57.1
+Length: 14.7
+Angle: 2.5
+Zone: Center
+Pass End Y: 65.7
+
+77:24 Pass | Event ID: 918
+Length: 30.1
+Pass End Y: 14.1
+Zone: Right
+Pass End X: 55.8
+Angle: 5.0
+
+77:28 Pass | Event ID: 919
+Pass End X: 58.3
+Angle: 5.1
+Length: 6.9
+Pass End Y: 4.7
+Zone: Right
+
+77:30 Pass | Event ID: 920
+Zone: Center
+Pass End Y: 23.3
+Length: 14.3
+Pass End X: 64.6
+Angle: 1.1
+
+77:31 Pass | Event ID: 921
+Length: 7.2
+Angle: 2.1
+Pass End X: 61.2
+Pass End Y: 32.5
+Zone: Center
+
+77:35 Pass | Event ID: 922
+Zone: Left
+Length: 26.6
+Angle: 1.2
+Pass End X: 76.0
+Pass End Y: 92.4
+
+77:42 Pass | Event ID: 923
+Zone: Center
+Pass End Y: 67.5
+Length: 21.1
+Pass End X: 70.1
+Angle: 4.2
+
+77:46 Pass | Event ID: 924
+Angle: 5.6
+Length: 21.2
+Zone: Center
+Pass End X: 85.9
+Pass End Y: 45.4
+Chipped
+Through ball
+
+77:47 Pass | Event ID: 608
+Pass End Y: 65.5
+Head pass
+Zone: Back
+Angle: 0.7
+Pass End X: 17.8
+Length: 9.6
+
+77:49 Ball recovery | Event ID: 609
+
+77:52 Pass | Event ID: 610
+Pass End Y: 94.4
+Zone: Back
+Launch
+Angle: 0.4
+Pass End X: 32.4
+Length: 32.6
+Long ball
+
+77:58 Pass | Event ID: 611
+Pass End Y: 83.6
+Length: 11.4
+Zone: Back
+Angle: 4.3
+Pass End X: 26.6
+
+78:00 Pass | Event ID: 612
+Length: 14.0
+Angle: 5.0
+Pass End Y: 63.6
+Pass End X: 30.6
+Zone: Back
+
+78:01 Pass | Event ID: 613
+Long ball
+Pass End X: 41.3
+Pass End Y: 3.7
+Angle: 5.0
+Zone: Back
+Length: 38.3
+
+78:09 Pass | Event ID: 614
+Switch of play
+Pass End X: 98.8
+Zone: Center
+Length: 66.8
+Chipped
+Pass End Y: 75.6
+Long ball
+Angle: 0.8
+
+78:14 Ball recovery | Event ID: 925
+
+78:19 Pass | Event ID: 926
+Zone: Back
+Pass End X: 28.7
+Pass End Y: 67.5
+Length: 32.6
+Angle: 0.9
+Long ball
+
+78:25 Pass | Event ID: 927
+Zone: Center
+Length: 25.2
+Pass End Y: 53.0
+Angle: 5.5
+Pass End X: 60.5
+
+78:28 Pass | Event ID: 928
+Pass End X: 65.8
+Length: 5.8
+Angle: 0.3
+Zone: Center
+Pass End Y: 55.4
+
+78:29 Pass | Event ID: 615
+Pass End Y: 27.6
+Angle: 5.4
+Pass End X: 35.4
+Head pass
+Zone: Back
+Length: 10.1
+
+78:31 Ball recovery | Event ID: 616
+
+78:31 Pass | Event ID: 617
+Angle: 1.4
+Length: 18.8
+Pass End Y: 57.8
+Zone: Back
+Pass End X: 36.2
+
+78:33 Pass | Event ID: 618
+Angle: 1.2
+Pass End Y: 93.2
+Length: 25.9
+Pass End X: 45.3
+Zone: Back
+
+78:38 Pass | Event ID: 619
+Angle: 0.1
+Pass End Y: 95.3
+Zone: Left
+Length: 13.4
+Pass End X: 58.0
+
+78:40 Pass | Event ID: 620
+Length: 7.2
+Pass End X: 52.6
+Pass End Y: 91.7
+Angle: 3.5
+Zone: Left
+
+78:41 Pass | Event ID: 621
+Angle: 6.0
+Zone: Left
+Pass End Y: 85.1
+Length: 14.9
+Pass End X: 66.1
+
+78:42 Pass | Event ID: 622
+Pass End Y: 85.0
+Length: 9.8
+Angle: 3.1
+Lay-off
+Pass End X: 56.8
+Zone: Left
+
+78:44 Pass | Event ID: 623
+Length: 26.2
+Angle: 0.4
+Pass End Y: 97.5
+Zone: Left
+Pass End X: 89.0
+
+78:49 Ball recovery | Event ID: 929
+
+78:51 Pass | Event ID: 930
+Chipped
+Pass End Y: 18.5
+Pass End X: 43.2
+Zone: Back
+Long ball
+Angle: 0.3
+Length: 39.2
+
+78:55 Pass | Event ID: 624
+Angle: 0.1
+Head pass
+Zone: Left
+Length: 7.4
+Pass End X: 58.9
+Pass End Y: 89.3
+
+78:56 Pass | Event ID: 931
+Pass End Y: 15.3
+Zone: Back
+Angle: 6.0
+Length: 5.6
+Pass End X: 41.6
+
+78:57 Ball recovery | Event ID: 625
+
+78:58 Pass | Event ID: 626
+Angle: 3.4
+Length: 5.6
+Pass End Y: 85.0
+Zone: Left
+Pass End X: 54.7
+
+78:59 Pass | Event ID: 627
+Angle: 2.6
+Pass End Y: 96.6
+Length: 7.2
+Zone: Left
+Pass End X: 52.7
+
+79:02 Pass | Event ID: 628
+Zone: Back
+Pass End Y: 80.9
+Angle: 3.7
+Pass End X: 33.5
+Length: 20.1
+
+79:04 Pass | Event ID: 629
+Zone: Back
+Angle: 4.8
+Length: 15.7
+Pass End X: 34.3
+Pass End Y: 62.3
+
+79:05 Pass | Event ID: 630
+Angle: 4.4
+Length: 15.1
+Zone: Back
+Pass End X: 29.9
+Pass End Y: 41.2
+
+79:08 Pass | Event ID: 631
+Pass End Y: 6.2
+Angle: 5.7
+Length: 22.7
+Pass End X: 55.6
+Zone: Right
+
+79:11 Pass | Event ID: 632
+Pass End X: 56.1
+Zone: Center
+Length: 13.6
+Pass End Y: 23.1
+Angle: 1.9
+
+79:14 Pass | Event ID: 633
+Length: 12.9
+Zone: Right
+Pass End Y: 8.0
+Angle: 5.6
+Pass End X: 67.9
+
+79:15 Ball recovery | Event ID: 932
+
+79:16 Pass | Event ID: 933
+Angle: 5.2
+Zone: Back
+Pass End Y: 86.6
+Length: 6.8
+Pass End X: 31.2
+
+79:17 Pass | Event ID: 934
+Length: 11.0
+Lay-off
+Zone: Back
+Pass End Y: 82.3
+Pass End X: 21.1
+Angle: 3.4
+
+79:18 Pass | Event ID: 935
+Pass End X: 36.1
+Zone: Back
+Pass End Y: 77.0
+Angle: 6.1
+Length: 16.2
+
+79:21 Pass | Event ID: 936
+Length: 20.0
+Zone: Left
+Angle: 0.6
+Pass End X: 52.7
+Pass End Y: 94.7
+
+79:23 Pass | Event ID: 937
+Pass End X: 58.2
+Zone: Left
+Angle: 5.2
+Length: 12.1
+Pass End Y: 79.1
+
+79:24 Pass | Event ID: 938
+Zone: Center
+Long ball
+Assist
+Pass End X: 79.1
+Chipped
+Pass End Y: 29.8
+Length: 39.7
+Angle: 5.3
+
+79:29 Attempt Saved | Event ID: 939
+Zone: Center
+Regular play
+Left footed
+Blocked y co-ordinate: 38.1
+Out of box-centre
+Assisted
+Related event ID: 938
+Blocked
+Blocked x co-ordinate: 84.5
+Individual Play
+Q233: 634
+
+79:29 Save | Event ID: 634
+Zone: Back
+Q233: 939
+Def block
+
+79:32 Dispossessed | Event ID: 940
+Q233: 635
+Q286
+Zone: Center
+
+79:32 Tackle | Event ID: 635
+Q285
+Q233: 940
+Zone: Back
+
+79:34 Pass | Event ID: 941
+Length: 7.1
+Pass End X: 66.7
+Pass End Y: 46.3
+Zone: Center
+Angle: 1.9
+
+79:35 Interception | Event ID: 636
+Zone: Back
+
+79:36 Pass | Event ID: 638
+Length: 10.7
+Angle: 0.7
+Zone: Back
+Pass End Y: 68.8
+Pass End X: 34.8
+
+79:36 Ball recovery | Event ID: 637
+
+79:37 Ball recovery | Event ID: 944
+
+79:38 Pass | Event ID: 942
+Pass End Y: 44.2
+Angle: 0.6
+Length: 7.6
+Pass End X: 65.1
+Zone: Center
+
+79:39 Pass | Event ID: 943
+Angle: 3.9
+Zone: Center
+Pass End Y: 42.3
+Pass End X: 61.1
+Length: 6.3
+
+79:40 Pass | Event ID: 1039
+Pass End X: 60.0
+Zone: Center
+Pass End Y: 58.2
+Angle: 2.0
+Length: 11.3
+
+79:42 Pass | Event ID: 945
+Pass End X: 64.7
+Angle: 5.3
+Pass End Y: 51.9
+Zone: Center
+Length: 7.5
+
+79:44 Pass | Event ID: 946
+Angle: 5.2
+Length: 5.7
+Pass End Y: 45.2
+Pass End X: 66.8
+Zone: Center
+
+79:45 Pass | Event ID: 947
+Length: 9.5
+Pass End X: 61.3
+Pass End Y: 34.0
+Angle: 4.1
+Zone: Center
+
+79:49 Ball touch | Event ID: 948
+Zone: Center
+
+79:51 Ball recovery | Event ID: 639
+
+79:53 Pass | Event ID: 640
+Zone: Back
+Length: 12.1
+Pass End Y: 44.5
+Angle: 0.5
+Pass End X: 37.5
+
+79:54 Pass | Event ID: 641
+Pass End Y: 32.7
+Zone: Back
+Angle: 4.1
+Length: 9.6
+Pass End X: 32.5
+
+79:56 Pass | Event ID: 642
+Pass End Y: 40.1
+Long ball
+Zone: Center
+Pass End X: 75.2
+Chipped
+Angle: 0.1
+Length: 42.8
+
+79:59 Pass | Event ID: 949
+Launch
+Zone: Back
+Angle: 0.8
+Pass End Y: 76.5
+Length: 19.6
+Pass End X: 41.5
+Long ball
+
+80:06 Take On | Event ID: 643
+Q286
+Q233: 950
+Zone: Center
+
+80:06 Challenge | Event ID: 950
+Q233: 643
+Q285
+Zone: Back
+
+80:08 Pass | Event ID: 644
+Zone: Center
+Pass End Y: 42.7
+Angle: 1.2
+Length: 6.9
+Pass End X: 74.0
+
+80:09 Ball touch | Event ID: 951
+Zone: Back
+
+80:18 Take On | Event ID: 645
+Zone: Left
+Q286
+Overrun
+
+80:21 Ball recovery | Event ID: 952
+
+80:21 Pass | Event ID: 953
+Angle: 0.3
+Zone: Back
+Pass End Y: 17.7
+Pass End X: 12.0
+Length: 8.2
+
+80:25 Pass | Event ID: 954
+Length: 22.9
+Angle: 5.6
+Pass End X: 31.6
+Zone: Back
+Pass End Y: 3.1
+
+80:32 Challenge | Event ID: 647
+Q285
+Q233: 955
+Zone: Left
+
+80:32 Take On | Event ID: 955
+Q233: 647
+Zone: Back
+Q286
+
+80:33 Challenge | Event ID: 646
+Q233: 958
+Zone: Left
+Q285
+
+80:33 Take On | Event ID: 958
+Zone: Back
+Q286
+Q233: 646
+
+80:34 Take On | Event ID: 956
+Zone: Right
+Q286
+Q233: 648
+
+80:34 Tackle | Event ID: 648
+Q285
+Q233: 956
+Zone: Back
+Out of play
+
+80:35 Out | Event ID: 649
+Q233: 957
+Zone: Back
+
+80:35 Out | Event ID: 957
+Zone: Right
+Q233: 649
+
+81:07 Player off | Event ID: 959
+Player position: Forward
+Tactical
+Related event ID: 960
+Jersey number: 21
+
+81:07 Player on | Event ID: 960
+Q292: 10
+Player position: Midfielder
+Formation slot: 9
+Tactical
+Related event ID: 959
+Q293: 3
+Jersey number: 17
+
+81:21 Player off | Event ID: 650
+Jersey number: 5
+Tactical
+Player position: Defender
+Related event ID: 651
+
+81:21 Player on | Event ID: 651
+Tactical
+Player position: Defender
+Q292: 3
+Formation slot: 5
+Q293: 2
+Related event ID: 650
+Jersey number: 17
+
+81:27 Formation change | Event ID: 652
+Jersey number: 13, 3, 15, 6, 17, 18, 19, 20, 8, 23, 11, 1, 9, 22, 24
+Team formation: 4
+Captain: 55315
+Team player formation: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0, 0, 0, 0
+Q319
+Player position: 1, 2, 2, 3, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 5
+Involved: 89535, 112540, 171129, 87803, 55315, 88621, 183462, 116252, 131416, 76640, 109707, 120112, 86137, 40837, 90407
+
+81:38 Pass | Event ID: 961
+Pass End X: 55.2
+Pass End Y: 14.1
+Length: 11.3
+Zone: Right
+Angle: 1.9
+Throw-in
+
+81:40 Pass | Event ID: 962
+Pass End Y: 4.6
+Angle: 5.1
+Length: 6.9
+Zone: Right
+Pass End X: 57.5
+
+81:41 Pass | Event ID: 963
+Pass End Y: 59.9
+Length: 38.2
+Pass End X: 51.0
+Zone: Center
+Angle: 1.8
+Long ball
+Chipped
+
+81:46 Pass | Event ID: 964
+Angle: 1.3
+Pass End X: 57.0
+Length: 24.4
+Pass End Y: 94.5
+Zone: Left
+
+81:51 Foul | Event ID: 653
+Q152
+Q233: 965
+Foul
+Zone: Back
+Q285
+Q265
+
+81:51 Foul | Event ID: 965
+Q233: 653
+Q265
+Zone: Left
+Q152
+Foul
+Q286
+
+81:58 Card | Event ID: 654
+Yellow Card
+Foul: 243
+
+82:15 Pass | Event ID: 966
+Angle: 5.5
+Length: 8.1
+Pass End Y: 85.1
+Player not visible
+Q152
+Pass End X: 58.9
+Zone: Left
+Free kick taken
+
+82:16 Pass | Event ID: 967
+Length: 31.9
+Zone: Left
+Pass End Y: 86.9
+Pass End X: 89.3
+Angle: 0.0
+
+82:19 Interception | Event ID: 655
+Zone: Back
+
+82:22 Out | Event ID: 656
+Q233: 968
+Zone: Back
+
+82:22 Out | Event ID: 968
+Q233: 656
+Zone: Left
+
+82:37 Pass | Event ID: 969
+Throw-in
+Pass End Y: 87.7
+Pass End X: 83.0
+Length: 10.0
+Angle: 4.5
+Zone: Left
+
+82:40 Pass | Event ID: 970
+Pass End Y: 85.6
+Pass End X: 83.4
+Angle: 3.9
+Zone: Left
+Length: 5.9
+
+82:41 Ball recovery | Event ID: 657
+
+82:41 Pass | Event ID: 658
+Pass End X: 25.1
+Length: 16.6
+Zone: Back
+Pass End Y: 6.2
+Angle: 5.8
+
+82:45 Foul | Event ID: 659
+Q285
+Q152
+Q233: 971
+Foul
+Zone: Back
+Q265
+
+82:45 Foul | Event ID: 971
+Q265
+Foul
+Q233: 659
+Q152
+Zone: Left
+Q286
+
+83:32 Start delay | Event ID: 660
+Injury: Injury
+Q233: 972
+Injured player id: 76640
+
+83:32 Start delay | Event ID: 972
+Q233: 660
+
+84:04 End delay | Event ID: 661
+Q233: 973
+Related event ID: 660
+
+84:04 End delay | Event ID: 973
+Related event ID: 972
+Q233: 661
+
+84:17 Pass | Event ID: 662
+Angle: 2.2
+Length: 13.5
+Pass End Y: 20.6
+Pass End X: 21.6
+Zone: Back
+Q152
+Free kick taken
+
+84:19 Pass | Event ID: 663
+Angle: 5.4
+Zone: Back
+Pass End Y: 4.1
+Length: 14.7
+Pass End X: 30.6
+
+84:21 Pass | Event ID: 664
+Length: 17.4
+Angle: 2.5
+Pass End Y: 20.3
+Zone: Back
+Pass End X: 17.8
+
+84:23 Pass | Event ID: 665
+Length: 18.0
+Zone: Back
+Angle: 2.1
+Pass End Y: 43.6
+Pass End X: 9.7
+
+84:25 Pass | Event ID: 666
+Zone: Back
+Pass End Y: 22.4
+Pass End X: 41.5
+Length: 36.4
+Angle: 5.9
+Launch
+Long ball
+
+84:28 Pass | Event ID: 667
+Pass End Y: 29.2
+Pass End X: 33.2
+Angle: 2.7
+Length: 10.4
+Zone: Back
+Lay-off
+
+84:31 Pass | Event ID: 668
+Long ball
+Pass End X: 49.1
+Angle: 1.2
+Chipped
+Zone: Back
+Pass End Y: 91.3
+Switch of play
+Length: 44.4
+
+84:35 Pass | Event ID: 669
+Zone: Center
+Length: 37.1
+Long ball
+Pass End Y: 51.0
+Chipped
+Angle: 5.4
+Pass End X: 80.4
+
+84:37 Keeper Sweeper | Event ID: 974
+Zone: Back
+
+84:38 Clearance | Event ID: 975
+Length: 49.6
+Angle: 5.9
+Zone: Center
+Pass End Y: 22.4
+Pass End X: 61.6
+
+84:42 Pass | Event ID: 670
+Head pass
+Pass End Y: 83.0
+Length: 16.7
+Pass End X: 39.6
+Zone: Back
+Angle: 6.3
+
+84:44 Dispossessed | Event ID: 976
+Zone: Center
+Q286
+Q233: 671
+
+84:44 Tackle | Event ID: 671
+Q233: 976
+Zone: Back
+Q285
+
+84:48 Pass | Event ID: 672
+Angle: 3.5
+Pass End X: 34.2
+Zone: Back
+Length: 7.3
+Pass End Y: 95.1
+
+84:49 Pass | Event ID: 677
+Pass End X: 34.6
+Length: 5.9
+Pass End Y: 98.4
+Angle: 2.4
+Zone: Back
+
+84:53 Foul | Event ID: 673
+Foul
+Q294
+Q152
+Q233: 977
+Zone: Back
+Q286
+
+84:53 Foul | Event ID: 977
+Q285
+Q152
+Foul
+Q233: 673
+Zone: Right
+Q294
+
+84:58 Pass | Event ID: 674
+Zone: Back
+Pass End Y: 73.6
+Pass End X: 36.4
+Free kick taken
+Q152
+Length: 15.5
+Angle: 4.9
+
+85:02 Pass | Event ID: 675
+Long ball
+Angle: 0.3
+Pass End Y: 74.1
+Zone: Center
+Pass End X: 73.9
+Length: 32.9
+Chipped
+
+85:04 Pass | Event ID: 978
+Pass End Y: 34.5
+Zone: Back
+Angle: 2.9
+Head pass
+Length: 23.1
+Pass End X: 2.8
+
+85:07 Keeper pick-up | Event ID: 979
+
+85:13 Pass | Event ID: 980
+Pass End Y: 96.5
+Zone: Back
+Keeper Throw
+Angle: 0.9
+Pass End X: 36.7
+Length: 40.3
+Q287
+Long ball
+
+85:16 Pass | Event ID: 981
+Pass End Y: 72.1
+Pass End X: 20.4
+Angle: 3.9
+Zone: Back
+Length: 23.9
+
+85:19 Pass | Event ID: 982
+Angle: 6.1
+Pass End Y: 68.8
+Length: 10.9
+Pass End X: 30.6
+Zone: Back
+
+85:20 Pass | Event ID: 983
+Pass End Y: 28.3
+Angle: 4.6
+Zone: Back
+Length: 27.7
+Pass End X: 27.8
+
+85:25 Pass | Event ID: 984
+Length: 15.3
+Pass End X: 37.0
+Pass End Y: 4.0
+Zone: Back
+Angle: 5.1
+
+85:27 Pass | Event ID: 985
+Length: 6.2
+Angle: 6.0
+Zone: Back
+Pass End Y: 2.8
+Pass End X: 45.0
+
+85:29 Pass | Event ID: 986
+Pass End Y: 4.7
+Length: 7.5
+Angle: 3.0
+Zone: Back
+Pass End X: 38.0
+
+85:30 Pass | Event ID: 987
+Pass End X: 40.6
+Pass End Y: 23.4
+Length: 12.5
+Zone: Back
+Angle: 1.3
+
+85:32 Pass | Event ID: 988
+Zone: Back
+Length: 28.0
+Angle: 1.7
+Pass End X: 36.2
+Pass End Y: 65.5
+
+85:35 Pass | Event ID: 989
+Length: 27.1
+Pass End Y: 94.5
+Pass End X: 55.8
+Angle: 0.8
+Zone: Left
+
+85:38 Pass | Event ID: 990
+Pass End Y: 76.9
+Angle: 5.3
+Zone: Center
+Pass End X: 67.9
+Length: 11.9
+
+85:41 Pass | Event ID: 991
+Zone: Center
+Pass End Y: 49.4
+Angle: 5.1
+Pass End X: 73.5
+Length: 10.1
+
+85:45 Foul | Event ID: 676
+Q285
+Zone: Back
+Q233: 992
+Foul
+Q152
+Q265
+
+85:45 Foul | Event ID: 992
+Zone: Center
+Q233: 676
+Q265
+Foul
+Q286
+Q152
+
+86:49 Miss | Event ID: 993
+Left footed
+Out of box-centre
+Goal mouth z co-ordinate: 12.5
+Swerve Right
+Free kick
+Goal mouth y co-ordinate: 42.7
+Zone: Center
+Close right
+
+86:51 Out | Event ID: 678
+Zone: Back
+Q233: 994
+
+86:51 Out | Event ID: 994
+Zone: Center
+Q233: 678
+
+87:13 Pass | Event ID: 679
+Pass End Y: 30.1
+Goal Kick
+Pass End X: 34.6
+Long ball
+High
+Angle: 5.8
+Zone: Back
+Length: 34.3
+
+87:15 Ball recovery | Event ID: 995
+
+87:15 Pass | Event ID: 996
+Angle: 1.6
+Pass End X: 62.3
+Zone: Center
+Pass End Y: 74.8
+Length: 5.4
+
+87:16 Pass | Event ID: 997
+Length: 16.2
+Angle: 5.8
+Pass End X: 75.9
+Pass End Y: 64.2
+Zone: Center
+
+87:20 Tackle | Event ID: 703
+Q285
+Q233: 998
+Zone: Back
+
+87:20 Dispossessed | Event ID: 998
+Q286
+Zone: Center
+Q233: 703
+
+87:21 Ball recovery | Event ID: 681
+
+87:22 Deleted event | Event ID: 680
+Zone: Back
+Q285
+Deleted event type: 7
+
+87:23 Pass | Event ID: 682
+Pass End X: 35.2
+Zone: Back
+Pass End Y: 32.2
+Angle: 4.8
+Length: 6.4
+
+87:26 Pass | Event ID: 683
+Length: 14.5
+Pass End Y: 51.3
+Angle: 2.0
+Zone: Back
+Pass End X: 29.6
+
+87:28 Pass | Event ID: 684
+Pass End X: 41.7
+Zone: Back
+Angle: 0.9
+Length: 19.9
+Pass End Y: 73.8
+
+87:32 Pass | Event ID: 685
+Pass End X: 41.2
+Zone: Back
+Pass End Y: 95.9
+Angle: 1.4
+Length: 14.7
+
+87:33 Pass | Event ID: 686
+Angle: 3.5
+Pass End X: 34.8
+Length: 9.3
+Zone: Back
+Pass End Y: 90.3
+
+87:34 Pass | Event ID: 687
+Pass End X: 27.7
+Zone: Back
+Length: 15.0
+Angle: 4.2
+Pass End Y: 72.3
+
+87:38 Pass | Event ID: 688
+Angle: 4.9
+Zone: Back
+Pass End Y: 26.1
+Length: 24.0
+Pass End X: 34.9
+
+87:41 Pass | Event ID: 689
+Zone: Right
+Angle: 5.6
+Pass End X: 57.4
+Length: 18.6
+Pass End Y: 3.1
+
+87:46 Pass | Event ID: 690
+Pass End X: 66.6
+Pass End Y: 10.4
+Zone: Right
+Length: 9.4
+Angle: 0.5
+
+87:47 Pass | Event ID: 691
+Zone: Right
+Length: 4.6
+Pass End Y: 9.1
+Angle: 3.2
+Pass End X: 65.1
+
+87:48 Ball recovery | Event ID: 999
+
+87:57 Pass | Event ID: 1000
+Zone: Back
+Angle: 4.8
+Length: 28.5
+Pass End X: 7.5
+Pass End Y: 44.9
+
+88:01 Pass | Event ID: 1001
+Pass End Y: 23.9
+Length: 14.3
+Zone: Back
+Pass End X: 7.4
+Angle: 4.7
+
+88:04 Pass | Event ID: 1002
+Chipped
+Pass End X: 36.5
+Pass End Y: 0.0
+Length: 35.3
+Zone: Back
+Angle: 5.8
+Long ball
+
+88:06 Out | Event ID: 692
+Zone: Left
+Q233: 1003
+
+88:06 Out | Event ID: 1003
+Zone: Back
+Q233: 692
+
+88:12 Pass | Event ID: 693
+Angle: 4.4
+Pass End Y: 79.3
+Pass End X: 51.2
+Throw-in
+Zone: Left
+Length: 16.0
+
+88:13 Pass | Event ID: 694
+Length: 13.6
+Pass End Y: 59.1
+Angle: 4.8
+Pass End X: 52.1
+Zone: Center
+
+88:16 Pass | Event ID: 695
+Zone: Back
+Pass End X: 39.8
+Length: 20.8
+Angle: 2.2
+Pass End Y: 83.6
+
+88:20 Pass | Event ID: 696
+Angle: 5.0
+Length: 15.2
+Zone: Back
+Pass End X: 42.6
+Pass End Y: 61.2
+
+88:26 Pass | Event ID: 697
+Angle: 1.1
+Length: 19.4
+Pass End Y: 97.8
+Pass End X: 52.9
+Zone: Left
+
+88:29 Pass | Event ID: 698
+Length: 12.1
+Pass End X: 38.0
+Angle: 3.8
+Pass End Y: 86.3
+Zone: Back
+
+88:35 Take On | Event ID: 699
+Zone: Back
+Q286
+Q233: 1004
+
+88:35 Challenge | Event ID: 1004
+Zone: Back
+Q285
+Q233: 699
+
+88:36 Take On | Event ID: 700
+Q233: 1005
+Zone: Center
+Q286
+
+88:36 Tackle | Event ID: 1005
+Q233: 700
+Q285
+Zone: Back
+
+88:38 Pass | Event ID: 701
+Length: 11.0
+Pass End X: 44.9
+Pass End Y: 42.7
+Zone: Back
+Angle: 3.5
+
+88:39 Ball recovery | Event ID: 1006
+
+88:43 Pass | Event ID: 1007
+Angle: 5.2
+Length: 28.1
+Zone: Right
+Pass End Y: 10.0
+Pass End X: 84.4
+
+88:48 Pass | Event ID: 1008
+Zone: Center
+Pass End Y: 25.6
+Length: 11.0
+Angle: 1.9
+Pass End X: 81.0
+
+88:49 Offside provoked | Event ID: 702
+
+88:49 Offside Pass | Event ID: 1009
+Players caught offside: 60025
+Pass End Y: 28.5
+Pass End X: 94.3
+Zone: Center
+
+88:52 Deleted event | Event ID: 1010
+Zone: Center
+Q286
+Deleted event type: 50
+
+89:17 Pass | Event ID: 704
+Free kick taken
+Pass End Y: 82.0
+Pass End X: 53.6
+Angle: 0.1
+Q152
+Length: 43.9
+Launch
+Zone: Left
+Long ball
+
+89:21 Pass | Event ID: 705
+Pass End Y: 51.2
+Length: 19.4
+Angle: 4.7
+Zone: Center
+Head pass
+Pass End X: 53.8
+
+89:23 Ball recovery | Event ID: 1011
+
+89:23 Pass | Event ID: 1012
+Pass End X: 57.4
+Zone: Left
+Pass End Y: 88.9
+Length: 29.3
+Angle: 1.1
+
+89:27 Pass | Event ID: 1013
+Length: 71.7
+Zone: Right
+Switch of play
+Pass End X: 96.7
+Long ball
+Angle: 5.3
+Pass End Y: 0.0
+Chipped
+
+89:32 Out | Event ID: 706
+Zone: Back
+Q233: 1014
+
+89:32 Out | Event ID: 1014
+Q233: 706
+Zone: Right
+
+89:45 Pass | Event ID: 707
+Throw-in
+Zone: Back
+Pass End X: 18.5
+Pass End Y: 95.7
+Length: 14.3
+Angle: 6.0
+
+89:46 Pass | Event ID: 708
+Pass End X: 9.7
+Length: 9.1
+Zone: Back
+Pass End Y: 96.3
+Angle: 3.1
+
+89:48 Pass | Event ID: 709
+Pass End Y: 75.6
+Angle: 6.0
+Zone: Center
+Launch
+Length: 57.8
+Long ball
+Pass End X: 63.1
+
+89:52 Ball recovery | Event ID: 1015
+
+89:52 Pass | Event ID: 1016
+Pass End X: 9.5
+Angle: 2.7
+Long ball
+Zone: Back
+Pass End Y: 39.8
+Length: 38.3
+
+89:55 Pass | Event ID: 1017
+Pass End Y: 83.8
+Zone: Back
+Length: 35.7
+Pass End X: 28.8
+Angle: 1.0
+Long ball
+
+89:59 Pass | Event ID: 1018
+Length: 18.2
+Angle: 5.4
+Pass End Y: 63.6
+Pass End X: 40.8
+Zone: Back
+
+90:02 undefined | Event ID: 711
+Q277: 2
+
+90:03 Pass | Event ID: 1019
+Long ball
+Length: 54.6
+Zone: Right
+Pass End X: 80.2
+Chipped
+Angle: 5.5
+Pass End Y: 0.0
+
+90:06 Out | Event ID: 710
+Q233: 1020
+Zone: Back
+
+90:06 Out | Event ID: 1020
+Q233: 710
+Zone: Right
+
+90:19 Pass | Event ID: 712
+Zone: Back
+Angle: 5.7
+Length: 10.9
+Pass End X: 28.8
+Pass End Y: 92.7
+Throw-in
+
+90:22 Dispossessed | Event ID: 713
+Q233: 1021
+Zone: Back
+Q285
+
+90:22 Tackle | Event ID: 1021
+Q233: 713
+Q286
+Zone: Right
+
+90:23 Pass | Event ID: 714
+Zone: Back
+Pass End X: 20.6
+Length: 8.7
+Angle: 3.2
+Pass End Y: 93.5
+
+90:24 Pass | Event ID: 715
+Zone: Back
+Pass End X: 26.6
+Pass End Y: 79.1
+Length: 11.6
+Angle: 5.3
+
+90:25 Pass | Event ID: 716
+Pass End X: 38.2
+Pass End Y: 80.3
+Angle: 0.0
+Zone: Back
+Length: 10.2
+
+90:28 Pass | Event ID: 717
+Angle: 4.8
+Zone: Back
+Pass End X: 43.6
+Length: 3.3
+Pass End Y: 75.7
+
+90:29 Ball recovery | Event ID: 1022
+
+90:30 Pass | Event ID: 1023
+Pass End X: 43.4
+Angle: 2.8
+Pass End Y: 30.3
+Length: 19.6
+Zone: Back
+
+90:32 Pass | Event ID: 1024
+Length: 30.9
+Angle: 1.1
+Pass End X: 56.1
+Zone: Center
+Pass End Y: 71.2
+Chipped
+
+90:35 Challenge | Event ID: 718
+Q233: 1025
+Q285
+Zone: Back
+
+90:35 Take On | Event ID: 1025
+Zone: Center
+Q286
+Q233: 718
+
+90:37 Foul | Event ID: 719
+Q233: 1026
+Zone: Back
+Foul
+Q295
+Q285
+Q152
+
+90:37 Foul | Event ID: 1026
+Q286
+Q233: 719
+Foul
+Zone: Center
+Q295
+Q152
+
+90:42 Card | Event ID: 720
+Yellow Card
+Foul: 243
+
+91:32 Miss | Event ID: 1027
+Free kick
+Goal mouth z co-ordinate: 54.2
+Right footed
+High right
+Zone: Center
+Out of box-centre
+Goal mouth y co-ordinate: 32.3
+
+91:34 Out | Event ID: 721
+Zone: Back
+Q233: 1028
+
+91:34 Out | Event ID: 1028
+Zone: Center
+Q233: 721
+
+91:54 Pass | Event ID: 722
+Goal Kick
+Zone: Back
+Length: 24.6
+Angle: 4.8
+Pass End Y: 16.8
+Pass End X: 7.1
+Q237
+
+91:56 Pass | Event ID: 723
+Zone: Back
+Pass End Y: 37.9
+Angle: 1.9
+Pass End X: 3.2
+Length: 15.2
+
+91:58 Pass | Event ID: 724
+Length: 25.3
+Zone: Back
+Pass End X: 24.8
+Pass End Y: 21.3
+Angle: 5.8
+
+92:02 End | Event ID: 725
+Game end
+End type
+
+92:02 End | Event ID: 1029
+Game end
+End type
+
+00:00 End | Event ID: 726
+Game end
+End type: 1
+
+00:00 Collection End | Event ID: 727
+
+00:00 End | Event ID: 1030
+Game end
+End type: 1
+
+00:00 Collection End | Event ID: 1031
+
+00:00 Condition change | Event ID: 528
+Q255
+Q256
+Q257
+Q47: 4
+Q259
+Q46: 5
+Attendance figure: 74269
