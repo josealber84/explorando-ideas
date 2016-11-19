@@ -34,3 +34,4 @@ Y nada más, simplemente me ha venido esta idea a la mente.
 - http://nutritionfacts.org/
 - https://www.kaggle.com/bls/eating-health-module-dataset
 - https://www.kaggle.com/theworldbank/health-nutrition-and-population-statistics
+- https://www.kaggle.com/openfoodfacts/world-food-facts
