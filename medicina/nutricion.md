@@ -27,3 +27,10 @@ Pero claro, ahora vienen las barreras que se me ocurren:
 - Veo dificultades en contrastar la veracidad y fiabilidad de la información, tanto de comida como de análisis.  Es decir, hay que fiarse de la buena voluntad de la gente, pero bajo un supuesto en que esto estuviera en marcha, cómo se podría evitar la inyección de información falsa por parte de grandes corporaciones?
 
 Y nada más, simplemente me ha venido esta idea a la mente.
+
+
+## Enlaces
+
+- http://nutritionfacts.org/
+- https://www.kaggle.com/bls/eating-health-module-dataset
+- https://www.kaggle.com/theworldbank/health-nutrition-and-population-statistics
