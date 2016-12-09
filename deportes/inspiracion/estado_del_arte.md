@@ -7,3 +7,5 @@
 - [Current Approaches to Tactical Performance Analyses in Soccer Using Position Data](http://link.springer.com/article/10.1007/s40279-016-0562-5). También muy buena pinta, y también de pago :(
 
 - [Enhancing Parallel Coordinates: Statistical Visualizations for Analyzing Soccer Data](http://docserver.ingentaconnect.com/deliver/connect/ist/24701173/v2016n1/s11.pdf?expires=1478686130&id=89127528&titleid=72010604&accname=Guest+User&checksum=44B611CABB0EC4804942BAA1B0A5A84F). Menos interesante. Es sólo sobre representación gráfica. Pero al menos es gratis :P
+
+- Ejemplo de script que obtiene, analiza y aplica forests para predecir: https://www.kaggle.com/rakshitverma/d/hugomathien/soccer/predicting-match-outcome-using-whatever-we-have
