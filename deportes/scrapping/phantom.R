@@ -78,7 +78,7 @@ source %>%
   html_children() %>% 
   html_attrs() %>% unlist() %>% extract(. != "") -> selector_values_home
 
-# Take first selector options (events home team)
+# Take first selector options (events away team)
 source %>% 
   html_node(xpath = "//select[@id='goal-replay-0-away']") %>% 
   html_children() %>% 
@@ -131,14 +131,67 @@ for(row in 1:nrow(home_events)){
       
   })
   
-  cat("Sleep for 5 seconds...")
+  cat("Sleep for 5 seconds...", fill = T)
   Sys.sleep(5)
 }
 
 home_events_2 <- do.call(rbind, subevents)
-write.csv(x = home_events_2, file = "eventos.csv")
+
+
+# Get subevent data for each home-event
+away_events <- events %>% filter(event_team == "away")
+subevents <- list()
+for(row in 1:nrow(away_events)){
+  
+  cat(paste0("Getting detailed data for event ", away_events$event_id[row],
+             ": ", away_events$event_action[row]), "...", fill = T)
+  
+  try({
+    
+    # Reload the web page to avoid the "refresh trap"
+    # (the page has an automatic reload script)
+    rem$navigate(url)
+    
+    # Change selector option
+    option <- away_events$selector_value[row]
+    option_to_click <- 
+      rem$findElement(using = 'xpath', 
+                      value = paste0("//select[@id='goal-replay-0-away']",
+                                     "/option[@value = '", option, "']"))
+    option_to_click$clickElement()
+    
+    # Get interesting data
+    event_source <- rem$getPageSource()[[1]] %>% read_html()
+    event_source %>% 
+      html_node(xpath = "//*[starts-with(@id, 'goalreplay-events')]/table") %>% 
+      html_table() %>% 
+      rename(subevent_time = X1,
+             player_number = X2,
+             player_name = X3,
+             player_team = X4,
+             subevent_action = X5) %>% 
+      mutate(event_id = away_events$event_id[row]) -> subevents_df
+    
+    # Join to event data and save
+    subevents_df %<>%
+      left_join(events, by = "event_id")
+    
+    subevents <- append(subevents, list(subevents_df))
+    
+  })
+  
+  cat("Sleep for 5 seconds...", fill = T)
+  Sys.sleep(5)
+}
+
+away_events_2 <- do.call(rbind, subevents)
+
+
+
+write.csv(x = home_events_2 %>% rbind(away_events_2), file = "eventos.csv")
 
 # rem$screenshot(file = "shot.png")
+knitr::kable(home_events_2 %>% rbind(away_events_2))
 
 # Stop phantom
 pjs$stop()
